@@ -1,74 +1,40 @@
 import { useState, useEffect } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
 import { 
   MapPin, 
   Database, 
   Search, 
   Users, 
-  Globe, 
-  Settings,
-  BarChart3,
-  Download,
-  Upload,
-  RefreshCw,
-  Activity,
-  Shield,
-  Clock,
-  Eye,
-  Edit,
-  Trash2,
-  Plus,
-  ChevronRight,
-  LogOut
+  Globe
 } from 'lucide-react';
-import { LocationService, AuthService } from '../services/staticLocationService';
+import { LocationService } from '../services/staticLocationService';
 
 interface AdminPanelProps {
-  user: any;
   onLogout: () => void;
 }
 
-export default function AdminPanel({ user, onLogout }: AdminPanelProps) {
-  const [stats, setStats] = useState({
-    totalStates: 0,
-    totalDistricts: 0,
-    totalPincodes: 0,
-    lastUpdated: ''
-  });
+export default function AdminPanel({ onLogout }: AdminPanelProps) {
+  const [stats, setStats] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const loadStats = async () => {
-      try {
-        const statesResponse = await LocationService.getStates();
-        
-        setStats({
-          totalStates: statesResponse.data?.length || 36,
-          totalDistricts: 750, // Approximate number of districts in India
-          totalPincodes: 527000, // Approximate number from our data
-          lastUpdated: new Date().toLocaleDateString()
-        });
-      } catch (error) {
-        console.error('Failed to load stats:', error);
-        setStats({
-          totalStates: 36, // Fallback data
-          totalDistricts: 750,
-          totalPincodes: 527000,
-          lastUpdated: new Date().toLocaleDateString()
-        });
-      } finally {
-        setIsLoading(false);
-      }
-    };
-
-    loadStats();
+    loadData();
   }, []);
 
-  const handleLogout = () => {
-    AuthService.logout();
-    onLogout();
+  const loadData = async () => {
+    setIsLoading(true);
+    try {
+      // Load real statistics
+      const statsResult = await LocationService.getStats();
+      if (statsResult.success) {
+        setStats(statsResult.data);
+      }
+    } catch (error) {
+      console.error('Error loading admin data:', error);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   if (isLoading) {
@@ -219,6 +185,13 @@ export default function AdminPanel({ user, onLogout }: AdminPanelProps) {
               <Button className="w-full">View Stats</Button>
             </CardContent>
           </Card>
+        </div>
+        
+        {/* Logout Button */}
+        <div className="mt-8 flex justify-end">
+          <Button variant="outline" onClick={onLogout}>
+            Logout
+          </Button>
         </div>
       </div>
     </div>

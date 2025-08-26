@@ -126,7 +126,7 @@ function App() {
       case 'login':
         return <LoginPage onLoginSuccess={handleLoginSuccess} />;
       case 'admin':
-        return user ? <AdminPanel user={user} onLogout={handleLogout} /> : <LoginPage onLoginSuccess={handleLoginSuccess} />;
+        return user ? <AdminPanel onLogout={handleLogout} /> : <LoginPage onLoginSuccess={handleLoginSuccess} />;
       case 'docs':
         return <DocsPage />;
       default:

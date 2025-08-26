@@ -83,7 +83,10 @@ export class LocationService {
   // Search locations
   static async searchLocations(query: string, limit: number = 50): Promise<ApiResponse<Location[]>> {
     try {
-      const searchTerm = query.toLowerCase();
+      const searchTerm = query.toLowerCase().trim();
+      if (!searchTerm) {
+        return { success: true, data: [] };
+      }
       
       // Search in local data if available (for admin)
       if (this.localData.length > 0) {
@@ -103,33 +106,118 @@ export class LocationService {
         };
       }
 
-      // Fallback to API search
-      const firstLetter = searchTerm.charAt(0);
-      if (!firstLetter.match(/[a-z0-9]/)) {
-        return { success: true, data: [] };
+      // Improved search across multiple letter files for comprehensive results
+      const allResults: any[] = [];
+      const searchLetters = this.getSearchLetters(searchTerm);
+      
+      console.log(`Searching for "${searchTerm}" in files:`, searchLetters);
+      
+      for (const letter of searchLetters) {
+        try {
+          const response = await fetch(`${this.baseUrl}/api/search/${letter}.json`);
+          if (response.ok) {
+            const data = await response.json();
+            if (data.locations) {
+              const matchingLocations = data.locations.filter((location: any) => {
+                const locationText = [
+                  location.villageName || '',
+                  location.districtName || '',
+                  location.talukaName || '',
+                  location.stateName || '',
+                  location.searchText || ''
+                ].join(' ').toLowerCase();
+                
+                return locationText.includes(searchTerm) ||
+                       (location.uniqueCode && location.uniqueCode.toLowerCase().includes(searchTerm));
+              });
+              
+              allResults.push(...matchingLocations);
+            }
+          }
+        } catch (error) {
+          console.warn(`Failed to search in ${letter}.json:`, error);
+          continue;
+        }
       }
 
-      const response = await fetch(`${this.baseUrl}/api/search/${firstLetter}.json`);
-      const data = await response.json();
+      // Remove duplicates and sort by relevance
+      const uniqueResults = this.removeDuplicatesAndSort(allResults, searchTerm);
       
-      const filteredResults = data.locations
-        .filter((location: any) => 
-          location.searchText?.includes(searchTerm) ||
-          location.villageName.toLowerCase().includes(searchTerm) ||
-          location.uniqueCode.toLowerCase().includes(searchTerm)
-        )
-        .slice(0, limit);
-
       return {
         success: true,
-        data: filteredResults
+        data: uniqueResults.slice(0, limit)
       };
     } catch (error) {
+      console.error('Search error:', error);
       return {
         success: false,
         error: 'Failed to search locations'
       };
     }
+  }
+
+  // Helper method to determine which letter files to search
+  private static getSearchLetters(searchTerm: string): string[] {
+    const letters = new Set<string>();
+    
+    // Add first letter
+    const firstChar = searchTerm.charAt(0);
+    if (firstChar.match(/[a-z0-9]/)) {
+      letters.add(firstChar);
+    }
+    
+    // Add letters from each word
+    const words = searchTerm.split(/\s+/);
+    words.forEach(word => {
+      const firstChar = word.charAt(0);
+      if (firstChar.match(/[a-z0-9]/)) {
+        letters.add(firstChar);
+      }
+    });
+    
+    // If still no letters found, search common ones
+    if (letters.size === 0) {
+      return ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+    }
+    
+    return Array.from(letters);
+  }
+
+  // Helper method to remove duplicates and sort by relevance
+  private static removeDuplicatesAndSort(results: any[], searchTerm: string): any[] {
+    const seen = new Set();
+    const unique = results.filter(location => {
+      const key = `${location.stateName}-${location.districtName}-${location.talukaName}-${location.villageName}`;
+      if (seen.has(key)) {
+        return false;
+      }
+      seen.add(key);
+      return true;
+    });
+
+    // Sort by relevance (exact matches first, then partial matches)
+    return unique.sort((a, b) => {
+      const aText = a.villageName.toLowerCase();
+      const bText = b.villageName.toLowerCase();
+      
+      // Exact matches first
+      if (aText === searchTerm && bText !== searchTerm) return -1;
+      if (bText === searchTerm && aText !== searchTerm) return 1;
+      
+      // Starts with search term
+      if (aText.startsWith(searchTerm) && !bText.startsWith(searchTerm)) return -1;
+      if (bText.startsWith(searchTerm) && !aText.startsWith(searchTerm)) return 1;
+      
+      // Contains search term (closer to beginning is better)
+      const aIndex = aText.indexOf(searchTerm);
+      const bIndex = bText.indexOf(searchTerm);
+      
+      if (aIndex !== -1 && bIndex !== -1) {
+        return aIndex - bIndex;
+      }
+      
+      return aText.localeCompare(bText);
+    });
   }
 
   // Get statistics

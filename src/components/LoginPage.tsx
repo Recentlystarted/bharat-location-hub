@@ -2,19 +2,7 @@ import { useState, useCallback } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
-import { 
-  Lock, 
-  Mail, 
-  Shield, 
-  Eye, 
-  EyeOff,
-  User,
-  LogIn,
-  AlertCircle
-} from 'lucide-react';
 import { AuthService } from '../services/staticLocationService';
-import logoImage from '/logo.png';
 
 interface LoginPageProps {
   onLoginSuccess: (user: any) => void;
