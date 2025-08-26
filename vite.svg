@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .navy { fill: rgba(17,28,57,1.000); }
+      .white { fill: rgba(255,255,255,1.000); }
+      .saffron { stroke: rgba(255,103,31,1.000); stroke-width: 17; fill: none; }
+      .green { fill: rgba(4,106,56,1.000); }
+    </style>
+  </defs>
+  <circle cx="512" cy="512" r="368" class="navy"/>
+  <path d="M 189 512 A 323 323 0 0 1 835 512" class="saffron" transform="rotate(-30 512 512)"/>
+  <circle cx="512" cy="512" r="228" class="white"/>
+  <circle cx="512" cy="512" r="118" class="navy"/>
+  <polygon points="512,1008 387,659 637,659" class="green"/>
+  <circle cx="512" cy="512" r="218" class="white"/>
+  <circle cx="512" cy="512" r="118" class="navy"/>
+</svg>

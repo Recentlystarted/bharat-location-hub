@@ -1,0 +1,4378 @@
+{
+  "state": "MIZORAM",
+  "code": "15",
+  "districts": [
+    {
+      "name": "Aizawl",
+      "code": "283",
+      "talukas": [
+        {
+          "name": "Aibawk",
+          "code": "01904",
+          "villages": [
+            {
+              "name": "Aibawk",
+              "code": "271236",
+              "uniqueCode": "15-283-01904-271236"
+            },
+            {
+              "name": "Chamring",
+              "code": "271248",
+              "uniqueCode": "15-283-01904-271248"
+            },
+            {
+              "name": "Changpui Agri.Farm",
+              "code": "271252",
+              "uniqueCode": "15-283-01904-271252"
+            },
+            {
+              "name": "Changtekai",
+              "code": "271245",
+              "uniqueCode": "15-283-01904-271245"
+            },
+            {
+              "name": "Chawilung",
+              "code": "271250",
+              "uniqueCode": "15-283-01904-271250"
+            },
+            {
+              "name": "Falkawn",
+              "code": "271233",
+              "uniqueCode": "15-283-01904-271233"
+            },
+            {
+              "name": "Hmuifang",
+              "code": "271244",
+              "uniqueCode": "15-283-01904-271244"
+            },
+            {
+              "name": "Hualngohmun",
+              "code": "271229",
+              "uniqueCode": "15-283-01904-271229"
+            },
+            {
+              "name": "Kelsih",
+              "code": "271232",
+              "uniqueCode": "15-283-01904-271232"
+            },
+            {
+              "name": "Khawhminglokawn",
+              "code": "271239",
+              "uniqueCode": "15-283-01904-271239"
+            },
+            {
+              "name": "Lamchhip",
+              "code": "271249",
+              "uniqueCode": "15-283-01904-271249"
+            },
+            {
+              "name": "Lungsei",
+              "code": "271246",
+              "uniqueCode": "15-283-01904-271246"
+            },
+            {
+              "name": "Muallungthu",
+              "code": "271234",
+              "uniqueCode": "15-283-01904-271234"
+            },
+            {
+              "name": "N.Lungsai",
+              "code": "271240",
+              "uniqueCode": "15-283-01904-271240"
+            },
+            {
+              "name": "Paikhai",
+              "code": "271230",
+              "uniqueCode": "15-283-01904-271230"
+            },
+            {
+              "name": "Phulpui",
+              "code": "271238",
+              "uniqueCode": "15-283-01904-271238"
+            },
+            {
+              "name": "S.Maubuang",
+              "code": "271241",
+              "uniqueCode": "15-283-01904-271241"
+            },
+            {
+              "name": "Sailam",
+              "code": "271253",
+              "uniqueCode": "15-283-01904-271253"
+            },
+            {
+              "name": "Samlukhai",
+              "code": "271247",
+              "uniqueCode": "15-283-01904-271247"
+            },
+            {
+              "name": "Sateek",
+              "code": "271237",
+              "uniqueCode": "15-283-01904-271237"
+            },
+            {
+              "name": "Sialsuk",
+              "code": "271251",
+              "uniqueCode": "15-283-01904-271251"
+            },
+            {
+              "name": "Sumsuih",
+              "code": "271243",
+              "uniqueCode": "15-283-01904-271243"
+            },
+            {
+              "name": "Tachhip",
+              "code": "271235",
+              "uniqueCode": "15-283-01904-271235"
+            },
+            {
+              "name": "Thiak",
+              "code": "271242",
+              "uniqueCode": "15-283-01904-271242"
+            },
+            {
+              "name": "Thingdawl (Melriat)",
+              "code": "271231",
+              "uniqueCode": "15-283-01904-271231"
+            }
+          ]
+        },
+        {
+          "name": "Darlawn",
+          "code": "01902",
+          "villages": [
+            {
+              "name": "Chhanchhuahna Khawpui",
+              "code": "271207",
+              "uniqueCode": "15-283-01902-271207"
+            },
+            {
+              "name": "E.Phaileng",
+              "code": "271209",
+              "uniqueCode": "15-283-01902-271209"
+            },
+            {
+              "name": "Hmunnghak",
+              "code": "271215",
+              "uniqueCode": "15-283-01902-271215"
+            },
+            {
+              "name": "Kani",
+              "code": "271186",
+              "uniqueCode": "15-283-01902-271186"
+            },
+            {
+              "name": "Kepran",
+              "code": "271208",
+              "uniqueCode": "15-283-01902-271208"
+            },
+            {
+              "name": "Khanpui",
+              "code": "271212",
+              "uniqueCode": "15-283-01902-271212"
+            },
+            {
+              "name": "Khawkawi",
+              "code": "271211",
+              "uniqueCode": "15-283-01902-271211"
+            },
+            {
+              "name": "Khawpuar",
+              "code": "271194",
+              "uniqueCode": "15-283-01902-271194"
+            },
+            {
+              "name": "Khawruhlian",
+              "code": "271213",
+              "uniqueCode": "15-283-01902-271213"
+            },
+            {
+              "name": "Lailak",
+              "code": "271216",
+              "uniqueCode": "15-283-01902-271216"
+            },
+            {
+              "name": "Lower Sakawrdai",
+              "code": "271191",
+              "uniqueCode": "15-283-01902-271191"
+            },
+            {
+              "name": "Luakchhuah",
+              "code": "271195",
+              "uniqueCode": "15-283-01902-271195"
+            },
+            {
+              "name": "Lungsum",
+              "code": "271200",
+              "uniqueCode": "15-283-01902-271200"
+            },
+            {
+              "name": "N.Khawdungsei",
+              "code": "271192",
+              "uniqueCode": "15-283-01902-271192"
+            },
+            {
+              "name": "N.Serzawl",
+              "code": "271205",
+              "uniqueCode": "15-283-01902-271205"
+            },
+            {
+              "name": "N.Tinghmun",
+              "code": "271187",
+              "uniqueCode": "15-283-01902-271187"
+            },
+            {
+              "name": "New Vervek",
+              "code": "271199",
+              "uniqueCode": "15-283-01902-271199"
+            },
+            {
+              "name": "Old Tengtawng",
+              "code": "271204",
+              "uniqueCode": "15-283-01902-271204"
+            },
+            {
+              "name": "Old Vervek",
+              "code": "271196",
+              "uniqueCode": "15-283-01902-271196"
+            },
+            {
+              "name": "Palsang",
+              "code": "271189",
+              "uniqueCode": "15-283-01902-271189"
+            },
+            {
+              "name": "Pehlawn",
+              "code": "271210",
+              "uniqueCode": "15-283-01902-271210"
+            },
+            {
+              "name": "Ratu",
+              "code": "271201",
+              "uniqueCode": "15-283-01902-271201"
+            },
+            {
+              "name": "Sailutar",
+              "code": "271203",
+              "uniqueCode": "15-283-01902-271203"
+            },
+            {
+              "name": "Sawleng",
+              "code": "271206",
+              "uniqueCode": "15-283-01902-271206"
+            },
+            {
+              "name": "Sunhluchhip",
+              "code": "271202",
+              "uniqueCode": "15-283-01902-271202"
+            },
+            {
+              "name": "Thingsat",
+              "code": "271198",
+              "uniqueCode": "15-283-01902-271198"
+            },
+            {
+              "name": "Tuirinikai",
+              "code": "271214",
+              "uniqueCode": "15-283-01902-271214"
+            },
+            {
+              "name": "Upper Sakawrdai",
+              "code": "271190",
+              "uniqueCode": "15-283-01902-271190"
+            },
+            {
+              "name": "Vaitin",
+              "code": "271193",
+              "uniqueCode": "15-283-01902-271193"
+            },
+            {
+              "name": "Vervek",
+              "code": "271197",
+              "uniqueCode": "15-283-01902-271197"
+            },
+            {
+              "name": "Zohmun",
+              "code": "271188",
+              "uniqueCode": "15-283-01902-271188"
+            },
+            {
+              "name": "Zokhawthiang",
+              "code": "271185",
+              "uniqueCode": "15-283-01902-271185"
+            }
+          ]
+        },
+        {
+          "name": "Phullen",
+          "code": "01903",
+          "villages": [
+            {
+              "name": "Daido",
+              "code": "271228",
+              "uniqueCode": "15-283-01903-271228"
+            },
+            {
+              "name": "Khawlian",
+              "code": "271226",
+              "uniqueCode": "15-283-01903-271226"
+            },
+            {
+              "name": "Lamherh",
+              "code": "271219",
+              "uniqueCode": "15-283-01903-271219"
+            },
+            {
+              "name": "Luangpawn",
+              "code": "271224",
+              "uniqueCode": "15-283-01903-271224"
+            },
+            {
+              "name": "N.E.Tlangnuam",
+              "code": "271227",
+              "uniqueCode": "15-283-01903-271227"
+            },
+            {
+              "name": "N.Khawlek",
+              "code": "271217",
+              "uniqueCode": "15-283-01903-271217"
+            },
+            {
+              "name": "Phuaibuang",
+              "code": "271225",
+              "uniqueCode": "15-283-01903-271225"
+            },
+            {
+              "name": "Phullen",
+              "code": "271222",
+              "uniqueCode": "15-283-01903-271222"
+            },
+            {
+              "name": "Suangpuilawn",
+              "code": "271220",
+              "uniqueCode": "15-283-01903-271220"
+            },
+            {
+              "name": "Thanglailung",
+              "code": "271223",
+              "uniqueCode": "15-283-01903-271223"
+            },
+            {
+              "name": "Vanbawng",
+              "code": "271218",
+              "uniqueCode": "15-283-01903-271218"
+            },
+            {
+              "name": "Zawngin",
+              "code": "271221",
+              "uniqueCode": "15-283-01903-271221"
+            }
+          ]
+        },
+        {
+          "name": "Thingsulthliah (Part)",
+          "code": "01905",
+          "villages": [
+            {
+              "name": "Aichalkawn",
+              "code": "271278",
+              "uniqueCode": "15-283-01905-271278"
+            },
+            {
+              "name": "Buhban",
+              "code": "271266",
+              "uniqueCode": "15-283-01905-271266"
+            },
+            {
+              "name": "C.T.I. Sesawng",
+              "code": "271288",
+              "uniqueCode": "15-283-01905-271288"
+            },
+            {
+              "name": "Darlawng",
+              "code": "271282",
+              "uniqueCode": "15-283-01905-271282"
+            },
+            {
+              "name": "Dilkhan",
+              "code": "271269",
+              "uniqueCode": "15-283-01905-271269"
+            },
+            {
+              "name": "Edenthar",
+              "code": "271274",
+              "uniqueCode": "15-283-01905-271274"
+            },
+            {
+              "name": "Lenchim",
+              "code": "271281",
+              "uniqueCode": "15-283-01905-271281"
+            },
+            {
+              "name": "Maite",
+              "code": "271286",
+              "uniqueCode": "15-283-01905-271286"
+            },
+            {
+              "name": "Mualmam",
+              "code": "271287",
+              "uniqueCode": "15-283-01905-271287"
+            },
+            {
+              "name": "Mualpheng",
+              "code": "271280",
+              "uniqueCode": "15-283-01905-271280"
+            },
+            {
+              "name": "N.Lungpher",
+              "code": "271270",
+              "uniqueCode": "15-283-01905-271270"
+            },
+            {
+              "name": "Phaibawk",
+              "code": "271273",
+              "uniqueCode": "15-283-01905-271273"
+            },
+            {
+              "name": "Phulmawi",
+              "code": "271284",
+              "uniqueCode": "15-283-01905-271284"
+            },
+            {
+              "name": "Saisih Vety Farm",
+              "code": "271279",
+              "uniqueCode": "15-283-01905-271279"
+            },
+            {
+              "name": "Seling",
+              "code": "271272",
+              "uniqueCode": "15-283-01905-271272"
+            },
+            {
+              "name": "Sesawng",
+              "code": "271267",
+              "uniqueCode": "15-283-01905-271267"
+            },
+            {
+              "name": "Sihfa",
+              "code": "271271",
+              "uniqueCode": "15-283-01905-271271"
+            },
+            {
+              "name": "Tawizo",
+              "code": "271285",
+              "uniqueCode": "15-283-01905-271285"
+            },
+            {
+              "name": "Thingsul Tlangnuam",
+              "code": "271276",
+              "uniqueCode": "15-283-01905-271276"
+            },
+            {
+              "name": "Thingsulthliah",
+              "code": "271277",
+              "uniqueCode": "15-283-01905-271277"
+            },
+            {
+              "name": "Tlungvel",
+              "code": "271283",
+              "uniqueCode": "15-283-01905-271283"
+            },
+            {
+              "name": "Tualbung",
+              "code": "271268",
+              "uniqueCode": "15-283-01905-271268"
+            },
+            {
+              "name": "Tuikhurhlu",
+              "code": "271275",
+              "uniqueCode": "15-283-01905-271275"
+            }
+          ]
+        },
+        {
+          "name": "Tlangnuam (Part)",
+          "code": "01901",
+          "villages": [
+            {
+              "name": "Bung IB",
+              "code": "271262",
+              "uniqueCode": "15-283-01901-271262"
+            },
+            {
+              "name": "Lungleng I",
+              "code": "271263",
+              "uniqueCode": "15-283-01901-271263"
+            },
+            {
+              "name": "Muthi",
+              "code": "271259",
+              "uniqueCode": "15-283-01901-271259"
+            },
+            {
+              "name": "N.Lungleng",
+              "code": "271264",
+              "uniqueCode": "15-283-01901-271264"
+            },
+            {
+              "name": "Nausel",
+              "code": "271258",
+              "uniqueCode": "15-283-01901-271258"
+            },
+            {
+              "name": "Neihbawih",
+              "code": "271254",
+              "uniqueCode": "15-283-01901-271254"
+            },
+            {
+              "name": "Puansen",
+              "code": "271257",
+              "uniqueCode": "15-283-01901-271257"
+            },
+            {
+              "name": "Sairum",
+              "code": "271255",
+              "uniqueCode": "15-283-01901-271255"
+            },
+            {
+              "name": "Samtlang",
+              "code": "271265",
+              "uniqueCode": "15-283-01901-271265"
+            },
+            {
+              "name": "Sihphir",
+              "code": "271256",
+              "uniqueCode": "15-283-01901-271256"
+            },
+            {
+              "name": "Tuirial",
+              "code": "271261",
+              "uniqueCode": "15-283-01901-271261"
+            },
+            {
+              "name": "Tuirial Jail",
+              "code": "271260",
+              "uniqueCode": "15-283-01901-271260"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Champhai",
+      "code": "284",
+      "talukas": [
+        {
+          "name": "Champhai",
+          "code": "01908",
+          "villages": [
+            {
+              "name": "Hnahlan",
+              "code": "271344",
+              "uniqueCode": "15-284-01908-271344"
+            },
+            {
+              "name": "Khuangphah",
+              "code": "271343",
+              "uniqueCode": "15-284-01908-271343"
+            },
+            {
+              "name": "Lungphunlian",
+              "code": "271342",
+              "uniqueCode": "15-284-01908-271342"
+            },
+            {
+              "name": "Murlen",
+              "code": "271340",
+              "uniqueCode": "15-284-01908-271340"
+            },
+            {
+              "name": "N.E.Diltlang",
+              "code": "271345",
+              "uniqueCode": "15-284-01908-271345"
+            },
+            {
+              "name": "N.Khawbung",
+              "code": "271348",
+              "uniqueCode": "15-284-01908-271348"
+            },
+            {
+              "name": "Ngur",
+              "code": "271347",
+              "uniqueCode": "15-284-01908-271347"
+            },
+            {
+              "name": "Tualcheng",
+              "code": "271341",
+              "uniqueCode": "15-284-01908-271341"
+            },
+            {
+              "name": "Vaikhawtlang",
+              "code": "271339",
+              "uniqueCode": "15-284-01908-271339"
+            },
+            {
+              "name": "Vapar",
+              "code": "271346",
+              "uniqueCode": "15-284-01908-271346"
+            }
+          ]
+        },
+        {
+          "name": "East Lungdar (Part)",
+          "code": "01911",
+          "villages": [
+            {
+              "name": "Riangtlei",
+              "code": "271378",
+              "uniqueCode": "15-284-01911-271378"
+            },
+            {
+              "name": "Sialhawk",
+              "code": "271377",
+              "uniqueCode": "15-284-01911-271377"
+            },
+            {
+              "name": "Tlangpui",
+              "code": "271376",
+              "uniqueCode": "15-284-01911-271376"
+            }
+          ]
+        },
+        {
+          "name": "Khawbung",
+          "code": "01909",
+          "villages": [
+            {
+              "name": "Buang",
+              "code": "271350",
+              "uniqueCode": "15-284-01909-271350"
+            },
+            {
+              "name": "Bulfekzawl",
+              "code": "271352",
+              "uniqueCode": "15-284-01909-271352"
+            },
+            {
+              "name": "Bungzung",
+              "code": "271357",
+              "uniqueCode": "15-284-01909-271357"
+            },
+            {
+              "name": "Dungtlang (New)",
+              "code": "271360",
+              "uniqueCode": "15-284-01909-271360"
+            },
+            {
+              "name": "Dungtlang (old)",
+              "code": "271359",
+              "uniqueCode": "15-284-01909-271359"
+            },
+            {
+              "name": "E.Chawngtui",
+              "code": "271370",
+              "uniqueCode": "15-284-01909-271370"
+            },
+            {
+              "name": "Farkawn",
+              "code": "271371",
+              "uniqueCode": "15-284-01909-271371"
+            },
+            {
+              "name": "Hruaikawn (New)",
+              "code": "271354",
+              "uniqueCode": "15-284-01909-271354"
+            },
+            {
+              "name": "Hruaikawn (old)",
+              "code": "271353",
+              "uniqueCode": "15-284-01909-271353"
+            },
+            {
+              "name": "Khankawn",
+              "code": "271373",
+              "uniqueCode": "15-284-01909-271373"
+            },
+            {
+              "name": "Khuangleng",
+              "code": "271351",
+              "uniqueCode": "15-284-01909-271351"
+            },
+            {
+              "name": "Khuangthing",
+              "code": "271375",
+              "uniqueCode": "15-284-01909-271375"
+            },
+            {
+              "name": "Leisenzo",
+              "code": "271356",
+              "uniqueCode": "15-284-01909-271356"
+            },
+            {
+              "name": "Leithum",
+              "code": "271361",
+              "uniqueCode": "15-284-01909-271361"
+            },
+            {
+              "name": "Lianpui",
+              "code": "271363",
+              "uniqueCode": "15-284-01909-271363"
+            },
+            {
+              "name": "S.Khawbung",
+              "code": "271368",
+              "uniqueCode": "15-284-01909-271368"
+            },
+            {
+              "name": "Samthang (New)",
+              "code": "271367",
+              "uniqueCode": "15-284-01909-271367"
+            },
+            {
+              "name": "Samthang (old)",
+              "code": "271366",
+              "uniqueCode": "15-284-01909-271366"
+            },
+            {
+              "name": "Sazep",
+              "code": "271362",
+              "uniqueCode": "15-284-01909-271362"
+            },
+            {
+              "name": "Sesih",
+              "code": "271355",
+              "uniqueCode": "15-284-01909-271355"
+            },
+            {
+              "name": "Thekpui",
+              "code": "271374",
+              "uniqueCode": "15-284-01909-271374"
+            },
+            {
+              "name": "Thekte",
+              "code": "271372",
+              "uniqueCode": "15-284-01909-271372"
+            },
+            {
+              "name": "Vangchhia",
+              "code": "271364",
+              "uniqueCode": "15-284-01909-271364"
+            },
+            {
+              "name": "Vanzau",
+              "code": "271358",
+              "uniqueCode": "15-284-01909-271358"
+            },
+            {
+              "name": "Vaphai",
+              "code": "271365",
+              "uniqueCode": "15-284-01909-271365"
+            },
+            {
+              "name": "Zawlsei",
+              "code": "271369",
+              "uniqueCode": "15-284-01909-271369"
+            },
+            {
+              "name": "Zawngtetui",
+              "code": "271349",
+              "uniqueCode": "15-284-01909-271349"
+            }
+          ]
+        },
+        {
+          "name": "Khawzawl",
+          "code": "01907",
+          "villages": [
+            {
+              "name": "Aiduzawl",
+              "code": "271312",
+              "uniqueCode": "15-284-01907-271312"
+            },
+            {
+              "name": "Arro",
+              "code": "271318",
+              "uniqueCode": "15-284-01907-271318"
+            },
+            {
+              "name": "Chalrang",
+              "code": "271331",
+              "uniqueCode": "15-284-01907-271331"
+            },
+            {
+              "name": "Chawngtlai",
+              "code": "271322",
+              "uniqueCode": "15-284-01907-271322"
+            },
+            {
+              "name": "Chhawrtui",
+              "code": "271320",
+              "uniqueCode": "15-284-01907-271320"
+            },
+            {
+              "name": "Demdum",
+              "code": "271307",
+              "uniqueCode": "15-284-01907-271307"
+            },
+            {
+              "name": "Dilkawn",
+              "code": "271337",
+              "uniqueCode": "15-284-01907-271337"
+            },
+            {
+              "name": "Dulte",
+              "code": "271305",
+              "uniqueCode": "15-284-01907-271305"
+            },
+            {
+              "name": "Hmuncheng",
+              "code": "271321",
+              "uniqueCode": "15-284-01907-271321"
+            },
+            {
+              "name": "Kawlkulh",
+              "code": "271306",
+              "uniqueCode": "15-284-01907-271306"
+            },
+            {
+              "name": "Kelkang",
+              "code": "271328",
+              "uniqueCode": "15-284-01907-271328"
+            },
+            {
+              "name": "Khawpuitan",
+              "code": "271323",
+              "uniqueCode": "15-284-01907-271323"
+            },
+            {
+              "name": "Khuailui",
+              "code": "271317",
+              "uniqueCode": "15-284-01907-271317"
+            },
+            {
+              "name": "Khualen",
+              "code": "271310",
+              "uniqueCode": "15-284-01907-271310"
+            },
+            {
+              "name": "Lungtan",
+              "code": "271334",
+              "uniqueCode": "15-284-01907-271334"
+            },
+            {
+              "name": "Melbuk (Khawnuam)",
+              "code": "271327",
+              "uniqueCode": "15-284-01907-271327"
+            },
+            {
+              "name": "Melhnih (Chalrang)",
+              "code": "271333",
+              "uniqueCode": "15-284-01907-271333"
+            },
+            {
+              "name": "Mualkawi",
+              "code": "271326",
+              "uniqueCode": "15-284-01907-271326"
+            },
+            {
+              "name": "Mualzen",
+              "code": "271324",
+              "uniqueCode": "15-284-01907-271324"
+            },
+            {
+              "name": "Neihdawn",
+              "code": "271316",
+              "uniqueCode": "15-284-01907-271316"
+            },
+            {
+              "name": "New Chalrang",
+              "code": "271332",
+              "uniqueCode": "15-284-01907-271332"
+            },
+            {
+              "name": "Ngaizawl",
+              "code": "271315",
+              "uniqueCode": "15-284-01907-271315"
+            },
+            {
+              "name": "Pamchung",
+              "code": "271313",
+              "uniqueCode": "15-284-01907-271313"
+            },
+            {
+              "name": "Phunchawngzawl",
+              "code": "271308",
+              "uniqueCode": "15-284-01907-271308"
+            },
+            {
+              "name": "Puilo",
+              "code": "271319",
+              "uniqueCode": "15-284-01907-271319"
+            },
+            {
+              "name": "Rabung",
+              "code": "271311",
+              "uniqueCode": "15-284-01907-271311"
+            },
+            {
+              "name": "Tlangmawi",
+              "code": "271335",
+              "uniqueCode": "15-284-01907-271335"
+            },
+            {
+              "name": "Tualpui",
+              "code": "271314",
+              "uniqueCode": "15-284-01907-271314"
+            },
+            {
+              "name": "Tualte",
+              "code": "271329",
+              "uniqueCode": "15-284-01907-271329"
+            },
+            {
+              "name": "Tuipui",
+              "code": "271325",
+              "uniqueCode": "15-284-01907-271325"
+            },
+            {
+              "name": "Vangtlang",
+              "code": "271330",
+              "uniqueCode": "15-284-01907-271330"
+            },
+            {
+              "name": "Vankal",
+              "code": "271309",
+              "uniqueCode": "15-284-01907-271309"
+            },
+            {
+              "name": "Zaupui",
+              "code": "271336",
+              "uniqueCode": "15-284-01907-271336"
+            },
+            {
+              "name": "Zokhawthar",
+              "code": "271338",
+              "uniqueCode": "15-284-01907-271338"
+            }
+          ]
+        },
+        {
+          "name": "Ngopa",
+          "code": "01906",
+          "villages": [
+            {
+              "name": "Changzawl",
+              "code": "271301",
+              "uniqueCode": "15-284-01906-271301"
+            },
+            {
+              "name": "Chiahpui",
+              "code": "271289",
+              "uniqueCode": "15-284-01906-271289"
+            },
+            {
+              "name": "Hliappui",
+              "code": "271302",
+              "uniqueCode": "15-284-01906-271302"
+            },
+            {
+              "name": "Hliappui S.",
+              "code": "271303",
+              "uniqueCode": "15-284-01906-271303"
+            },
+            {
+              "name": "Hrianghmun",
+              "code": "271293",
+              "uniqueCode": "15-284-01906-271293"
+            },
+            {
+              "name": "Kawlbem",
+              "code": "271295",
+              "uniqueCode": "15-284-01906-271295"
+            },
+            {
+              "name": "Khawkawn",
+              "code": "271291",
+              "uniqueCode": "15-284-01906-271291"
+            },
+            {
+              "name": "Lamzawl",
+              "code": "271299",
+              "uniqueCode": "15-284-01906-271299"
+            },
+            {
+              "name": "Mimbung",
+              "code": "271292",
+              "uniqueCode": "15-284-01906-271292"
+            },
+            {
+              "name": "N.E.Khawdungsei",
+              "code": "271290",
+              "uniqueCode": "15-284-01906-271290"
+            },
+            {
+              "name": "Ngopa",
+              "code": "271297",
+              "uniqueCode": "15-284-01906-271297"
+            },
+            {
+              "name": "Pawlrang",
+              "code": "271300",
+              "uniqueCode": "15-284-01906-271300"
+            },
+            {
+              "name": "Saichal",
+              "code": "271304",
+              "uniqueCode": "15-284-01906-271304"
+            },
+            {
+              "name": "Selam",
+              "code": "271298",
+              "uniqueCode": "15-284-01906-271298"
+            },
+            {
+              "name": "Teikhang",
+              "code": "271294",
+              "uniqueCode": "15-284-01906-271294"
+            },
+            {
+              "name": "Tualbung",
+              "code": "271296",
+              "uniqueCode": "15-284-01906-271296"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kolasib",
+      "code": "282",
+      "talukas": [
+        {
+          "name": "'N' Thingdawl",
+          "code": "01899",
+          "villages": [
+            {
+              "name": "Asproveng",
+              "code": "271144",
+              "uniqueCode": "15-282-01899-271144"
+            },
+            {
+              "name": "Bukpui",
+              "code": "271151",
+              "uniqueCode": "15-282-01899-271151"
+            },
+            {
+              "name": "Dilzau H",
+              "code": "271146",
+              "uniqueCode": "15-282-01899-271146"
+            },
+            {
+              "name": "Dilzau T",
+              "code": "271141",
+              "uniqueCode": "15-282-01899-271141"
+            },
+            {
+              "name": "Dumkhel",
+              "code": "271155",
+              "uniqueCode": "15-282-01899-271155"
+            },
+            {
+              "name": "Hmaibialaveng",
+              "code": "271143",
+              "uniqueCode": "15-282-01899-271143"
+            },
+            {
+              "name": "Hortoki",
+              "code": "271147",
+              "uniqueCode": "15-282-01899-271147"
+            },
+            {
+              "name": "Lelhchhun",
+              "code": "271148",
+              "uniqueCode": "15-282-01899-271148"
+            },
+            {
+              "name": "N.Chaltlang",
+              "code": "271152",
+              "uniqueCode": "15-282-01899-271152"
+            },
+            {
+              "name": "N.Hlimen",
+              "code": "271139",
+              "uniqueCode": "15-282-01899-271139"
+            },
+            {
+              "name": "N.Mualvum",
+              "code": "271153",
+              "uniqueCode": "15-282-01899-271153"
+            },
+            {
+              "name": "N.Thingdawl",
+              "code": "271142",
+              "uniqueCode": "15-282-01899-271142"
+            },
+            {
+              "name": "Parsenchhip",
+              "code": "271137",
+              "uniqueCode": "15-282-01899-271137"
+            },
+            {
+              "name": "Pualrang",
+              "code": "271136",
+              "uniqueCode": "15-282-01899-271136"
+            },
+            {
+              "name": "Rajtali",
+              "code": "271145",
+              "uniqueCode": "15-282-01899-271145"
+            },
+            {
+              "name": "Saizawl",
+              "code": "271150",
+              "uniqueCode": "15-282-01899-271150"
+            },
+            {
+              "name": "Sethawn",
+              "code": "271149",
+              "uniqueCode": "15-282-01899-271149"
+            },
+            {
+              "name": "Theichangbung",
+              "code": "271138",
+              "uniqueCode": "15-282-01899-271138"
+            },
+            {
+              "name": "Thingthelh",
+              "code": "271140",
+              "uniqueCode": "15-282-01899-271140"
+            },
+            {
+              "name": "Zanlawn",
+              "code": "271154",
+              "uniqueCode": "15-282-01899-271154"
+            }
+          ]
+        },
+        {
+          "name": "Bilkhawthlir",
+          "code": "01900",
+          "villages": [
+            {
+              "name": "Bilkhawthlir",
+              "code": "271162",
+              "uniqueCode": "15-282-01900-271162"
+            },
+            {
+              "name": "Buhchangphai",
+              "code": "271164",
+              "uniqueCode": "15-282-01900-271164"
+            },
+            {
+              "name": "Builum",
+              "code": "271168",
+              "uniqueCode": "15-282-01900-271168"
+            },
+            {
+              "name": "Bukvannei",
+              "code": "271166",
+              "uniqueCode": "15-282-01900-271166"
+            },
+            {
+              "name": "Chemphai",
+              "code": "271175",
+              "uniqueCode": "15-282-01900-271175"
+            },
+            {
+              "name": "Chite",
+              "code": "271172",
+              "uniqueCode": "15-282-01900-271172"
+            },
+            {
+              "name": "Meidum",
+              "code": "271171",
+              "uniqueCode": "15-282-01900-271171"
+            },
+            {
+              "name": "N.Chawnpui",
+              "code": "271161",
+              "uniqueCode": "15-282-01900-271161"
+            },
+            {
+              "name": "N.Chhimluang",
+              "code": "271158",
+              "uniqueCode": "15-282-01900-271158"
+            },
+            {
+              "name": "N.Thinglian",
+              "code": "271165",
+              "uniqueCode": "15-282-01900-271165"
+            },
+            {
+              "name": "Pangbalkawn",
+              "code": "271169",
+              "uniqueCode": "15-282-01900-271169"
+            },
+            {
+              "name": "Phainuam",
+              "code": "271156",
+              "uniqueCode": "15-282-01900-271156"
+            },
+            {
+              "name": "Phaisen",
+              "code": "271163",
+              "uniqueCode": "15-282-01900-271163"
+            },
+            {
+              "name": "Phaizau",
+              "code": "271174",
+              "uniqueCode": "15-282-01900-271174"
+            },
+            {
+              "name": "S' Chhimluang",
+              "code": "271170",
+              "uniqueCode": "15-282-01900-271170"
+            },
+            {
+              "name": "Saihapui K",
+              "code": "271167",
+              "uniqueCode": "15-282-01900-271167"
+            },
+            {
+              "name": "Saihapui V",
+              "code": "271157",
+              "uniqueCode": "15-282-01900-271157"
+            },
+            {
+              "name": "Saiphai",
+              "code": "271159",
+              "uniqueCode": "15-282-01900-271159"
+            },
+            {
+              "name": "Saipum",
+              "code": "271160",
+              "uniqueCode": "15-282-01900-271160"
+            },
+            {
+              "name": "Vakultui",
+              "code": "271173",
+              "uniqueCode": "15-282-01900-271173"
+            },
+            {
+              "name": "Zambira",
+              "code": "271176",
+              "uniqueCode": "15-282-01900-271176"
+            }
+          ]
+        },
+        {
+          "name": "Tlangnuam (Part)",
+          "code": "01901",
+          "villages": [
+            {
+              "name": "Bawnga Veng",
+              "code": "271182",
+              "uniqueCode": "15-282-01901-271182"
+            },
+            {
+              "name": "Khamrang",
+              "code": "271177",
+              "uniqueCode": "15-282-01901-271177"
+            },
+            {
+              "name": "Lungdai",
+              "code": "271184",
+              "uniqueCode": "15-282-01901-271184"
+            },
+            {
+              "name": "Lungmuat",
+              "code": "271178",
+              "uniqueCode": "15-282-01901-271178"
+            },
+            {
+              "name": "Mualkhang",
+              "code": "271181",
+              "uniqueCode": "15-282-01901-271181"
+            },
+            {
+              "name": "Nisapui",
+              "code": "271179",
+              "uniqueCode": "15-282-01901-271179"
+            },
+            {
+              "name": "Sentlang",
+              "code": "271183",
+              "uniqueCode": "15-282-01901-271183"
+            },
+            {
+              "name": "Serkhan",
+              "code": "271180",
+              "uniqueCode": "15-282-01901-271180"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lawngtlai",
+      "code": "287",
+      "talukas": [
+        {
+          "name": "Chawngte",
+          "code": "01916",
+          "villages": [
+            {
+              "name": "Adubangasora",
+              "code": "271644",
+              "uniqueCode": "15-287-01916-271644"
+            },
+            {
+              "name": "Ajasora",
+              "code": "271655",
+              "uniqueCode": "15-287-01916-271655"
+            },
+            {
+              "name": "Ajasora II",
+              "code": "271697",
+              "uniqueCode": "15-287-01916-271697"
+            },
+            {
+              "name": "Ajasora III",
+              "code": "271696",
+              "uniqueCode": "15-287-01916-271696"
+            },
+            {
+              "name": "Bajeisora",
+              "code": "271630",
+              "uniqueCode": "15-287-01916-271630"
+            },
+            {
+              "name": "Betbonya",
+              "code": "271661",
+              "uniqueCode": "15-287-01916-271661"
+            },
+            {
+              "name": "Bilosora",
+              "code": "271684",
+              "uniqueCode": "15-287-01916-271684"
+            },
+            {
+              "name": "Boganpara",
+              "code": "271629",
+              "uniqueCode": "15-287-01916-271629"
+            },
+            {
+              "name": "Bondukbangsora",
+              "code": "271692",
+              "uniqueCode": "15-287-01916-271692"
+            },
+            {
+              "name": "Boraguisuri",
+              "code": "271681",
+              "uniqueCode": "15-287-01916-271681"
+            },
+            {
+              "name": "Boraituli",
+              "code": "271678",
+              "uniqueCode": "15-287-01916-271678"
+            },
+            {
+              "name": "Borakabakhali",
+              "code": "271654",
+              "uniqueCode": "15-287-01916-271654"
+            },
+            {
+              "name": "Borapansury   I",
+              "code": "271616",
+              "uniqueCode": "15-287-01916-271616"
+            },
+            {
+              "name": "Borapansury II",
+              "code": "271617",
+              "uniqueCode": "15-287-01916-271617"
+            },
+            {
+              "name": "Borkolok",
+              "code": "271656",
+              "uniqueCode": "15-287-01916-271656"
+            },
+            {
+              "name": "Bormon",
+              "code": "271641",
+              "uniqueCode": "15-287-01916-271641"
+            },
+            {
+              "name": "Boronasury",
+              "code": "271614",
+              "uniqueCode": "15-287-01916-271614"
+            },
+            {
+              "name": "Bortuli",
+              "code": "271653",
+              "uniqueCode": "15-287-01916-271653"
+            },
+            {
+              "name": "Bungkawn ‘S’",
+              "code": "271646",
+              "uniqueCode": "15-287-01916-271646"
+            },
+            {
+              "name": "Chaminisora",
+              "code": "271665",
+              "uniqueCode": "15-287-01916-271665"
+            },
+            {
+              "name": "Charluitlang",
+              "code": "271666",
+              "uniqueCode": "15-287-01916-271666"
+            },
+            {
+              "name": "Chhippui(Fultuli)",
+              "code": "271682",
+              "uniqueCode": "15-287-01916-271682"
+            },
+            {
+              "name": "Chhotaguisuri I",
+              "code": "271672",
+              "uniqueCode": "15-287-01916-271672"
+            },
+            {
+              "name": "Chhotaguisuri II",
+              "code": "271673",
+              "uniqueCode": "15-287-01916-271673"
+            },
+            {
+              "name": "Chhotapansury",
+              "code": "271626",
+              "uniqueCode": "15-287-01916-271626"
+            },
+            {
+              "name": "Damdep I (New Jognasuri I)",
+              "code": "271679",
+              "uniqueCode": "15-287-01916-271679"
+            },
+            {
+              "name": "Damdep II (New Jognasuri II)",
+              "code": "271680",
+              "uniqueCode": "15-287-01916-271680"
+            },
+            {
+              "name": "Devasora",
+              "code": "271668",
+              "uniqueCode": "15-287-01916-271668"
+            },
+            {
+              "name": "Devasora ‘S’",
+              "code": "271686",
+              "uniqueCode": "15-287-01916-271686"
+            },
+            {
+              "name": "Duduksora",
+              "code": "271694",
+              "uniqueCode": "15-287-01916-271694"
+            },
+            {
+              "name": "Dursora",
+              "code": "271677",
+              "uniqueCode": "15-287-01916-271677"
+            },
+            {
+              "name": "Futsora",
+              "code": "271669",
+              "uniqueCode": "15-287-01916-271669"
+            },
+            {
+              "name": "Futsury",
+              "code": "271664",
+              "uniqueCode": "15-287-01916-271664"
+            },
+            {
+              "name": "Geraguluksora",
+              "code": "271638",
+              "uniqueCode": "15-287-01916-271638"
+            },
+            {
+              "name": "Gerasury",
+              "code": "271671",
+              "uniqueCode": "15-287-01916-271671"
+            },
+            {
+              "name": "Gobabsuri",
+              "code": "271691",
+              "uniqueCode": "15-287-01916-271691"
+            },
+            {
+              "name": "Golasuri",
+              "code": "271660",
+              "uniqueCode": "15-287-01916-271660"
+            },
+            {
+              "name": "Gulsingbabsora",
+              "code": "271636",
+              "uniqueCode": "15-287-01916-271636"
+            },
+            {
+              "name": "Jamersury(Serlui)",
+              "code": "271645",
+              "uniqueCode": "15-287-01916-271645"
+            },
+            {
+              "name": "Jaruldulbasora",
+              "code": "271676",
+              "uniqueCode": "15-287-01916-271676"
+            },
+            {
+              "name": "Jarulsury",
+              "code": "271642",
+              "uniqueCode": "15-287-01916-271642"
+            },
+            {
+              "name": "Kamalanagar IV",
+              "code": "271695",
+              "uniqueCode": "15-287-01916-271695"
+            },
+            {
+              "name": "Kamlanagar I (Chawngte C I)",
+              "code": "271633",
+              "uniqueCode": "15-287-01916-271633"
+            },
+            {
+              "name": "Kamlanagar II (Chawngte C II)",
+              "code": "271631",
+              "uniqueCode": "15-287-01916-271631"
+            },
+            {
+              "name": "Kamlanagar III (Chawngte C III)",
+              "code": "271632",
+              "uniqueCode": "15-287-01916-271632"
+            },
+            {
+              "name": "Kamtuli",
+              "code": "271690",
+              "uniqueCode": "15-287-01916-271690"
+            },
+            {
+              "name": "Kukurduleya",
+              "code": "271647",
+              "uniqueCode": "15-287-01916-271647"
+            },
+            {
+              "name": "Kurbalavasora",
+              "code": "271615",
+              "uniqueCode": "15-287-01916-271615"
+            },
+            {
+              "name": "Lokhisuri",
+              "code": "271667",
+              "uniqueCode": "15-287-01916-271667"
+            },
+            {
+              "name": "Longpuighat",
+              "code": "271663",
+              "uniqueCode": "15-287-01916-271663"
+            },
+            {
+              "name": "Ludisora",
+              "code": "271670",
+              "uniqueCode": "15-287-01916-271670"
+            },
+            {
+              "name": "Mainababsora I",
+              "code": "271650",
+              "uniqueCode": "15-287-01916-271650"
+            },
+            {
+              "name": "Mainababsora II",
+              "code": "271652",
+              "uniqueCode": "15-287-01916-271652"
+            },
+            {
+              "name": "Mandirasora",
+              "code": "271649",
+              "uniqueCode": "15-287-01916-271649"
+            },
+            {
+              "name": "Montola",
+              "code": "271622",
+              "uniqueCode": "15-287-01916-271622"
+            },
+            {
+              "name": "Nagdarasora",
+              "code": "271637",
+              "uniqueCode": "15-287-01916-271637"
+            },
+            {
+              "name": "Nalbanya",
+              "code": "271635",
+              "uniqueCode": "15-287-01916-271635"
+            },
+            {
+              "name": "New Chhippui",
+              "code": "271683",
+              "uniqueCode": "15-287-01916-271683"
+            },
+            {
+              "name": "Ngharum",
+              "code": "271623",
+              "uniqueCode": "15-287-01916-271623"
+            },
+            {
+              "name": "Old Bajeisora",
+              "code": "271634",
+              "uniqueCode": "15-287-01916-271634"
+            },
+            {
+              "name": "Pablakhali",
+              "code": "271675",
+              "uniqueCode": "15-287-01916-271675"
+            },
+            {
+              "name": "Parva I",
+              "code": "271687",
+              "uniqueCode": "15-287-01916-271687"
+            },
+            {
+              "name": "Parva II",
+              "code": "271688",
+              "uniqueCode": "15-287-01916-271688"
+            },
+            {
+              "name": "Parva III",
+              "code": "271689",
+              "uniqueCode": "15-287-01916-271689"
+            },
+            {
+              "name": "Peglababsora",
+              "code": "271651",
+              "uniqueCode": "15-287-01916-271651"
+            },
+            {
+              "name": "Rajmandal  II",
+              "code": "271620",
+              "uniqueCode": "15-287-01916-271620"
+            },
+            {
+              "name": "Rajmandal I",
+              "code": "271619",
+              "uniqueCode": "15-287-01916-271619"
+            },
+            {
+              "name": "Rengashya",
+              "code": "271662",
+              "uniqueCode": "15-287-01916-271662"
+            },
+            {
+              "name": "Silbanga",
+              "code": "271674",
+              "uniqueCode": "15-287-01916-271674"
+            },
+            {
+              "name": "Silosora",
+              "code": "271685",
+              "uniqueCode": "15-287-01916-271685"
+            },
+            {
+              "name": "Silsury",
+              "code": "271624",
+              "uniqueCode": "15-287-01916-271624"
+            },
+            {
+              "name": "Simeinasora",
+              "code": "271693",
+              "uniqueCode": "15-287-01916-271693"
+            },
+            {
+              "name": "Simeisuri",
+              "code": "271657",
+              "uniqueCode": "15-287-01916-271657"
+            },
+            {
+              "name": "Songrasury",
+              "code": "271627",
+              "uniqueCode": "15-287-01916-271627"
+            },
+            {
+              "name": "Tongasora",
+              "code": "271625",
+              "uniqueCode": "15-287-01916-271625"
+            },
+            {
+              "name": "Udalthana I",
+              "code": "271640",
+              "uniqueCode": "15-287-01916-271640"
+            },
+            {
+              "name": "Udalthana II",
+              "code": "271639",
+              "uniqueCode": "15-287-01916-271639"
+            },
+            {
+              "name": "Ugudasury",
+              "code": "271621",
+              "uniqueCode": "15-287-01916-271621"
+            },
+            {
+              "name": "Ugudasury ‘S’",
+              "code": "271643",
+              "uniqueCode": "15-287-01916-271643"
+            },
+            {
+              "name": "Ugulsury",
+              "code": "271618",
+              "uniqueCode": "15-287-01916-271618"
+            },
+            {
+              "name": "Ulusury",
+              "code": "271648",
+              "uniqueCode": "15-287-01916-271648"
+            },
+            {
+              "name": "Vaseitlang I",
+              "code": "271658",
+              "uniqueCode": "15-287-01916-271658"
+            },
+            {
+              "name": "Vaseitlang II",
+              "code": "271659",
+              "uniqueCode": "15-287-01916-271659"
+            },
+            {
+              "name": "W.Saizawh",
+              "code": "271628",
+              "uniqueCode": "15-287-01916-271628"
+            }
+          ]
+        },
+        {
+          "name": "Lawngtlai",
+          "code": "01917",
+          "villages": [
+            {
+              "name": "Chawngte ‘P’",
+              "code": "271698",
+              "uniqueCode": "15-287-01917-271698"
+            },
+            {
+              "name": "Chawngtelui",
+              "code": "271705",
+              "uniqueCode": "15-287-01917-271705"
+            },
+            {
+              "name": "Chawntlangpui",
+              "code": "271711",
+              "uniqueCode": "15-287-01917-271711"
+            },
+            {
+              "name": "Darnamtlang",
+              "code": "271721",
+              "uniqueCode": "15-287-01917-271721"
+            },
+            {
+              "name": "Diltlang ‘S’",
+              "code": "271706",
+              "uniqueCode": "15-287-01917-271706"
+            },
+            {
+              "name": "Gobasora",
+              "code": "271727",
+              "uniqueCode": "15-287-01917-271727"
+            },
+            {
+              "name": "Hmawngbu",
+              "code": "271728",
+              "uniqueCode": "15-287-01917-271728"
+            },
+            {
+              "name": "Hmawngbuchhuah",
+              "code": "271729",
+              "uniqueCode": "15-287-01917-271729"
+            },
+            {
+              "name": "Hmunlai",
+              "code": "271700",
+              "uniqueCode": "15-287-01917-271700"
+            },
+            {
+              "name": "Hruitezawl",
+              "code": "271723",
+              "uniqueCode": "15-287-01917-271723"
+            },
+            {
+              "name": "Kakichhuah",
+              "code": "271730",
+              "uniqueCode": "15-287-01917-271730"
+            },
+            {
+              "name": "Kawlchaw ‘W’",
+              "code": "271717",
+              "uniqueCode": "15-287-01917-271717"
+            },
+            {
+              "name": "Kawrthindeng",
+              "code": "271720",
+              "uniqueCode": "15-287-01917-271720"
+            },
+            {
+              "name": "Lalmonaveng",
+              "code": "271722",
+              "uniqueCode": "15-287-01917-271722"
+            },
+            {
+              "name": "Lawnglang",
+              "code": "271725",
+              "uniqueCode": "15-287-01917-271725"
+            },
+            {
+              "name": "Lawngtlaikai",
+              "code": "271733",
+              "uniqueCode": "15-287-01917-271733"
+            },
+            {
+              "name": "Liapha",
+              "code": "271718",
+              "uniqueCode": "15-287-01917-271718"
+            },
+            {
+              "name": "Lunghauka",
+              "code": "271726",
+              "uniqueCode": "15-287-01917-271726"
+            },
+            {
+              "name": "Mampui",
+              "code": "271708",
+              "uniqueCode": "15-287-01917-271708"
+            },
+            {
+              "name": "Mualbu ‘L’",
+              "code": "271701",
+              "uniqueCode": "15-287-01917-271701"
+            },
+            {
+              "name": "Ngengpuikai",
+              "code": "271707",
+              "uniqueCode": "15-287-01917-271707"
+            },
+            {
+              "name": "Ngengpuitlang",
+              "code": "271734",
+              "uniqueCode": "15-287-01917-271734"
+            },
+            {
+              "name": "Paithar",
+              "code": "271713",
+              "uniqueCode": "15-287-01917-271713"
+            },
+            {
+              "name": "Rulkual",
+              "code": "271716",
+              "uniqueCode": "15-287-01917-271716"
+            },
+            {
+              "name": "Sabualtlang",
+              "code": "271732",
+              "uniqueCode": "15-287-01917-271732"
+            },
+            {
+              "name": "Saikah",
+              "code": "271709",
+              "uniqueCode": "15-287-01917-271709"
+            },
+            {
+              "name": "Saizawh ‘E’",
+              "code": "271719",
+              "uniqueCode": "15-287-01917-271719"
+            },
+            {
+              "name": "Sakeilui I",
+              "code": "271703",
+              "uniqueCode": "15-287-01917-271703"
+            },
+            {
+              "name": "Sakeilui II",
+              "code": "271704",
+              "uniqueCode": "15-287-01917-271704"
+            },
+            {
+              "name": "Sihtlangpui",
+              "code": "271714",
+              "uniqueCode": "15-287-01917-271714"
+            },
+            {
+              "name": "Sumsilui",
+              "code": "271702",
+              "uniqueCode": "15-287-01917-271702"
+            },
+            {
+              "name": "Tuidangtlang",
+              "code": "271735",
+              "uniqueCode": "15-287-01917-271735"
+            },
+            {
+              "name": "Tuikhurlui",
+              "code": "271699",
+              "uniqueCode": "15-287-01917-271699"
+            },
+            {
+              "name": "Tuipui I.B",
+              "code": "271710",
+              "uniqueCode": "15-287-01917-271710"
+            },
+            {
+              "name": "Tuithumhnar",
+              "code": "271724",
+              "uniqueCode": "15-287-01917-271724"
+            },
+            {
+              "name": "Vanhne ‘R’",
+              "code": "271715",
+              "uniqueCode": "15-287-01917-271715"
+            },
+            {
+              "name": "Zochawchhuah",
+              "code": "271731",
+              "uniqueCode": "15-287-01917-271731"
+            },
+            {
+              "name": "‘S’ Chawnpui",
+              "code": "271712",
+              "uniqueCode": "15-287-01917-271712"
+            }
+          ]
+        },
+        {
+          "name": "S' Bungtlang",
+          "code": "01918",
+          "villages": [
+            {
+              "name": "Balisora",
+              "code": "271750",
+              "uniqueCode": "15-287-01918-271750"
+            },
+            {
+              "name": "Chamdur ‘P’ I",
+              "code": "271752",
+              "uniqueCode": "15-287-01918-271752"
+            },
+            {
+              "name": "Chamdur ‘P’ II",
+              "code": "271753",
+              "uniqueCode": "15-287-01918-271753"
+            },
+            {
+              "name": "Chamdurtlang I",
+              "code": "271754",
+              "uniqueCode": "15-287-01918-271754"
+            },
+            {
+              "name": "Chamdurtlang II",
+              "code": "271755",
+              "uniqueCode": "15-287-01918-271755"
+            },
+            {
+              "name": "Chikhurlui",
+              "code": "271749",
+              "uniqueCode": "15-287-01918-271749"
+            },
+            {
+              "name": "Damlui",
+              "code": "271742",
+              "uniqueCode": "15-287-01918-271742"
+            },
+            {
+              "name": "Dumzau I",
+              "code": "271760",
+              "uniqueCode": "15-287-01918-271760"
+            },
+            {
+              "name": "Dumzautlang",
+              "code": "271759",
+              "uniqueCode": "15-287-01918-271759"
+            },
+            {
+              "name": "Fangfarlui",
+              "code": "271746",
+              "uniqueCode": "15-287-01918-271746"
+            },
+            {
+              "name": "Hmunnuam",
+              "code": "271740",
+              "uniqueCode": "15-287-01918-271740"
+            },
+            {
+              "name": "Jognasuri",
+              "code": "271736",
+              "uniqueCode": "15-287-01918-271736"
+            },
+            {
+              "name": "Karlui",
+              "code": "271737",
+              "uniqueCode": "15-287-01918-271737"
+            },
+            {
+              "name": "Laitlang",
+              "code": "271762",
+              "uniqueCode": "15-287-01918-271762"
+            },
+            {
+              "name": "M.Kawnpui",
+              "code": "271747",
+              "uniqueCode": "15-287-01918-271747"
+            },
+            {
+              "name": "Mautlang",
+              "code": "271756",
+              "uniqueCode": "15-287-01918-271756"
+            },
+            {
+              "name": "Nghalimlui",
+              "code": "271743",
+              "uniqueCode": "15-287-01918-271743"
+            },
+            {
+              "name": "Ngunlingkhua",
+              "code": "271757",
+              "uniqueCode": "15-287-01918-271757"
+            },
+            {
+              "name": "Pandawnglui",
+              "code": "271741",
+              "uniqueCode": "15-287-01918-271741"
+            },
+            {
+              "name": "S.Bungtlang",
+              "code": "271738",
+              "uniqueCode": "15-287-01918-271738"
+            },
+            {
+              "name": "Saibawh",
+              "code": "271745",
+              "uniqueCode": "15-287-01918-271745"
+            },
+            {
+              "name": "Saikhawthlir",
+              "code": "271739",
+              "uniqueCode": "15-287-01918-271739"
+            },
+            {
+              "name": "Sekulh",
+              "code": "271748",
+              "uniqueCode": "15-287-01918-271748"
+            },
+            {
+              "name": "Tuichawngtlang",
+              "code": "271761",
+              "uniqueCode": "15-287-01918-271761"
+            },
+            {
+              "name": "Tuisentlang",
+              "code": "271758",
+              "uniqueCode": "15-287-01918-271758"
+            },
+            {
+              "name": "Vaseikai",
+              "code": "271744",
+              "uniqueCode": "15-287-01918-271744"
+            },
+            {
+              "name": "Vathuampui",
+              "code": "271751",
+              "uniqueCode": "15-287-01918-271751"
+            }
+          ]
+        },
+        {
+          "name": "Sangau",
+          "code": "01919",
+          "villages": [
+            {
+              "name": "Archhuang",
+              "code": "271776",
+              "uniqueCode": "15-287-01919-271776"
+            },
+            {
+              "name": "Bualpui NG ‘E’",
+              "code": "271772",
+              "uniqueCode": "15-287-01919-271772"
+            },
+            {
+              "name": "Bualpui NG ‘W’",
+              "code": "271771",
+              "uniqueCode": "15-287-01919-271771"
+            },
+            {
+              "name": "Cheural",
+              "code": "271766",
+              "uniqueCode": "15-287-01919-271766"
+            },
+            {
+              "name": "Fungkah",
+              "code": "271768",
+              "uniqueCode": "15-287-01919-271768"
+            },
+            {
+              "name": "Lungpher",
+              "code": "271769",
+              "uniqueCode": "15-287-01919-271769"
+            },
+            {
+              "name": "Lungtian",
+              "code": "271765",
+              "uniqueCode": "15-287-01919-271765"
+            },
+            {
+              "name": "Lungzarhtum",
+              "code": "271773",
+              "uniqueCode": "15-287-01919-271773"
+            },
+            {
+              "name": "Pangkhua",
+              "code": "271781",
+              "uniqueCode": "15-287-01919-271781"
+            },
+            {
+              "name": "Rawlbuk",
+              "code": "271767",
+              "uniqueCode": "15-287-01919-271767"
+            },
+            {
+              "name": "Sangau ‘E’",
+              "code": "271780",
+              "uniqueCode": "15-287-01919-271780"
+            },
+            {
+              "name": "Sangau ‘W’",
+              "code": "271779",
+              "uniqueCode": "15-287-01919-271779"
+            },
+            {
+              "name": "Sentetfiang",
+              "code": "271778",
+              "uniqueCode": "15-287-01919-271778"
+            },
+            {
+              "name": "Siachangkawn",
+              "code": "271770",
+              "uniqueCode": "15-287-01919-271770"
+            },
+            {
+              "name": "Thaltlang",
+              "code": "271777",
+              "uniqueCode": "15-287-01919-271777"
+            },
+            {
+              "name": "Tialdawngi Lung",
+              "code": "271774",
+              "uniqueCode": "15-287-01919-271774"
+            },
+            {
+              "name": "Vartek",
+              "code": "271764",
+              "uniqueCode": "15-287-01919-271764"
+            },
+            {
+              "name": "Vartekkai",
+              "code": "271763",
+              "uniqueCode": "15-287-01919-271763"
+            },
+            {
+              "name": "Vawmbuk",
+              "code": "271775",
+              "uniqueCode": "15-287-01919-271775"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunglei",
+      "code": "286",
+      "talukas": [
+        {
+          "name": "Hnahthial",
+          "code": "01915",
+          "villages": [
+            {
+              "name": "Aithur",
+              "code": "271597",
+              "uniqueCode": "15-286-01915-271597"
+            },
+            {
+              "name": "Bualpui H",
+              "code": "271602",
+              "uniqueCode": "15-286-01915-271602"
+            },
+            {
+              "name": "Cherhlun",
+              "code": "271598",
+              "uniqueCode": "15-286-01915-271598"
+            },
+            {
+              "name": "Darzo",
+              "code": "271610",
+              "uniqueCode": "15-286-01915-271610"
+            },
+            {
+              "name": "Denlung",
+              "code": "271604",
+              "uniqueCode": "15-286-01915-271604"
+            },
+            {
+              "name": "E.Rotlang",
+              "code": "271608",
+              "uniqueCode": "15-286-01915-271608"
+            },
+            {
+              "name": "Khawhlum",
+              "code": "271593",
+              "uniqueCode": "15-286-01915-271593"
+            },
+            {
+              "name": "Khawhri",
+              "code": "271596",
+              "uniqueCode": "15-286-01915-271596"
+            },
+            {
+              "name": "Khawnglung",
+              "code": "271590",
+              "uniqueCode": "15-286-01915-271590"
+            },
+            {
+              "name": "Kutkawk",
+              "code": "271605",
+              "uniqueCode": "15-286-01915-271605"
+            },
+            {
+              "name": "Leite",
+              "code": "271606",
+              "uniqueCode": "15-286-01915-271606"
+            },
+            {
+              "name": "Lungpuitlang",
+              "code": "271612",
+              "uniqueCode": "15-286-01915-271612"
+            },
+            {
+              "name": "Maudarh",
+              "code": "271607",
+              "uniqueCode": "15-286-01915-271607"
+            },
+            {
+              "name": "Muallianpui",
+              "code": "271611",
+              "uniqueCode": "15-286-01915-271611"
+            },
+            {
+              "name": "New Ngharchhip",
+              "code": "271600",
+              "uniqueCode": "15-286-01915-271600"
+            },
+            {
+              "name": "Old Ngharchhip",
+              "code": "271599",
+              "uniqueCode": "15-286-01915-271599"
+            },
+            {
+              "name": "Pangzawl",
+              "code": "271591",
+              "uniqueCode": "15-286-01915-271591"
+            },
+            {
+              "name": "Rawpui",
+              "code": "271589",
+              "uniqueCode": "15-286-01915-271589"
+            },
+            {
+              "name": "S.Chawngtui",
+              "code": "271594",
+              "uniqueCode": "15-286-01915-271594"
+            },
+            {
+              "name": "S.Lungleng",
+              "code": "271603",
+              "uniqueCode": "15-286-01915-271603"
+            },
+            {
+              "name": "S.Vanlaiphai",
+              "code": "271613",
+              "uniqueCode": "15-286-01915-271613"
+            },
+            {
+              "name": "Tarpho",
+              "code": "271595",
+              "uniqueCode": "15-286-01915-271595"
+            },
+            {
+              "name": "Thiltlang",
+              "code": "271592",
+              "uniqueCode": "15-286-01915-271592"
+            },
+            {
+              "name": "Thingsai",
+              "code": "271601",
+              "uniqueCode": "15-286-01915-271601"
+            },
+            {
+              "name": "Tuipui(Darzokai)",
+              "code": "271609",
+              "uniqueCode": "15-286-01915-271609"
+            }
+          ]
+        },
+        {
+          "name": "Lunglei",
+          "code": "01914",
+          "villages": [
+            {
+              "name": "Bualpui’V’",
+              "code": "271548",
+              "uniqueCode": "15-286-01914-271548"
+            },
+            {
+              "name": "Bualte",
+              "code": "271575",
+              "uniqueCode": "15-286-01914-271575"
+            },
+            {
+              "name": "Bualte Bawk",
+              "code": "271576",
+              "uniqueCode": "15-286-01914-271576"
+            },
+            {
+              "name": "Buknuam",
+              "code": "271570",
+              "uniqueCode": "15-286-01914-271570"
+            },
+            {
+              "name": "Chengpui",
+              "code": "271557",
+              "uniqueCode": "15-286-01914-271557"
+            },
+            {
+              "name": "Chhipphir",
+              "code": "271545",
+              "uniqueCode": "15-286-01914-271545"
+            },
+            {
+              "name": "Chithar",
+              "code": "271569",
+              "uniqueCode": "15-286-01914-271569"
+            },
+            {
+              "name": "Dawn",
+              "code": "271564",
+              "uniqueCode": "15-286-01914-271564"
+            },
+            {
+              "name": "Haulawng",
+              "code": "271551",
+              "uniqueCode": "15-286-01914-271551"
+            },
+            {
+              "name": "Herhse",
+              "code": "271581",
+              "uniqueCode": "15-286-01914-271581"
+            },
+            {
+              "name": "Hlumte",
+              "code": "271574",
+              "uniqueCode": "15-286-01914-271574"
+            },
+            {
+              "name": "Hmuntlang",
+              "code": "271550",
+              "uniqueCode": "15-286-01914-271550"
+            },
+            {
+              "name": "Kawmzawl",
+              "code": "271559",
+              "uniqueCode": "15-286-01914-271559"
+            },
+            {
+              "name": "Lungmawi",
+              "code": "271549",
+              "uniqueCode": "15-286-01914-271549"
+            },
+            {
+              "name": "Mamte",
+              "code": "271585",
+              "uniqueCode": "15-286-01914-271585"
+            },
+            {
+              "name": "Matbawk",
+              "code": "271563",
+              "uniqueCode": "15-286-01914-271563"
+            },
+            {
+              "name": "Mausen",
+              "code": "271552",
+              "uniqueCode": "15-286-01914-271552"
+            },
+            {
+              "name": "Mualthuam’S’",
+              "code": "271580",
+              "uniqueCode": "15-286-01914-271580"
+            },
+            {
+              "name": "N.Mualthuam",
+              "code": "271547",
+              "uniqueCode": "15-286-01914-271547"
+            },
+            {
+              "name": "New.Dawn",
+              "code": "271565",
+              "uniqueCode": "15-286-01914-271565"
+            },
+            {
+              "name": "Pachang",
+              "code": "271567",
+              "uniqueCode": "15-286-01914-271567"
+            },
+            {
+              "name": "Ralvawng",
+              "code": "271562",
+              "uniqueCode": "15-286-01914-271562"
+            },
+            {
+              "name": "Ramlaitui",
+              "code": "271544",
+              "uniqueCode": "15-286-01914-271544"
+            },
+            {
+              "name": "Runtung",
+              "code": "271568",
+              "uniqueCode": "15-286-01914-271568"
+            },
+            {
+              "name": "S.Kanghmun",
+              "code": "271541",
+              "uniqueCode": "15-286-01914-271541"
+            },
+            {
+              "name": "S.Lunglei",
+              "code": "271543",
+              "uniqueCode": "15-286-01914-271543"
+            },
+            {
+              "name": "S.Mualcheng",
+              "code": "271582",
+              "uniqueCode": "15-286-01914-271582"
+            },
+            {
+              "name": "S.Phaileng",
+              "code": "271553",
+              "uniqueCode": "15-286-01914-271553"
+            },
+            {
+              "name": "S.Tawipui",
+              "code": "271583",
+              "uniqueCode": "15-286-01914-271583"
+            },
+            {
+              "name": "S.Zote",
+              "code": "271542",
+              "uniqueCode": "15-286-01914-271542"
+            },
+            {
+              "name": "Sairep",
+              "code": "271572",
+              "uniqueCode": "15-286-01914-271572"
+            },
+            {
+              "name": "Saza I.B",
+              "code": "271558",
+              "uniqueCode": "15-286-01914-271558"
+            },
+            {
+              "name": "Sekhum",
+              "code": "271546",
+              "uniqueCode": "15-286-01914-271546"
+            },
+            {
+              "name": "Siallu Cattle Farm",
+              "code": "271561",
+              "uniqueCode": "15-286-01914-271561"
+            },
+            {
+              "name": "Tawipui 'N'  I",
+              "code": "271587",
+              "uniqueCode": "15-286-01914-271587"
+            },
+            {
+              "name": "Tawipui 'N'  II",
+              "code": "271588",
+              "uniqueCode": "15-286-01914-271588"
+            },
+            {
+              "name": "Thaizawl",
+              "code": "271573",
+              "uniqueCode": "15-286-01914-271573"
+            },
+            {
+              "name": "Thangpui",
+              "code": "271577",
+              "uniqueCode": "15-286-01914-271577"
+            },
+            {
+              "name": "Thangte",
+              "code": "271578",
+              "uniqueCode": "15-286-01914-271578"
+            },
+            {
+              "name": "Thehlep",
+              "code": "271566",
+              "uniqueCode": "15-286-01914-271566"
+            },
+            {
+              "name": "Thingfal",
+              "code": "271586",
+              "uniqueCode": "15-286-01914-271586"
+            },
+            {
+              "name": "Thlengang",
+              "code": "271584",
+              "uniqueCode": "15-286-01914-271584"
+            },
+            {
+              "name": "Thualthu",
+              "code": "271579",
+              "uniqueCode": "15-286-01914-271579"
+            },
+            {
+              "name": "Thuampui",
+              "code": "271556",
+              "uniqueCode": "15-286-01914-271556"
+            },
+            {
+              "name": "Vaisam",
+              "code": "271571",
+              "uniqueCode": "15-286-01914-271571"
+            },
+            {
+              "name": "Valcheng",
+              "code": "271555",
+              "uniqueCode": "15-286-01914-271555"
+            },
+            {
+              "name": "Vanhne",
+              "code": "271560",
+              "uniqueCode": "15-286-01914-271560"
+            },
+            {
+              "name": "Zotuitlang",
+              "code": "271554",
+              "uniqueCode": "15-286-01914-271554"
+            }
+          ]
+        },
+        {
+          "name": "Lungsen",
+          "code": "01913",
+          "villages": [
+            {
+              "name": "Andermanik",
+              "code": "271468",
+              "uniqueCode": "15-286-01913-271468"
+            },
+            {
+              "name": "Balukiasuri",
+              "code": "271481",
+              "uniqueCode": "15-286-01913-271481"
+            },
+            {
+              "name": "Balungsuri",
+              "code": "271493",
+              "uniqueCode": "15-286-01913-271493"
+            },
+            {
+              "name": "Belpei(Matiasora)",
+              "code": "271537",
+              "uniqueCode": "15-286-01913-271537"
+            },
+            {
+              "name": "Belthei",
+              "code": "271474",
+              "uniqueCode": "15-286-01913-271474"
+            },
+            {
+              "name": "Benga Veng",
+              "code": "271496",
+              "uniqueCode": "15-286-01913-271496"
+            },
+            {
+              "name": "Bindiasora",
+              "code": "271490",
+              "uniqueCode": "15-286-01913-271490"
+            },
+            {
+              "name": "Borahorinachhuah",
+              "code": "271480",
+              "uniqueCode": "15-286-01913-271480"
+            },
+            {
+              "name": "Bornasuri",
+              "code": "271511",
+              "uniqueCode": "15-286-01913-271511"
+            },
+            {
+              "name": "Borsegojasora",
+              "code": "271504",
+              "uniqueCode": "15-286-01913-271504"
+            },
+            {
+              "name": "Champasuri",
+              "code": "271488",
+              "uniqueCode": "15-286-01913-271488"
+            },
+            {
+              "name": "Chawngte”L”",
+              "code": "271522",
+              "uniqueCode": "15-286-01913-271522"
+            },
+            {
+              "name": "Chhuahthum",
+              "code": "271476",
+              "uniqueCode": "15-286-01913-271476"
+            },
+            {
+              "name": "Chhumkhum",
+              "code": "271495",
+              "uniqueCode": "15-286-01913-271495"
+            },
+            {
+              "name": "Damlui",
+              "code": "271525",
+              "uniqueCode": "15-286-01913-271525"
+            },
+            {
+              "name": "Dinthar",
+              "code": "271478",
+              "uniqueCode": "15-286-01913-271478"
+            },
+            {
+              "name": "Diplibagh(Kawizau)",
+              "code": "271464",
+              "uniqueCode": "15-286-01913-271464"
+            },
+            {
+              "name": "Gulsil",
+              "code": "271521",
+              "uniqueCode": "15-286-01913-271521"
+            },
+            {
+              "name": "Gurusora",
+              "code": "271479",
+              "uniqueCode": "15-286-01913-271479"
+            },
+            {
+              "name": "Hmunthar",
+              "code": "271523",
+              "uniqueCode": "15-286-01913-271523"
+            },
+            {
+              "name": "Hruizam",
+              "code": "271534",
+              "uniqueCode": "15-286-01913-271534"
+            },
+            {
+              "name": "Kalapani",
+              "code": "271529",
+              "uniqueCode": "15-286-01913-271529"
+            },
+            {
+              "name": "Kauchhuah",
+              "code": "271472",
+              "uniqueCode": "15-286-01913-271472"
+            },
+            {
+              "name": "Khangrasuri",
+              "code": "271492",
+              "uniqueCode": "15-286-01913-271492"
+            },
+            {
+              "name": "Khawmawi",
+              "code": "271528",
+              "uniqueCode": "15-286-01913-271528"
+            },
+            {
+              "name": "Khojaisuri",
+              "code": "271510",
+              "uniqueCode": "15-286-01913-271510"
+            },
+            {
+              "name": "Khojoisuri  (New)",
+              "code": "271501",
+              "uniqueCode": "15-286-01913-271501"
+            },
+            {
+              "name": "Khojoisuri Old",
+              "code": "271502",
+              "uniqueCode": "15-286-01913-271502"
+            },
+            {
+              "name": "Kumraghat",
+              "code": "271477",
+              "uniqueCode": "15-286-01913-271477"
+            },
+            {
+              "name": "Lalnutui",
+              "code": "271518",
+              "uniqueCode": "15-286-01913-271518"
+            },
+            {
+              "name": "Lamthai I",
+              "code": "271485",
+              "uniqueCode": "15-286-01913-271485"
+            },
+            {
+              "name": "Lamthai II",
+              "code": "271484",
+              "uniqueCode": "15-286-01913-271484"
+            },
+            {
+              "name": "Lamthai III",
+              "code": "271483",
+              "uniqueCode": "15-286-01913-271483"
+            },
+            {
+              "name": "Letisuri",
+              "code": "271509",
+              "uniqueCode": "15-286-01913-271509"
+            },
+            {
+              "name": "Lungsen",
+              "code": "271475",
+              "uniqueCode": "15-286-01913-271475"
+            },
+            {
+              "name": "Mautlang",
+              "code": "271497",
+              "uniqueCode": "15-286-01913-271497"
+            },
+            {
+              "name": "Mualmu",
+              "code": "271471",
+              "uniqueCode": "15-286-01913-271471"
+            },
+            {
+              "name": "Muriskata",
+              "code": "271489",
+              "uniqueCode": "15-286-01913-271489"
+            },
+            {
+              "name": "New Lungrang",
+              "code": "271538",
+              "uniqueCode": "15-286-01913-271538"
+            },
+            {
+              "name": "New.Balukiasuri",
+              "code": "271482",
+              "uniqueCode": "15-286-01913-271482"
+            },
+            {
+              "name": "New.Vuakmual",
+              "code": "271530",
+              "uniqueCode": "15-286-01913-271530"
+            },
+            {
+              "name": "Ngiautlang",
+              "code": "271540",
+              "uniqueCode": "15-286-01913-271540"
+            },
+            {
+              "name": "Nunsuri",
+              "code": "271487",
+              "uniqueCode": "15-286-01913-271487"
+            },
+            {
+              "name": "Pangtlang",
+              "code": "271531",
+              "uniqueCode": "15-286-01913-271531"
+            },
+            {
+              "name": "Phairuangchhuah",
+              "code": "271470",
+              "uniqueCode": "15-286-01913-271470"
+            },
+            {
+              "name": "Phairuangkai",
+              "code": "271498",
+              "uniqueCode": "15-286-01913-271498"
+            },
+            {
+              "name": "Putlungasih",
+              "code": "271473",
+              "uniqueCode": "15-286-01913-271473"
+            },
+            {
+              "name": "Rangte",
+              "code": "271500",
+              "uniqueCode": "15-286-01913-271500"
+            },
+            {
+              "name": "Rolui",
+              "code": "271467",
+              "uniqueCode": "15-286-01913-271467"
+            },
+            {
+              "name": "Rualalung",
+              "code": "271519",
+              "uniqueCode": "15-286-01913-271519"
+            },
+            {
+              "name": "S.Chawilung",
+              "code": "271512",
+              "uniqueCode": "15-286-01913-271512"
+            },
+            {
+              "name": "S.Tlangkhang",
+              "code": "271526",
+              "uniqueCode": "15-286-01913-271526"
+            },
+            {
+              "name": "Sailen",
+              "code": "271515",
+              "uniqueCode": "15-286-01913-271515"
+            },
+            {
+              "name": "Saitumkawn",
+              "code": "271532",
+              "uniqueCode": "15-286-01913-271532"
+            },
+            {
+              "name": "Samang",
+              "code": "271527",
+              "uniqueCode": "15-286-01913-271527"
+            },
+            {
+              "name": "Samuksuri(Chengkawllui)",
+              "code": "271462",
+              "uniqueCode": "15-286-01913-271462"
+            },
+            {
+              "name": "Sedailui",
+              "code": "271517",
+              "uniqueCode": "15-286-01913-271517"
+            },
+            {
+              "name": "Serhuan",
+              "code": "271486",
+              "uniqueCode": "15-286-01913-271486"
+            },
+            {
+              "name": "Sihphirtlang",
+              "code": "271469",
+              "uniqueCode": "15-286-01913-271469"
+            },
+            {
+              "name": "Sihtlang",
+              "code": "271524",
+              "uniqueCode": "15-286-01913-271524"
+            },
+            {
+              "name": "Silkur",
+              "code": "271503",
+              "uniqueCode": "15-286-01913-271503"
+            },
+            {
+              "name": "South Lungrang",
+              "code": "271514",
+              "uniqueCode": "15-286-01913-271514"
+            },
+            {
+              "name": "Sugarbasora",
+              "code": "271463",
+              "uniqueCode": "15-286-01913-271463"
+            },
+            {
+              "name": "Thanzamasora",
+              "code": "271513",
+              "uniqueCode": "15-286-01913-271513"
+            },
+            {
+              "name": "Thekaduar",
+              "code": "271491",
+              "uniqueCode": "15-286-01913-271491"
+            },
+            {
+              "name": "Thumbasora",
+              "code": "271508",
+              "uniqueCode": "15-286-01913-271508"
+            },
+            {
+              "name": "Tiperaghat  II",
+              "code": "271506",
+              "uniqueCode": "15-286-01913-271506"
+            },
+            {
+              "name": "Tiperaghat  III",
+              "code": "271505",
+              "uniqueCode": "15-286-01913-271505"
+            },
+            {
+              "name": "Tiperaghat I",
+              "code": "271507",
+              "uniqueCode": "15-286-01913-271507"
+            },
+            {
+              "name": "Tuichawng",
+              "code": "271466",
+              "uniqueCode": "15-286-01913-271466"
+            },
+            {
+              "name": "Tuichawngchhuah",
+              "code": "271465",
+              "uniqueCode": "15-286-01913-271465"
+            },
+            {
+              "name": "Tuisen Bolia",
+              "code": "271535",
+              "uniqueCode": "15-286-01913-271535"
+            },
+            {
+              "name": "Tuisen chhuah",
+              "code": "271536",
+              "uniqueCode": "15-286-01913-271536"
+            },
+            {
+              "name": "Ukdasuri (Tuilet)",
+              "code": "271459",
+              "uniqueCode": "15-286-01913-271459"
+            },
+            {
+              "name": "Vairawkai",
+              "code": "271520",
+              "uniqueCode": "15-286-01913-271520"
+            },
+            {
+              "name": "Vanzawl",
+              "code": "271460",
+              "uniqueCode": "15-286-01913-271460"
+            },
+            {
+              "name": "Vuakmual",
+              "code": "271539",
+              "uniqueCode": "15-286-01913-271539"
+            },
+            {
+              "name": "W.Rotlang",
+              "code": "271499",
+              "uniqueCode": "15-286-01913-271499"
+            },
+            {
+              "name": "Zawlpui",
+              "code": "271533",
+              "uniqueCode": "15-286-01913-271533"
+            },
+            {
+              "name": "Zehtet",
+              "code": "271516",
+              "uniqueCode": "15-286-01913-271516"
+            },
+            {
+              "name": "Zohmun",
+              "code": "271494",
+              "uniqueCode": "15-286-01913-271494"
+            },
+            {
+              "name": "Zuangzawl",
+              "code": "271461",
+              "uniqueCode": "15-286-01913-271461"
+            }
+          ]
+        },
+        {
+          "name": "West Bunghmun",
+          "code": "01912",
+          "villages": [
+            {
+              "name": "Bandiasora",
+              "code": "271444",
+              "uniqueCode": "15-286-01912-271444"
+            },
+            {
+              "name": "Buarpui",
+              "code": "271428",
+              "uniqueCode": "15-286-01912-271428"
+            },
+            {
+              "name": "Changpui",
+              "code": "271435",
+              "uniqueCode": "15-286-01912-271435"
+            },
+            {
+              "name": "Darngawn",
+              "code": "271424",
+              "uniqueCode": "15-286-01912-271424"
+            },
+            {
+              "name": "Dengsur",
+              "code": "271425",
+              "uniqueCode": "15-286-01912-271425"
+            },
+            {
+              "name": "Devasuri",
+              "code": "271446",
+              "uniqueCode": "15-286-01912-271446"
+            },
+            {
+              "name": "Hmundo",
+              "code": "271458",
+              "uniqueCode": "15-286-01912-271458"
+            },
+            {
+              "name": "Hnahkhai",
+              "code": "271447",
+              "uniqueCode": "15-286-01912-271447"
+            },
+            {
+              "name": "Kawlhawk",
+              "code": "271434",
+              "uniqueCode": "15-286-01912-271434"
+            },
+            {
+              "name": "Kawnpui W",
+              "code": "271431",
+              "uniqueCode": "15-286-01912-271431"
+            },
+            {
+              "name": "Kohzai",
+              "code": "271423",
+              "uniqueCode": "15-286-01912-271423"
+            },
+            {
+              "name": "Laisawral",
+              "code": "271422",
+              "uniqueCode": "15-286-01912-271422"
+            },
+            {
+              "name": "Lokisuri",
+              "code": "271450",
+              "uniqueCode": "15-286-01912-271450"
+            },
+            {
+              "name": "Lungchem",
+              "code": "271436",
+              "uniqueCode": "15-286-01912-271436"
+            },
+            {
+              "name": "Machuasora",
+              "code": "271441",
+              "uniqueCode": "15-286-01912-271441"
+            },
+            {
+              "name": "Malsuri",
+              "code": "271448",
+              "uniqueCode": "15-286-01912-271448"
+            },
+            {
+              "name": "Mar’S’",
+              "code": "271419",
+              "uniqueCode": "15-286-01912-271419"
+            },
+            {
+              "name": "Mauzam",
+              "code": "271443",
+              "uniqueCode": "15-286-01912-271443"
+            },
+            {
+              "name": "New Belkhai (Tuikawi)",
+              "code": "271451",
+              "uniqueCode": "15-286-01912-271451"
+            },
+            {
+              "name": "New Sachan",
+              "code": "271439",
+              "uniqueCode": "15-286-01912-271439"
+            },
+            {
+              "name": "New.Khawlek",
+              "code": "271427",
+              "uniqueCode": "15-286-01912-271427"
+            },
+            {
+              "name": "Phainuam",
+              "code": "271440",
+              "uniqueCode": "15-286-01912-271440"
+            },
+            {
+              "name": "Puankhai",
+              "code": "271449",
+              "uniqueCode": "15-286-01912-271449"
+            },
+            {
+              "name": "S.Belkhai",
+              "code": "271454",
+              "uniqueCode": "15-286-01912-271454"
+            },
+            {
+              "name": "S.Dampui",
+              "code": "271430",
+              "uniqueCode": "15-286-01912-271430"
+            },
+            {
+              "name": "S.Khawlek",
+              "code": "271426",
+              "uniqueCode": "15-286-01912-271426"
+            },
+            {
+              "name": "S.Lungdai",
+              "code": "271457",
+              "uniqueCode": "15-286-01912-271457"
+            },
+            {
+              "name": "Sachan",
+              "code": "271438",
+              "uniqueCode": "15-286-01912-271438"
+            },
+            {
+              "name": "Saisen",
+              "code": "271445",
+              "uniqueCode": "15-286-01912-271445"
+            },
+            {
+              "name": "Salmar",
+              "code": "271442",
+              "uniqueCode": "15-286-01912-271442"
+            },
+            {
+              "name": "Serte",
+              "code": "271456",
+              "uniqueCode": "15-286-01912-271456"
+            },
+            {
+              "name": "Sertlangpui",
+              "code": "271455",
+              "uniqueCode": "15-286-01912-271455"
+            },
+            {
+              "name": "Sesawm",
+              "code": "271421",
+              "uniqueCode": "15-286-01912-271421"
+            },
+            {
+              "name": "Sumasumi",
+              "code": "271452",
+              "uniqueCode": "15-286-01912-271452"
+            },
+            {
+              "name": "Terabonia",
+              "code": "271420",
+              "uniqueCode": "15-286-01912-271420"
+            },
+            {
+              "name": "Thenhlum",
+              "code": "271433",
+              "uniqueCode": "15-286-01912-271433"
+            },
+            {
+              "name": "Thingkhim",
+              "code": "271453",
+              "uniqueCode": "15-286-01912-271453"
+            },
+            {
+              "name": "Tleu",
+              "code": "271432",
+              "uniqueCode": "15-286-01912-271432"
+            },
+            {
+              "name": "W.Bunghmun",
+              "code": "271437",
+              "uniqueCode": "15-286-01912-271437"
+            },
+            {
+              "name": "W.Bungtlang",
+              "code": "271429",
+              "uniqueCode": "15-286-01912-271429"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mamit",
+      "code": "281",
+      "talukas": [
+        {
+          "name": "Reiek",
+          "code": "01898",
+          "villages": [
+            {
+              "name": "Ailawng",
+              "code": "271125",
+              "uniqueCode": "15-281-01898-271125"
+            },
+            {
+              "name": "Bawlte",
+              "code": "271129",
+              "uniqueCode": "15-281-01898-271129"
+            },
+            {
+              "name": "Bawngthah",
+              "code": "271130",
+              "uniqueCode": "15-281-01898-271130"
+            },
+            {
+              "name": "Chungtlang",
+              "code": "271123",
+              "uniqueCode": "15-281-01898-271123"
+            },
+            {
+              "name": "Dapchhuah (Tutphai)",
+              "code": "271121",
+              "uniqueCode": "15-281-01898-271121"
+            },
+            {
+              "name": "Darlung",
+              "code": "271131",
+              "uniqueCode": "15-281-01898-271131"
+            },
+            {
+              "name": "Dilzawl",
+              "code": "271116",
+              "uniqueCode": "15-281-01898-271116"
+            },
+            {
+              "name": "Hmunpui",
+              "code": "271115",
+              "uniqueCode": "15-281-01898-271115"
+            },
+            {
+              "name": "Hreichuk",
+              "code": "271135",
+              "uniqueCode": "15-281-01898-271135"
+            },
+            {
+              "name": "Khawrihnim",
+              "code": "271127",
+              "uniqueCode": "15-281-01898-271127"
+            },
+            {
+              "name": "Lengte",
+              "code": "271118",
+              "uniqueCode": "15-281-01898-271118"
+            },
+            {
+              "name": "Lungphun",
+              "code": "271134",
+              "uniqueCode": "15-281-01898-271134"
+            },
+            {
+              "name": "N. Kanghmun",
+              "code": "271128",
+              "uniqueCode": "15-281-01898-271128"
+            },
+            {
+              "name": "Nghalchawm",
+              "code": "271119",
+              "uniqueCode": "15-281-01898-271119"
+            },
+            {
+              "name": "Rallen",
+              "code": "271133",
+              "uniqueCode": "15-281-01898-271133"
+            },
+            {
+              "name": "Rawpuichhip",
+              "code": "271117",
+              "uniqueCode": "15-281-01898-271117"
+            },
+            {
+              "name": "Reiek",
+              "code": "271124",
+              "uniqueCode": "15-281-01898-271124"
+            },
+            {
+              "name": "Rulpuihlim",
+              "code": "271122",
+              "uniqueCode": "15-281-01898-271122"
+            },
+            {
+              "name": "S.Sabual",
+              "code": "271132",
+              "uniqueCode": "15-281-01898-271132"
+            },
+            {
+              "name": "Saitlaw",
+              "code": "271112",
+              "uniqueCode": "15-281-01898-271112"
+            },
+            {
+              "name": "Tuahzawl",
+              "code": "271120",
+              "uniqueCode": "15-281-01898-271120"
+            },
+            {
+              "name": "Vaak",
+              "code": "271113",
+              "uniqueCode": "15-281-01898-271113"
+            },
+            {
+              "name": "W.Lungdar",
+              "code": "271126",
+              "uniqueCode": "15-281-01898-271126"
+            },
+            {
+              "name": "W.Serzawl",
+              "code": "271114",
+              "uniqueCode": "15-281-01898-271114"
+            }
+          ]
+        },
+        {
+          "name": "West Phaileng",
+          "code": "01897",
+          "villages": [
+            {
+              "name": "Aivapui",
+              "code": "271101",
+              "uniqueCode": "15-281-01897-271101"
+            },
+            {
+              "name": "Damparengpui",
+              "code": "271080",
+              "uniqueCode": "15-281-01897-271080"
+            },
+            {
+              "name": "Falkawn",
+              "code": "271094",
+              "uniqueCode": "15-281-01897-271094"
+            },
+            {
+              "name": "Hnahthialzawl",
+              "code": "271092",
+              "uniqueCode": "15-281-01897-271092"
+            },
+            {
+              "name": "Hnahva",
+              "code": "271109",
+              "uniqueCode": "15-281-01897-271109"
+            },
+            {
+              "name": "Hruiduk",
+              "code": "271110",
+              "uniqueCode": "15-281-01897-271110"
+            },
+            {
+              "name": "Kawnmawi",
+              "code": "271089",
+              "uniqueCode": "15-281-01897-271089"
+            },
+            {
+              "name": "Keisalam  I",
+              "code": "271099",
+              "uniqueCode": "15-281-01897-271099"
+            },
+            {
+              "name": "Keisalam II",
+              "code": "271100",
+              "uniqueCode": "15-281-01897-271100"
+            },
+            {
+              "name": "Khawhnai",
+              "code": "271084",
+              "uniqueCode": "15-281-01897-271084"
+            },
+            {
+              "name": "Khawthar",
+              "code": "271083",
+              "uniqueCode": "15-281-01897-271083"
+            },
+            {
+              "name": "Lallen",
+              "code": "271091",
+              "uniqueCode": "15-281-01897-271091"
+            },
+            {
+              "name": "Lizawn",
+              "code": "271096",
+              "uniqueCode": "15-281-01897-271096"
+            },
+            {
+              "name": "Lokisuri",
+              "code": "271105",
+              "uniqueCode": "15-281-01897-271105"
+            },
+            {
+              "name": "Marpara North",
+              "code": "271111",
+              "uniqueCode": "15-281-01897-271111"
+            },
+            {
+              "name": "Mualvum",
+              "code": "271095",
+              "uniqueCode": "15-281-01897-271095"
+            },
+            {
+              "name": "N.Chhippui",
+              "code": "271090",
+              "uniqueCode": "15-281-01897-271090"
+            },
+            {
+              "name": "Parvatui",
+              "code": "271097",
+              "uniqueCode": "15-281-01897-271097"
+            },
+            {
+              "name": "Phuldungsei",
+              "code": "271098",
+              "uniqueCode": "15-281-01897-271098"
+            },
+            {
+              "name": "Pukzing",
+              "code": "271107",
+              "uniqueCode": "15-281-01897-271107"
+            },
+            {
+              "name": "Pukzing vengthar",
+              "code": "271108",
+              "uniqueCode": "15-281-01897-271108"
+            },
+            {
+              "name": "Saithah",
+              "code": "271093",
+              "uniqueCode": "15-281-01897-271093"
+            },
+            {
+              "name": "Salem Boarding",
+              "code": "271086",
+              "uniqueCode": "15-281-01897-271086"
+            },
+            {
+              "name": "Sesih",
+              "code": "271082",
+              "uniqueCode": "15-281-01897-271082"
+            },
+            {
+              "name": "Silsuri",
+              "code": "271106",
+              "uniqueCode": "15-281-01897-271106"
+            },
+            {
+              "name": "Teirei Forest",
+              "code": "271087",
+              "uniqueCode": "15-281-01897-271087"
+            },
+            {
+              "name": "Tuichar",
+              "code": "271081",
+              "uniqueCode": "15-281-01897-271081"
+            },
+            {
+              "name": "Tuilutkawn",
+              "code": "271079",
+              "uniqueCode": "15-281-01897-271079"
+            },
+            {
+              "name": "Tuirum",
+              "code": "271085",
+              "uniqueCode": "15-281-01897-271085"
+            },
+            {
+              "name": "W.Phaileng",
+              "code": "271088",
+              "uniqueCode": "15-281-01897-271088"
+            },
+            {
+              "name": "W.Phulpui",
+              "code": "271104",
+              "uniqueCode": "15-281-01897-271104"
+            },
+            {
+              "name": "Zawlpui",
+              "code": "271103",
+              "uniqueCode": "15-281-01897-271103"
+            },
+            {
+              "name": "Zopui",
+              "code": "271102",
+              "uniqueCode": "15-281-01897-271102"
+            }
+          ]
+        },
+        {
+          "name": "Zawlnuam",
+          "code": "01896",
+          "villages": [
+            {
+              "name": "Andermanik",
+              "code": "271068",
+              "uniqueCode": "15-281-01896-271068"
+            },
+            {
+              "name": "Bajirungpaveng",
+              "code": "271015",
+              "uniqueCode": "15-281-01896-271015"
+            },
+            {
+              "name": "Bawngva",
+              "code": "271042",
+              "uniqueCode": "15-281-01896-271042"
+            },
+            {
+              "name": "Belkhai",
+              "code": "271061",
+              "uniqueCode": "15-281-01896-271061"
+            },
+            {
+              "name": "Bungthuam",
+              "code": "271019",
+              "uniqueCode": "15-281-01896-271019"
+            },
+            {
+              "name": "Chikhatlang",
+              "code": "271070",
+              "uniqueCode": "15-281-01896-271070"
+            },
+            {
+              "name": "Chilui",
+              "code": "271046",
+              "uniqueCode": "15-281-01896-271046"
+            },
+            {
+              "name": "Chuhvel",
+              "code": "271058",
+              "uniqueCode": "15-281-01896-271058"
+            },
+            {
+              "name": "Damanchhora",
+              "code": "271050",
+              "uniqueCode": "15-281-01896-271050"
+            },
+            {
+              "name": "Damdiai",
+              "code": "271077",
+              "uniqueCode": "15-281-01896-271077"
+            },
+            {
+              "name": "Dampui",
+              "code": "271040",
+              "uniqueCode": "15-281-01896-271040"
+            },
+            {
+              "name": "Darlak",
+              "code": "271028",
+              "uniqueCode": "15-281-01896-271028"
+            },
+            {
+              "name": "Dinthar Bethel",
+              "code": "271036",
+              "uniqueCode": "15-281-01896-271036"
+            },
+            {
+              "name": "E.Chipui",
+              "code": "271060",
+              "uniqueCode": "15-281-01896-271060"
+            },
+            {
+              "name": "Hnahthialtlang",
+              "code": "271051",
+              "uniqueCode": "15-281-01896-271051"
+            },
+            {
+              "name": "Hriphaw",
+              "code": "271018",
+              "uniqueCode": "15-281-01896-271018"
+            },
+            {
+              "name": "K. Sarali",
+              "code": "271045",
+              "uniqueCode": "15-281-01896-271045"
+            },
+            {
+              "name": "Kananthar",
+              "code": "271055",
+              "uniqueCode": "15-281-01896-271055"
+            },
+            {
+              "name": "Kanhmun",
+              "code": "271013",
+              "uniqueCode": "15-281-01896-271013"
+            },
+            {
+              "name": "Kawrtethawveng",
+              "code": "271029",
+              "uniqueCode": "15-281-01896-271029"
+            },
+            {
+              "name": "Kawrthah",
+              "code": "271024",
+              "uniqueCode": "15-281-01896-271024"
+            },
+            {
+              "name": "Khamrang",
+              "code": "271037",
+              "uniqueCode": "15-281-01896-271037"
+            },
+            {
+              "name": "Khanthuam",
+              "code": "271035",
+              "uniqueCode": "15-281-01896-271035"
+            },
+            {
+              "name": "Khantlang",
+              "code": "271062",
+              "uniqueCode": "15-281-01896-271062"
+            },
+            {
+              "name": "Kolalian",
+              "code": "271017",
+              "uniqueCode": "15-281-01896-271017"
+            },
+            {
+              "name": "Lahmun",
+              "code": "271031",
+              "uniqueCode": "15-281-01896-271031"
+            },
+            {
+              "name": "Lambachhora",
+              "code": "271066",
+              "uniqueCode": "15-281-01896-271066"
+            },
+            {
+              "name": "Luimawi",
+              "code": "271014",
+              "uniqueCode": "15-281-01896-271014"
+            },
+            {
+              "name": "Lungmawi",
+              "code": "271053",
+              "uniqueCode": "15-281-01896-271053"
+            },
+            {
+              "name": "Mualthuam",
+              "code": "271027",
+              "uniqueCode": "15-281-01896-271027"
+            },
+            {
+              "name": "N.Lunglei",
+              "code": "271052",
+              "uniqueCode": "15-281-01896-271052"
+            },
+            {
+              "name": "N.Maubuang",
+              "code": "271054",
+              "uniqueCode": "15-281-01896-271054"
+            },
+            {
+              "name": "N.Sabual",
+              "code": "271047",
+              "uniqueCode": "15-281-01896-271047"
+            },
+            {
+              "name": "N.Tlangkhang",
+              "code": "271048",
+              "uniqueCode": "15-281-01896-271048"
+            },
+            {
+              "name": "Nalzawl",
+              "code": "271041",
+              "uniqueCode": "15-281-01896-271041"
+            },
+            {
+              "name": "New Eden",
+              "code": "271072",
+              "uniqueCode": "15-281-01896-271072"
+            },
+            {
+              "name": "Persang",
+              "code": "271067",
+              "uniqueCode": "15-281-01896-271067"
+            },
+            {
+              "name": "Phaizau",
+              "code": "271043",
+              "uniqueCode": "15-281-01896-271043"
+            },
+            {
+              "name": "R Serali",
+              "code": "271075",
+              "uniqueCode": "15-281-01896-271075"
+            },
+            {
+              "name": "Rajivnagar",
+              "code": "271065",
+              "uniqueCode": "15-281-01896-271065"
+            },
+            {
+              "name": "Rengdil",
+              "code": "271022",
+              "uniqueCode": "15-281-01896-271022"
+            },
+            {
+              "name": "Saikhawthlir",
+              "code": "271057",
+              "uniqueCode": "15-281-01896-271057"
+            },
+            {
+              "name": "Saipui",
+              "code": "271069",
+              "uniqueCode": "15-281-01896-271069"
+            },
+            {
+              "name": "Saipuilui",
+              "code": "271039",
+              "uniqueCode": "15-281-01896-271039"
+            },
+            {
+              "name": "Serhmun",
+              "code": "271030",
+              "uniqueCode": "15-281-01896-271030"
+            },
+            {
+              "name": "Setlak",
+              "code": "271038",
+              "uniqueCode": "15-281-01896-271038"
+            },
+            {
+              "name": "Sihthiang",
+              "code": "271049",
+              "uniqueCode": "15-281-01896-271049"
+            },
+            {
+              "name": "Sotapa Veng",
+              "code": "271026",
+              "uniqueCode": "15-281-01896-271026"
+            },
+            {
+              "name": "Suarhliap",
+              "code": "271056",
+              "uniqueCode": "15-281-01896-271056"
+            },
+            {
+              "name": "Thaidawr",
+              "code": "271074",
+              "uniqueCode": "15-281-01896-271074"
+            },
+            {
+              "name": "Thinghlun",
+              "code": "271016",
+              "uniqueCode": "15-281-01896-271016"
+            },
+            {
+              "name": "Tiauzau",
+              "code": "271078",
+              "uniqueCode": "15-281-01896-271078"
+            },
+            {
+              "name": "Tuidai",
+              "code": "271044",
+              "uniqueCode": "15-281-01896-271044"
+            },
+            {
+              "name": "Tuidam",
+              "code": "271071",
+              "uniqueCode": "15-281-01896-271071"
+            },
+            {
+              "name": "Tuipuibari",
+              "code": "271064",
+              "uniqueCode": "15-281-01896-271064"
+            },
+            {
+              "name": "Tuirum",
+              "code": "271034",
+              "uniqueCode": "15-281-01896-271034"
+            },
+            {
+              "name": "Tumpanglui",
+              "code": "271025",
+              "uniqueCode": "15-281-01896-271025"
+            },
+            {
+              "name": "Vanmawiaveng",
+              "code": "271073",
+              "uniqueCode": "15-281-01896-271073"
+            },
+            {
+              "name": "Vawngawnzo",
+              "code": "271076",
+              "uniqueCode": "15-281-01896-271076"
+            },
+            {
+              "name": "W.Bunghmun",
+              "code": "271033",
+              "uniqueCode": "15-281-01896-271033"
+            },
+            {
+              "name": "W.Chipui",
+              "code": "271059",
+              "uniqueCode": "15-281-01896-271059"
+            },
+            {
+              "name": "W.Damdiai",
+              "code": "271023",
+              "uniqueCode": "15-281-01896-271023"
+            },
+            {
+              "name": "W.Lungpher",
+              "code": "271032",
+              "uniqueCode": "15-281-01896-271032"
+            },
+            {
+              "name": "Zamuang",
+              "code": "271021",
+              "uniqueCode": "15-281-01896-271021"
+            },
+            {
+              "name": "Zawlpui",
+              "code": "271020",
+              "uniqueCode": "15-281-01896-271020"
+            },
+            {
+              "name": "Zomuantlang",
+              "code": "271063",
+              "uniqueCode": "15-281-01896-271063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saiha",
+      "code": "288",
+      "talukas": [
+        {
+          "name": "Saiha",
+          "code": "01921",
+          "villages": [
+            {
+              "name": "Ainak",
+              "code": "271834",
+              "uniqueCode": "15-288-01921-271834"
+            },
+            {
+              "name": "Chhuarlung  I",
+              "code": "271841",
+              "uniqueCode": "15-288-01921-271841"
+            },
+            {
+              "name": "Chhuarlung  II",
+              "code": "271842",
+              "uniqueCode": "15-288-01921-271842"
+            },
+            {
+              "name": "Kawlchaw  ‘E’",
+              "code": "271830",
+              "uniqueCode": "15-288-01921-271830"
+            },
+            {
+              "name": "Lower Theiva",
+              "code": "271831",
+              "uniqueCode": "15-288-01921-271831"
+            },
+            {
+              "name": "Lungbun",
+              "code": "271832",
+              "uniqueCode": "15-288-01921-271832"
+            },
+            {
+              "name": "Maubawk ‘CH’",
+              "code": "271829",
+              "uniqueCode": "15-288-01921-271829"
+            },
+            {
+              "name": "Maubawk ‘L’",
+              "code": "271828",
+              "uniqueCode": "15-288-01921-271828"
+            },
+            {
+              "name": "Niawhtlang  I",
+              "code": "271839",
+              "uniqueCode": "15-288-01921-271839"
+            },
+            {
+              "name": "Niawhtlang  II",
+              "code": "271840",
+              "uniqueCode": "15-288-01921-271840"
+            },
+            {
+              "name": "Old Tuisumpui",
+              "code": "271837",
+              "uniqueCode": "15-288-01921-271837"
+            },
+            {
+              "name": "Phalhrang",
+              "code": "271823",
+              "uniqueCode": "15-288-01921-271823"
+            },
+            {
+              "name": "Phusa",
+              "code": "271833",
+              "uniqueCode": "15-288-01921-271833"
+            },
+            {
+              "name": "Rawmibawk",
+              "code": "271824",
+              "uniqueCode": "15-288-01921-271824"
+            },
+            {
+              "name": "Riasikah",
+              "code": "271825",
+              "uniqueCode": "15-288-01921-271825"
+            },
+            {
+              "name": "Siata",
+              "code": "271835",
+              "uniqueCode": "15-288-01921-271835"
+            },
+            {
+              "name": "Thingsen",
+              "code": "271838",
+              "uniqueCode": "15-288-01921-271838"
+            },
+            {
+              "name": "Tuipui Ferry",
+              "code": "271826",
+              "uniqueCode": "15-288-01921-271826"
+            },
+            {
+              "name": "Tuisumpui",
+              "code": "271836",
+              "uniqueCode": "15-288-01921-271836"
+            },
+            {
+              "name": "Zeropoint",
+              "code": "271827",
+              "uniqueCode": "15-288-01921-271827"
+            }
+          ]
+        },
+        {
+          "name": "Tuipang",
+          "code": "01920",
+          "villages": [
+            {
+              "name": "Ahmypi",
+              "code": "271802",
+              "uniqueCode": "15-288-01920-271802"
+            },
+            {
+              "name": "Bymari",
+              "code": "271818",
+              "uniqueCode": "15-288-01920-271818"
+            },
+            {
+              "name": "Chakhang",
+              "code": "271797",
+              "uniqueCode": "15-288-01920-271797"
+            },
+            {
+              "name": "Chapui",
+              "code": "271800",
+              "uniqueCode": "15-288-01920-271800"
+            },
+            {
+              "name": "Chheihlu",
+              "code": "271796",
+              "uniqueCode": "15-288-01920-271796"
+            },
+            {
+              "name": "Dairy Veng Tuipang",
+              "code": "271793",
+              "uniqueCode": "15-288-01920-271793"
+            },
+            {
+              "name": "Isa",
+              "code": "271810",
+              "uniqueCode": "15-288-01920-271810"
+            },
+            {
+              "name": "Kaisih",
+              "code": "271803",
+              "uniqueCode": "15-288-01920-271803"
+            },
+            {
+              "name": "Kaisih New",
+              "code": "271804",
+              "uniqueCode": "15-288-01920-271804"
+            },
+            {
+              "name": "Khaikhy",
+              "code": "271821",
+              "uniqueCode": "15-288-01920-271821"
+            },
+            {
+              "name": "Khopai",
+              "code": "271801",
+              "uniqueCode": "15-288-01920-271801"
+            },
+            {
+              "name": "Laki",
+              "code": "271815",
+              "uniqueCode": "15-288-01920-271815"
+            },
+            {
+              "name": "Latawh Old",
+              "code": "271788",
+              "uniqueCode": "15-288-01920-271788"
+            },
+            {
+              "name": "Lawngban",
+              "code": "271807",
+              "uniqueCode": "15-288-01920-271807"
+            },
+            {
+              "name": "Lehri (New Latawh)",
+              "code": "271806",
+              "uniqueCode": "15-288-01920-271806"
+            },
+            {
+              "name": "Leisai",
+              "code": "271822",
+              "uniqueCode": "15-288-01920-271822"
+            },
+            {
+              "name": "Longmasu",
+              "code": "271817",
+              "uniqueCode": "15-288-01920-271817"
+            },
+            {
+              "name": "Lope (Zyhne)",
+              "code": "271819",
+              "uniqueCode": "15-288-01920-271819"
+            },
+            {
+              "name": "Lungdar(Lodaw)",
+              "code": "271808",
+              "uniqueCode": "15-288-01920-271808"
+            },
+            {
+              "name": "Lungpuk",
+              "code": "271820",
+              "uniqueCode": "15-288-01920-271820"
+            },
+            {
+              "name": "Maila",
+              "code": "271805",
+              "uniqueCode": "15-288-01920-271805"
+            },
+            {
+              "name": "Mawhre",
+              "code": "271799",
+              "uniqueCode": "15-288-01920-271799"
+            },
+            {
+              "name": "Mipu",
+              "code": "271814",
+              "uniqueCode": "15-288-01920-271814"
+            },
+            {
+              "name": "New Latawh",
+              "code": "271790",
+              "uniqueCode": "15-288-01920-271790"
+            },
+            {
+              "name": "New Serkawr",
+              "code": "271789",
+              "uniqueCode": "15-288-01920-271789"
+            },
+            {
+              "name": "Phura",
+              "code": "271811",
+              "uniqueCode": "15-288-01920-271811"
+            },
+            {
+              "name": "Saihatlang",
+              "code": "271782",
+              "uniqueCode": "15-288-01920-271782"
+            },
+            {
+              "name": "Sarai",
+              "code": "271809",
+              "uniqueCode": "15-288-01920-271809"
+            },
+            {
+              "name": "Serkawr",
+              "code": "271787",
+              "uniqueCode": "15-288-01920-271787"
+            },
+            {
+              "name": "Siasi",
+              "code": "271798",
+              "uniqueCode": "15-288-01920-271798"
+            },
+            {
+              "name": "Siatlai",
+              "code": "271794",
+              "uniqueCode": "15-288-01920-271794"
+            },
+            {
+              "name": "Supha",
+              "code": "271816",
+              "uniqueCode": "15-288-01920-271816"
+            },
+            {
+              "name": "Tema",
+              "code": "271784",
+              "uniqueCode": "15-288-01920-271784"
+            },
+            {
+              "name": "Theiri",
+              "code": "271786",
+              "uniqueCode": "15-288-01920-271786"
+            },
+            {
+              "name": "Tongkolong",
+              "code": "271813",
+              "uniqueCode": "15-288-01920-271813"
+            },
+            {
+              "name": "Tuipang ‘L’",
+              "code": "271791",
+              "uniqueCode": "15-288-01920-271791"
+            },
+            {
+              "name": "Tuipang ‘V’",
+              "code": "271792",
+              "uniqueCode": "15-288-01920-271792"
+            },
+            {
+              "name": "Tuisih",
+              "code": "271785",
+              "uniqueCode": "15-288-01920-271785"
+            },
+            {
+              "name": "Upper Theiva",
+              "code": "271783",
+              "uniqueCode": "15-288-01920-271783"
+            },
+            {
+              "name": "Vahai",
+              "code": "271812",
+              "uniqueCode": "15-288-01920-271812"
+            },
+            {
+              "name": "Zawngling",
+              "code": "271795",
+              "uniqueCode": "15-288-01920-271795"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serchhip",
+      "code": "285",
+      "talukas": [
+        {
+          "name": "East Lungdar (Part)",
+          "code": "01911",
+          "villages": [
+            {
+              "name": "Bawktlang",
+              "code": "271412",
+              "uniqueCode": "15-285-01911-271412"
+            },
+            {
+              "name": "Chekawn",
+              "code": "271406",
+              "uniqueCode": "15-285-01911-271406"
+            },
+            {
+              "name": "E.Lungdar",
+              "code": "271404",
+              "uniqueCode": "15-285-01911-271404"
+            },
+            {
+              "name": "Khawlailung",
+              "code": "271407",
+              "uniqueCode": "15-285-01911-271407"
+            },
+            {
+              "name": "Leilet N.V",
+              "code": "271416",
+              "uniqueCode": "15-285-01911-271416"
+            },
+            {
+              "name": "Leng",
+              "code": "271413",
+              "uniqueCode": "15-285-01911-271413"
+            },
+            {
+              "name": "Lungchhuan",
+              "code": "271411",
+              "uniqueCode": "15-285-01911-271411"
+            },
+            {
+              "name": "Lungkawlh",
+              "code": "271417",
+              "uniqueCode": "15-285-01911-271417"
+            },
+            {
+              "name": "Maicham",
+              "code": "271418",
+              "uniqueCode": "15-285-01911-271418"
+            },
+            {
+              "name": "N.Mualcheng",
+              "code": "271405",
+              "uniqueCode": "15-285-01911-271405"
+            },
+            {
+              "name": "Piler",
+              "code": "271408",
+              "uniqueCode": "15-285-01911-271408"
+            },
+            {
+              "name": "Puallawi",
+              "code": "271415",
+              "uniqueCode": "15-285-01911-271415"
+            },
+            {
+              "name": "Sailulak",
+              "code": "271414",
+              "uniqueCode": "15-285-01911-271414"
+            },
+            {
+              "name": "Sialsir",
+              "code": "271410",
+              "uniqueCode": "15-285-01911-271410"
+            },
+            {
+              "name": "Tuichang",
+              "code": "271409",
+              "uniqueCode": "15-285-01911-271409"
+            }
+          ]
+        },
+        {
+          "name": "Serchhip",
+          "code": "01910",
+          "villages": [
+            {
+              "name": "Bawngchawm",
+              "code": "271398",
+              "uniqueCode": "15-285-01910-271398"
+            },
+            {
+              "name": "Buangpui",
+              "code": "271401",
+              "uniqueCode": "15-285-01910-271401"
+            },
+            {
+              "name": "Chhingchhip",
+              "code": "271386",
+              "uniqueCode": "15-285-01910-271386"
+            },
+            {
+              "name": "E.Bungtlang",
+              "code": "271400",
+              "uniqueCode": "15-285-01910-271400"
+            },
+            {
+              "name": "E.Thinglian",
+              "code": "271394",
+              "uniqueCode": "15-285-01910-271394"
+            },
+            {
+              "name": "Hmuntha",
+              "code": "271388",
+              "uniqueCode": "15-285-01910-271388"
+            },
+            {
+              "name": "Hmunzawl",
+              "code": "271395",
+              "uniqueCode": "15-285-01910-271395"
+            },
+            {
+              "name": "Hriangtlang",
+              "code": "271396",
+              "uniqueCode": "15-285-01910-271396"
+            },
+            {
+              "name": "Keitum",
+              "code": "271399",
+              "uniqueCode": "15-285-01910-271399"
+            },
+            {
+              "name": "Khawbel",
+              "code": "271387",
+              "uniqueCode": "15-285-01910-271387"
+            },
+            {
+              "name": "Lungpho",
+              "code": "271392",
+              "uniqueCode": "15-285-01910-271392"
+            },
+            {
+              "name": "Neihloh",
+              "code": "271402",
+              "uniqueCode": "15-285-01910-271402"
+            },
+            {
+              "name": "Ngentiang",
+              "code": "271393",
+              "uniqueCode": "15-285-01910-271393"
+            },
+            {
+              "name": "Rullam",
+              "code": "271389",
+              "uniqueCode": "15-285-01910-271389"
+            },
+            {
+              "name": "Sialhau",
+              "code": "271391",
+              "uniqueCode": "15-285-01910-271391"
+            },
+            {
+              "name": "Thentlang",
+              "code": "271390",
+              "uniqueCode": "15-285-01910-271390"
+            },
+            {
+              "name": "Vanchengpui",
+              "code": "271403",
+              "uniqueCode": "15-285-01910-271403"
+            },
+            {
+              "name": "Vanchengte",
+              "code": "271397",
+              "uniqueCode": "15-285-01910-271397"
+            }
+          ]
+        },
+        {
+          "name": "Thingsulthliah (Part)",
+          "code": "01905",
+          "villages": [
+            {
+              "name": "Baktawng",
+              "code": "271382",
+              "uniqueCode": "15-285-01905-271382"
+            },
+            {
+              "name": "Buhkangkawn",
+              "code": "271383",
+              "uniqueCode": "15-285-01905-271383"
+            },
+            {
+              "name": "Chanin",
+              "code": "271381",
+              "uniqueCode": "15-285-01905-271381"
+            },
+            {
+              "name": "Hmawngkawn",
+              "code": "271384",
+              "uniqueCode": "15-285-01905-271384"
+            },
+            {
+              "name": "Hualtu",
+              "code": "271380",
+              "uniqueCode": "15-285-01905-271380"
+            },
+            {
+              "name": "Khumtung",
+              "code": "271379",
+              "uniqueCode": "15-285-01905-271379"
+            },
+            {
+              "name": "N.Chawilung",
+              "code": "271385",
+              "uniqueCode": "15-285-01905-271385"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

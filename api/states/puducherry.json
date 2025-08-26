@@ -1,0 +1,550 @@
+{
+  "state": "PUDUCHERRY",
+  "code": "34",
+  "districts": [
+    {
+      "name": "Karaikal",
+      "code": "637",
+      "talukas": [
+        {
+          "name": "Karaikal Taluk",
+          "code": "05914",
+          "villages": [
+            {
+              "name": "Keezhaiyur (North)",
+              "code": "644991",
+              "uniqueCode": "34-637-05914-644991"
+            },
+            {
+              "name": "Keezhaiyur (South)",
+              "code": "644992",
+              "uniqueCode": "34-637-05914-644992"
+            },
+            {
+              "name": "Kizhamanai",
+              "code": "644989",
+              "uniqueCode": "34-637-05914-644989"
+            },
+            {
+              "name": "Kottucherry",
+              "code": "644987",
+              "uniqueCode": "34-637-05914-644987"
+            },
+            {
+              "name": "Neravy",
+              "code": "644990",
+              "uniqueCode": "34-637-05914-644990"
+            },
+            {
+              "name": "Polagam",
+              "code": "644993",
+              "uniqueCode": "34-637-05914-644993"
+            },
+            {
+              "name": "Poovam",
+              "code": "644984",
+              "uniqueCode": "34-637-05914-644984"
+            },
+            {
+              "name": "Thirumalairayanpattinam (CT)",
+              "code": "644995",
+              "uniqueCode": "34-637-05914-644995"
+            },
+            {
+              "name": "Thiruvettakudy",
+              "code": "644985",
+              "uniqueCode": "34-637-05914-644985"
+            },
+            {
+              "name": "Vanjiur",
+              "code": "644994",
+              "uniqueCode": "34-637-05914-644994"
+            },
+            {
+              "name": "Varichikudy (North)",
+              "code": "644983",
+              "uniqueCode": "34-637-05914-644983"
+            },
+            {
+              "name": "Varichikudy (South)",
+              "code": "644986",
+              "uniqueCode": "34-637-05914-644986"
+            },
+            {
+              "name": "Vizhidiur",
+              "code": "644988",
+              "uniqueCode": "34-637-05914-644988"
+            }
+          ]
+        },
+        {
+          "name": "Thirunallar Taluk",
+          "code": "05915",
+          "villages": [
+            {
+              "name": "Ambagarathur",
+              "code": "645001",
+              "uniqueCode": "34-637-05915-645001"
+            },
+            {
+              "name": "Keezhavoor (Part)",
+              "code": "645006",
+              "uniqueCode": "34-637-05915-645006"
+            },
+            {
+              "name": "Kurumbagaram",
+              "code": "644996",
+              "uniqueCode": "34-637-05915-644996"
+            },
+            {
+              "name": "Melakasakudy",
+              "code": "645000",
+              "uniqueCode": "34-637-05915-645000"
+            },
+            {
+              "name": "Nallazhundur",
+              "code": "645002",
+              "uniqueCode": "34-637-05915-645002"
+            },
+            {
+              "name": "Nedungadu",
+              "code": "644999",
+              "uniqueCode": "34-637-05915-644999"
+            },
+            {
+              "name": "Pettai",
+              "code": "645011",
+              "uniqueCode": "34-637-05915-645011"
+            },
+            {
+              "name": "Ponbethy",
+              "code": "644997",
+              "uniqueCode": "34-637-05915-644997"
+            },
+            {
+              "name": "Puthakudy",
+              "code": "644998",
+              "uniqueCode": "34-637-05915-644998"
+            },
+            {
+              "name": "Sellur",
+              "code": "645010",
+              "uniqueCode": "34-637-05915-645010"
+            },
+            {
+              "name": "Sethur",
+              "code": "645009",
+              "uniqueCode": "34-637-05915-645009"
+            },
+            {
+              "name": "Sorakudy",
+              "code": "645004",
+              "uniqueCode": "34-637-05915-645004"
+            },
+            {
+              "name": "Subrayapuram",
+              "code": "645005",
+              "uniqueCode": "34-637-05915-645005"
+            },
+            {
+              "name": "Thennankudy",
+              "code": "645008",
+              "uniqueCode": "34-637-05915-645008"
+            },
+            {
+              "name": "Thevamapuram",
+              "code": "645003",
+              "uniqueCode": "34-637-05915-645003"
+            },
+            {
+              "name": "Thirunallar",
+              "code": "645007",
+              "uniqueCode": "34-637-05915-645007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mahe",
+      "code": "636",
+      "talukas": [
+        {
+          "name": "Mahe Taluk",
+          "code": "05913",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "Puducherry",
+      "code": "635",
+      "talukas": [
+        {
+          "name": "Bahour Taluk",
+          "code": "05912",
+          "villages": [
+            {
+              "name": "Aranganur",
+              "code": "644970",
+              "uniqueCode": "34-635-05912-644970"
+            },
+            {
+              "name": "Bahour",
+              "code": "644978",
+              "uniqueCode": "34-635-05912-644978"
+            },
+            {
+              "name": "Embalam",
+              "code": "644964",
+              "uniqueCode": "34-635-05912-644964"
+            },
+            {
+              "name": "Eripakkam",
+              "code": "644963",
+              "uniqueCode": "34-635-05912-644963"
+            },
+            {
+              "name": "Irulansandy",
+              "code": "644977",
+              "uniqueCode": "34-635-05912-644977"
+            },
+            {
+              "name": "Kaduvanur",
+              "code": "644974",
+              "uniqueCode": "34-635-05912-644974"
+            },
+            {
+              "name": "Karaiyambuthur",
+              "code": "644975",
+              "uniqueCode": "34-635-05912-644975"
+            },
+            {
+              "name": "Kariamanickam",
+              "code": "644962",
+              "uniqueCode": "34-635-05912-644962"
+            },
+            {
+              "name": "Karikalampakkam",
+              "code": "644966",
+              "uniqueCode": "34-635-05912-644966"
+            },
+            {
+              "name": "Kirumampakkam",
+              "code": "644971",
+              "uniqueCode": "34-635-05912-644971"
+            },
+            {
+              "name": "Korkadu",
+              "code": "644965",
+              "uniqueCode": "34-635-05912-644965"
+            },
+            {
+              "name": "Kuruvinatham",
+              "code": "644982",
+              "uniqueCode": "34-635-05912-644982"
+            },
+            {
+              "name": "Madukkarai",
+              "code": "644961",
+              "uniqueCode": "34-635-05912-644961"
+            },
+            {
+              "name": "Manamedu",
+              "code": "644976",
+              "uniqueCode": "34-635-05912-644976"
+            },
+            {
+              "name": "Manapattu",
+              "code": "644979",
+              "uniqueCode": "34-635-05912-644979"
+            },
+            {
+              "name": "Nettapakkam",
+              "code": "644968",
+              "uniqueCode": "34-635-05912-644968"
+            },
+            {
+              "name": "Outchimedu",
+              "code": "644980",
+              "uniqueCode": "34-635-05912-644980"
+            },
+            {
+              "name": "Panayadikuppam",
+              "code": "644969",
+              "uniqueCode": "34-635-05912-644969"
+            },
+            {
+              "name": "Pandasozhanur",
+              "code": "644967",
+              "uniqueCode": "34-635-05912-644967"
+            },
+            {
+              "name": "Parikalpet",
+              "code": "644981",
+              "uniqueCode": "34-635-05912-644981"
+            },
+            {
+              "name": "Pillaiarkuppam",
+              "code": "644972",
+              "uniqueCode": "34-635-05912-644972"
+            },
+            {
+              "name": "Seliamedu",
+              "code": "644973",
+              "uniqueCode": "34-635-05912-644973"
+            }
+          ]
+        },
+        {
+          "name": "Ozhukarai Taluk",
+          "code": "05910",
+          "villages": []
+        },
+        {
+          "name": "Puducherry Taluk",
+          "code": "05909",
+          "villages": [
+            {
+              "name": "Abishegapakkam",
+              "code": "644918",
+              "uniqueCode": "34-635-05909-644918"
+            },
+            {
+              "name": "Ariankuppam (CT)",
+              "code": "644921",
+              "uniqueCode": "34-635-05909-644921"
+            },
+            {
+              "name": "Manavely (CT)",
+              "code": "644922",
+              "uniqueCode": "34-635-05909-644922"
+            },
+            {
+              "name": "Purnankuppam",
+              "code": "644920",
+              "uniqueCode": "34-635-05909-644920"
+            },
+            {
+              "name": "Tavalakuppam",
+              "code": "644919",
+              "uniqueCode": "34-635-05909-644919"
+            },
+            {
+              "name": "Thimmanaickenpalayam",
+              "code": "644917",
+              "uniqueCode": "34-635-05909-644917"
+            }
+          ]
+        },
+        {
+          "name": "Villianur Taluk",
+          "code": "05911",
+          "villages": [
+            {
+              "name": "Arugur",
+              "code": "644951",
+              "uniqueCode": "34-635-05911-644951"
+            },
+            {
+              "name": "Chettipet",
+              "code": "644924",
+              "uniqueCode": "34-635-05911-644924"
+            },
+            {
+              "name": "Kalithirthalkuppam",
+              "code": "644938",
+              "uniqueCode": "34-635-05911-644938"
+            },
+            {
+              "name": "Karasur",
+              "code": "644943",
+              "uniqueCode": "34-635-05911-644943"
+            },
+            {
+              "name": "Katteri",
+              "code": "644927",
+              "uniqueCode": "34-635-05911-644927"
+            },
+            {
+              "name": "Kizhur",
+              "code": "644952",
+              "uniqueCode": "34-635-05911-644952"
+            },
+            {
+              "name": "Kodathur",
+              "code": "644930",
+              "uniqueCode": "34-635-05911-644930"
+            },
+            {
+              "name": "Koodapakkam",
+              "code": "644948",
+              "uniqueCode": "34-635-05911-644948"
+            },
+            {
+              "name": "Kunichampet",
+              "code": "644931",
+              "uniqueCode": "34-635-05911-644931"
+            },
+            {
+              "name": "Kuppam",
+              "code": "644928",
+              "uniqueCode": "34-635-05911-644928"
+            },
+            {
+              "name": "Madagadipet",
+              "code": "644939",
+              "uniqueCode": "34-635-05911-644939"
+            },
+            {
+              "name": "Manakuppam",
+              "code": "644958",
+              "uniqueCode": "34-635-05911-644958"
+            },
+            {
+              "name": "Manalipet",
+              "code": "644923",
+              "uniqueCode": "34-635-05911-644923"
+            },
+            {
+              "name": "Mangalam",
+              "code": "644954",
+              "uniqueCode": "34-635-05911-644954"
+            },
+            {
+              "name": "Mannadipet",
+              "code": "644932",
+              "uniqueCode": "34-635-05911-644932"
+            },
+            {
+              "name": "Odiampet (OG)",
+              "code": "644960",
+              "uniqueCode": "34-635-05911-644960"
+            },
+            {
+              "name": "Oussudu",
+              "code": "644950",
+              "uniqueCode": "34-635-05911-644950"
+            },
+            {
+              "name": "Perungalur",
+              "code": "644957",
+              "uniqueCode": "34-635-05911-644957"
+            },
+            {
+              "name": "Pillaiyarkuppam",
+              "code": "644947",
+              "uniqueCode": "34-635-05911-644947"
+            },
+            {
+              "name": "Pudukuppam",
+              "code": "644926",
+              "uniqueCode": "34-635-05911-644926"
+            },
+            {
+              "name": "Ramanathapuram",
+              "code": "644946",
+              "uniqueCode": "34-635-05911-644946"
+            },
+            {
+              "name": "Sannasikuppam",
+              "code": "644937",
+              "uniqueCode": "34-635-05911-644937"
+            },
+            {
+              "name": "Sathamangalam",
+              "code": "644953",
+              "uniqueCode": "34-635-05911-644953"
+            },
+            {
+              "name": "Sedarapet",
+              "code": "644942",
+              "uniqueCode": "34-635-05911-644942"
+            },
+            {
+              "name": "Sellipattu",
+              "code": "644936",
+              "uniqueCode": "34-635-05911-644936"
+            },
+            {
+              "name": "Sorapet",
+              "code": "644934",
+              "uniqueCode": "34-635-05911-644934"
+            },
+            {
+              "name": "Suthukeny",
+              "code": "644925",
+              "uniqueCode": "34-635-05911-644925"
+            },
+            {
+              "name": "Thethampakkam",
+              "code": "644929",
+              "uniqueCode": "34-635-05911-644929"
+            },
+            {
+              "name": "Thirubuvanai",
+              "code": "644940",
+              "uniqueCode": "34-635-05911-644940"
+            },
+            {
+              "name": "Thirukanji",
+              "code": "644956",
+              "uniqueCode": "34-635-05911-644956"
+            },
+            {
+              "name": "Thiruvandarkoil",
+              "code": "644941",
+              "uniqueCode": "34-635-05911-644941"
+            },
+            {
+              "name": "Thondamanatham",
+              "code": "644945",
+              "uniqueCode": "34-635-05911-644945"
+            },
+            {
+              "name": "Thuthipet",
+              "code": "644944",
+              "uniqueCode": "34-635-05911-644944"
+            },
+            {
+              "name": "Ulaivaikkal",
+              "code": "644949",
+              "uniqueCode": "34-635-05911-644949"
+            },
+            {
+              "name": "Uruvaiyar",
+              "code": "644955",
+              "uniqueCode": "34-635-05911-644955"
+            },
+            {
+              "name": "Vadanur",
+              "code": "644933",
+              "uniqueCode": "34-635-05911-644933"
+            },
+            {
+              "name": "Vambupet",
+              "code": "644935",
+              "uniqueCode": "34-635-05911-644935"
+            },
+            {
+              "name": "Villianur (CT)",
+              "code": "644959",
+              "uniqueCode": "34-635-05911-644959"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yanam",
+      "code": "634",
+      "talukas": [
+        {
+          "name": "Yanam Taluk",
+          "code": "05908",
+          "villages": []
+        }
+      ]
+    }
+  ]
+}

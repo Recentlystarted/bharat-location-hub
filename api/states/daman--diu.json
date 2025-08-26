@@ -1,0 +1,155 @@
+{
+  "state": "DAMAN & DIU",
+  "code": "25",
+  "districts": [
+    {
+      "name": "Daman",
+      "code": "495",
+      "talukas": [
+        {
+          "name": "Daman",
+          "code": "03948",
+          "villages": [
+            {
+              "name": "Bhamati",
+              "code": "524918",
+              "uniqueCode": "25-495-03948-524918"
+            },
+            {
+              "name": "Bhimpore (CT)",
+              "code": "524928",
+              "uniqueCode": "25-495-03948-524928"
+            },
+            {
+              "name": "Dadhel (CT)",
+              "code": "524930",
+              "uniqueCode": "25-495-03948-524930"
+            },
+            {
+              "name": "Damanwada (Dama O-De-Cima)",
+              "code": "524916",
+              "uniqueCode": "25-495-03948-524916"
+            },
+            {
+              "name": "Deva Pardi",
+              "code": "524922",
+              "uniqueCode": "25-495-03948-524922"
+            },
+            {
+              "name": "Devka",
+              "code": "524911",
+              "uniqueCode": "25-495-03948-524911"
+            },
+            {
+              "name": "Dholar",
+              "code": "524919",
+              "uniqueCode": "25-495-03948-524919"
+            },
+            {
+              "name": "Dunetha (CT)",
+              "code": "524929",
+              "uniqueCode": "25-495-03948-524929"
+            },
+            {
+              "name": "Jampore",
+              "code": "524920",
+              "uniqueCode": "25-495-03948-524920"
+            },
+            {
+              "name": "Janivankad",
+              "code": "524912",
+              "uniqueCode": "25-495-03948-524912"
+            },
+            {
+              "name": "Kachigam (CT)",
+              "code": "524931",
+              "uniqueCode": "25-495-03948-524931"
+            },
+            {
+              "name": "Kadaiya (CT)",
+              "code": "524927",
+              "uniqueCode": "25-495-03948-524927"
+            },
+            {
+              "name": "Magarwada",
+              "code": "524915",
+              "uniqueCode": "25-495-03948-524915"
+            },
+            {
+              "name": "Marwad (CT)",
+              "code": "524926",
+              "uniqueCode": "25-495-03948-524926"
+            },
+            {
+              "name": "Naila Pardi",
+              "code": "524923",
+              "uniqueCode": "25-495-03948-524923"
+            },
+            {
+              "name": "Palhit",
+              "code": "524917",
+              "uniqueCode": "25-495-03948-524917"
+            },
+            {
+              "name": "Pariari",
+              "code": "524921",
+              "uniqueCode": "25-495-03948-524921"
+            },
+            {
+              "name": "Ringanwada",
+              "code": "524914",
+              "uniqueCode": "25-495-03948-524914"
+            },
+            {
+              "name": "Thana Pardi",
+              "code": "524924",
+              "uniqueCode": "25-495-03948-524924"
+            },
+            {
+              "name": "Varkund",
+              "code": "524913",
+              "uniqueCode": "25-495-03948-524913"
+            },
+            {
+              "name": "Zari",
+              "code": "524925",
+              "uniqueCode": "25-495-03948-524925"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diu",
+      "code": "494",
+      "talukas": [
+        {
+          "name": "Diu",
+          "code": "03947",
+          "villages": [
+            {
+              "name": "Bhucharvada",
+              "code": "524909",
+              "uniqueCode": "25-494-03947-524909"
+            },
+            {
+              "name": "Saudwadi",
+              "code": "524910",
+              "uniqueCode": "25-494-03947-524910"
+            },
+            {
+              "name": "Vanakbara",
+              "code": "524907",
+              "uniqueCode": "25-494-03947-524907"
+            },
+            {
+              "name": "Zolawadi",
+              "code": "524908",
+              "uniqueCode": "25-494-03947-524908"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
