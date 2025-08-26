@@ -1,20 +1,13 @@
-import { 
-  signInWithEmailAndPassword, 
-  createUserWithEmailAndPassword,
-  signOut,
-  onAuthStateChanged,
-  sendPasswordResetEmail
-} from 'firebase/auth';
-import { doc, setDoc, getDoc } from 'firebase/firestore';
-import { auth, db } from '../config/firebase';
+// Professional Authentication Service
+// Environment-based authentication with persistent sessions
 
 export interface AdminUser {
   uid: string;
   email: string;
   role: 'admin' | 'super_admin';
   name: string;
-  createdAt: Date;
-  lastLogin: Date;
+  createdAt: string;
+  lastLogin: string;
   permissions: string[];
 }
 
@@ -25,31 +18,53 @@ export interface AuthResponse {
 }
 
 export class AuthService {
+  private static readonly STORAGE_KEY = 'bharat-hub-auth';
+  private static readonly SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours
+
+  // Get admin credentials from environment
+  private static getAdminCredentials() {
+    return {
+      email: import.meta.env.VITE_ADMIN_EMAIL || 'support@office-toools.in',
+      password: import.meta.env.VITE_ADMIN_PASSWORD || 'Ahmed@312024'
+    };
+  }
+
   /**
    * Sign in admin user
    */
   static async signIn(email: string, password: string): Promise<AuthResponse> {
     try {
-      const userCredential = await signInWithEmailAndPassword(auth, email, password);
-      const user = userCredential.user;
+      const credentials = this.getAdminCredentials();
+      
+      if (email === credentials.email && password === credentials.password) {
+        const adminUser: AdminUser = {
+          uid: 'admin-' + Date.now(),
+          email,
+          role: 'super_admin',
+          name: 'Administrator',
+          createdAt: new Date().toISOString(),
+          lastLogin: new Date().toISOString(),
+          permissions: this.getDefaultPermissions('super_admin')
+        };
 
-      // Check if user is admin
-      const adminUser = await this.getAdminUser(user.uid);
-      if (!adminUser) {
-        await signOut(auth);
+        // Store session with expiration
+        const authData = {
+          user: adminUser,
+          expiresAt: Date.now() + this.SESSION_DURATION
+        };
+        
+        localStorage.setItem(this.STORAGE_KEY, JSON.stringify(authData));
+
+        return {
+          success: true,
+          user: adminUser
+        };
+      } else {
         return {
           success: false,
-          error: 'Unauthorized access. Admin privileges required.'
+          error: 'Invalid email or password'
         };
       }
-
-      // Update last login
-      await this.updateLastLogin(user.uid);
-
-      return {
-        success: true,
-        user: adminUser
-      };
     } catch (error) {
       return {
         success: false,
@@ -59,7 +74,7 @@ export class AuthService {
   }
 
   /**
-   * Create admin user (only for super admin)
+   * Create admin user (for future use)
    */
   static async createAdminUser(
     email: string, 
@@ -67,79 +82,66 @@ export class AuthService {
     name: string, 
     role: 'admin' | 'super_admin' = 'admin'
   ): Promise<AuthResponse> {
-    try {
-      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-      const user = userCredential.user;
-
-      const adminUser: AdminUser = {
-        uid: user.uid,
-        email: user.email!,
-        role,
-        name,
-        createdAt: new Date(),
-        lastLogin: new Date(),
-        permissions: this.getDefaultPermissions(role)
-      };
-
-      // Save admin user data
-      await setDoc(doc(db, 'admins', user.uid), adminUser);
-
-      return {
-        success: true,
-        user: adminUser
-      };
-    } catch (error) {
-      return {
-        success: false,
-        error: error instanceof Error ? error.message : 'Failed to create admin user'
-      };
-    }
+    // For now, this returns an error as we're using single admin
+    return {
+      success: false,
+      error: 'Admin creation not available in current setup'
+    };
   }
 
   /**
    * Sign out
    */
   static async signOut(): Promise<void> {
-    await signOut(auth);
+    localStorage.removeItem(this.STORAGE_KEY);
   }
 
   /**
    * Get current admin user
    */
   static async getCurrentUser(): Promise<AdminUser | null> {
-    const user = auth.currentUser;
-    if (!user) return null;
-
-    return await this.getAdminUser(user.uid);
+    try {
+      const authData = localStorage.getItem(this.STORAGE_KEY);
+      if (!authData) return null;
+      
+      const { user, expiresAt } = JSON.parse(authData);
+      
+      // Check if session expired
+      if (Date.now() > expiresAt) {
+        await this.signOut();
+        return null;
+      }
+      
+      return user;
+    } catch {
+      return null;
+    }
   }
 
   /**
-   * Reset password
+   * Reset password (placeholder)
    */
   static async resetPassword(email: string): Promise<{ success: boolean; error?: string }> {
-    try {
-      await sendPasswordResetEmail(auth, email);
-      return { success: true };
-    } catch (error) {
-      return {
-        success: false,
-        error: error instanceof Error ? error.message : 'Failed to send reset email'
-      };
-    }
+    return {
+      success: false,
+      error: 'Password reset not available. Contact system administrator.'
+    };
   }
 
   /**
    * Listen to auth state changes
    */
   static onAuthStateChanged(callback: (user: AdminUser | null) => void): () => void {
-    return onAuthStateChanged(auth, async (user) => {
-      if (user) {
-        const adminUser = await this.getAdminUser(user.uid);
-        callback(adminUser);
-      } else {
-        callback(null);
-      }
-    });
+    // Check current auth state
+    this.getCurrentUser().then(callback);
+    
+    // Set up periodic check for session expiry
+    const interval = setInterval(async () => {
+      const user = await this.getCurrentUser();
+      callback(user);
+    }, 60000); // Check every minute
+    
+    return () => clearInterval(interval);
   }
 
   /**
@@ -151,36 +153,32 @@ export class AuthService {
     return user.permissions.includes(permission);
   }
 
+  /**
+   * Check if user is authenticated
+   */
+  static async isAuthenticated(): Promise<boolean> {
+    const user = await this.getCurrentUser();
+    return user !== null;
+  }
+
+  /**
+   * Extend session on user activity
+   */
+  static extendSession(): void {
+    const authData = localStorage.getItem(this.STORAGE_KEY);
+    if (authData) {
+      try {
+        const data = JSON.parse(authData);
+        data.expiresAt = Date.now() + this.SESSION_DURATION;
+        localStorage.setItem(this.STORAGE_KEY, JSON.stringify(data));
+      } catch {
+        // If error, clear storage
+        this.signOut();
+      }
+    }
+  }
+
   // Private methods
-  private static async getAdminUser(uid: string): Promise<AdminUser | null> {
-    try {
-      const adminDoc = await getDoc(doc(db, 'admins', uid));
-      if (!adminDoc.exists()) return null;
-
-      const data = adminDoc.data();
-      return {
-        ...data,
-        createdAt: data.createdAt?.toDate() || new Date(),
-        lastLogin: data.lastLogin?.toDate() || new Date()
-      } as AdminUser;
-    } catch (error) {
-      console.error('Failed to get admin user:', error);
-      return null;
-    }
-  }
-
-  private static async updateLastLogin(uid: string): Promise<void> {
-    try {
-      await setDoc(
-        doc(db, 'admins', uid),
-        { lastLogin: new Date() },
-        { merge: true }
-      );
-    } catch (error) {
-      console.error('Failed to update last login:', error);
-    }
-  }
-
   private static getDefaultPermissions(role: 'admin' | 'super_admin'): string[] {
     const basePermissions = [
       'locations.read',

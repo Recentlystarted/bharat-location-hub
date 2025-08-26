@@ -16,9 +16,14 @@ import {
   BookOpen,
   LogIn,
   Settings,
-  Home
+  Home,
+  Plus,
+  Edit,
+  Trash2,
+  Download,
+  RefreshCw
 } from 'lucide-react';
-import { StaticLocationService, SimpleAuthService } from './services/staticLocationService';
+import { LocationService, AuthService, type Location } from './services/staticLocationService';
 import logoImage from '/logo.png';
 import logoNameImage from '/logo-name.png';
 
@@ -32,22 +37,48 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
+    // Initialize location service
+    LocationService.initialize();
+
+    // Check authentication on page load and fix refresh redirect
+    const user = AuthService.getCurrentUser();
+    if (user) {
+      setUser(user);
+    }
+
     // Initialize from URL hash for SPA routing
     const hash = window.location.hash.slice(1) as Page;
     if (['home', 'login', 'admin', 'docs'].includes(hash)) {
-      setCurrentPage(hash);
-    }
-
-    // Check authentication on page load
-    if (SimpleAuthService.isAuthenticated()) {
-      setUser(SimpleAuthService.getCurrentUser());
+      // If user is authenticated and trying to access login, redirect to admin
+      if (hash === 'login' && user) {
+        setCurrentPage('admin');
+        window.location.hash = 'admin';
+      } else {
+        setCurrentPage(hash);
+      }
+    } else {
+      // Default to home if no valid hash
+      setCurrentPage('home');
+      window.location.hash = 'home';
     }
 
     // Handle browser back/forward
     const handleHashChange = () => {
       const hash = window.location.hash.slice(1) as Page;
+      const currentUser = AuthService.getCurrentUser();
+      
       if (['home', 'login', 'admin', 'docs'].includes(hash)) {
-        setCurrentPage(hash);
+        // Prevent authenticated users from accessing login page
+        if (hash === 'login' && currentUser) {
+          setCurrentPage('admin');
+          window.location.hash = 'admin';
+        } else if (hash === 'admin' && !currentUser) {
+          // Redirect unauthenticated users to login
+          setCurrentPage('login');
+          window.location.hash = 'login';
+        } else {
+          setCurrentPage(hash);
+        }
       }
     };
 
@@ -68,10 +99,11 @@ function App() {
     setLoginError('');
 
     try {
-      const result = SimpleAuthService.login(loginData.email, loginData.password);
+      const result = AuthService.login(loginData.email, loginData.password);
       if (result.success) {
-        setUser(SimpleAuthService.getCurrentUser());
+        setUser(AuthService.getCurrentUser());
         setCurrentPage('admin');
+        window.location.hash = 'admin';
       } else {
         setLoginError(result.error || 'Login failed');
       }
@@ -91,9 +123,10 @@ function App() {
   };
 
   const handleLogout = () => {
-    SimpleAuthService.logout();
+    AuthService.logout();
     setUser(null);
     setCurrentPage('home');
+    window.location.hash = 'home';
   };
 
   const navigateTo = (page: Page) => {
@@ -189,7 +222,7 @@ function App() {
 
     const loadStats = async () => {
       try {
-        const result = await StaticLocationService.getStats();
+        const result = await LocationService.getStats();
         if (result.success) {
           setStats(result.data);
         }
@@ -203,7 +236,7 @@ function App() {
       
       setIsSearching(true);
       try {
-        const result = await StaticLocationService.searchLocations(searchQuery, 10);
+        const result = await LocationService.searchLocations(searchQuery, 10);
         
         if (result.success) {
           setSearchResults(result.data || []);
