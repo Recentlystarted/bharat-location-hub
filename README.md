@@ -1,6 +1,9 @@
 # 🇮🇳 Bharat Location Hub
 
-A comprehensive location database and API for India, containing detailed information about all states, districts, talukas (sub-districts), and villages. Built with React, TypeScript, and Firebase for reliable, scalable access to Indian geographical data.
+A comprehensive REST API for Indian locations with 500,000+ records covering villages, cities, districts, and administrative divisions.
+
+## 🌐 Live Demo
+**Website**: https://india-location-hub.in/
 
 ## 🚀 Features
 
