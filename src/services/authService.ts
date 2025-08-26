@@ -76,12 +76,7 @@ export class AuthService {
   /**
    * Create admin user (for future use)
    */
-  static async createAdminUser(
-    email: string, 
-    password: string, 
-    name: string, 
-    role: 'admin' | 'super_admin' = 'admin'
-  ): Promise<AuthResponse> {
+  static async createAdminUser(): Promise<AuthResponse> {
     // For now, this returns an error as we're using single admin
     return {
       success: false,
@@ -121,7 +116,7 @@ export class AuthService {
   /**
    * Reset password (placeholder)
    */
-  static async resetPassword(email: string): Promise<{ success: boolean; error?: string }> {
+  static async resetPassword(): Promise<{ success: boolean; error?: string }> {
     return {
       success: false,
       error: 'Password reset not available. Contact system administrator.'

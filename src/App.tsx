@@ -16,14 +16,9 @@ import {
   BookOpen,
   LogIn,
   Settings,
-  Home,
-  Plus,
-  Edit,
-  Trash2,
-  Download,
-  RefreshCw
+  Home
 } from 'lucide-react';
-import { LocationService, AuthService, type Location } from './services/staticLocationService';
+import { LocationService, AuthService } from './services/staticLocationService';
 import logoImage from '/logo.png';
 import logoNameImage from '/logo-name.png';
 
@@ -40,44 +35,61 @@ function App() {
     // Initialize location service
     LocationService.initialize();
 
-    // Check authentication on page load and fix refresh redirect
+    // Check authentication state first
     const user = AuthService.getCurrentUser();
     if (user) {
       setUser(user);
     }
 
-    // Initialize from URL hash for SPA routing
-    const hash = window.location.hash.slice(1) as Page;
-    if (['home', 'login', 'admin', 'docs'].includes(hash)) {
-      // If user is authenticated and trying to access login, redirect to admin
-      if (hash === 'login' && user) {
+    // Get current hash or default to home
+    let hash = window.location.hash.slice(1) as Page;
+    if (!['home', 'login', 'admin', 'docs'].includes(hash)) {
+      hash = 'home';
+    }
+
+    // Apply authentication-based routing logic
+    if (user) {
+      // User is authenticated
+      if (hash === 'login') {
+        // Redirect authenticated user from login to admin
         setCurrentPage('admin');
         window.location.hash = 'admin';
       } else {
         setCurrentPage(hash);
       }
     } else {
-      // Default to home if no valid hash
-      setCurrentPage('home');
-      window.location.hash = 'home';
+      // User is not authenticated
+      if (hash === 'admin') {
+        // Redirect unauthenticated user from admin to login
+        setCurrentPage('login');
+        window.location.hash = 'login';
+      } else {
+        setCurrentPage(hash);
+      }
     }
 
-    // Handle browser back/forward
+    // Handle browser back/forward navigation
     const handleHashChange = () => {
-      const hash = window.location.hash.slice(1) as Page;
+      const newHash = window.location.hash.slice(1) as Page;
       const currentUser = AuthService.getCurrentUser();
       
-      if (['home', 'login', 'admin', 'docs'].includes(hash)) {
-        // Prevent authenticated users from accessing login page
-        if (hash === 'login' && currentUser) {
-          setCurrentPage('admin');
-          window.location.hash = 'admin';
-        } else if (hash === 'admin' && !currentUser) {
-          // Redirect unauthenticated users to login
-          setCurrentPage('login');
-          window.location.hash = 'login';
+      if (['home', 'login', 'admin', 'docs'].includes(newHash)) {
+        if (currentUser) {
+          // Authenticated user logic
+          if (newHash === 'login') {
+            setCurrentPage('admin');
+            window.location.hash = 'admin';
+          } else {
+            setCurrentPage(newHash);
+          }
         } else {
-          setCurrentPage(hash);
+          // Unauthenticated user logic
+          if (newHash === 'admin') {
+            setCurrentPage('login');
+            window.location.hash = 'login';
+          } else {
+            setCurrentPage(newHash);
+          }
         }
       }
     };
