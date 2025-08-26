@@ -1,0 +1,4795 @@
+{
+  "state": "TRIPURA",
+  "code": "16",
+  "districts": [
+    {
+      "name": "Dhalai",
+      "code": "291",
+      "talukas": [
+        {
+          "name": "Ambassa",
+          "code": "01951",
+          "villages": [
+            {
+              "name": "Auliraipara",
+              "code": "272499",
+              "uniqueCode": "16-291-01951-272499"
+            },
+            {
+              "name": "Bagmara",
+              "code": "272492",
+              "uniqueCode": "16-291-01951-272492"
+            },
+            {
+              "name": "Balaram",
+              "code": "272491",
+              "uniqueCode": "16-291-01951-272491"
+            },
+            {
+              "name": "Baluchhara",
+              "code": "272510",
+              "uniqueCode": "16-291-01951-272510"
+            },
+            {
+              "name": "Batabari",
+              "code": "272516",
+              "uniqueCode": "16-291-01951-272516"
+            },
+            {
+              "name": "Chakmapara",
+              "code": "272511",
+              "uniqueCode": "16-291-01951-272511"
+            },
+            {
+              "name": "Dangamapara",
+              "code": "272521",
+              "uniqueCode": "16-291-01951-272521"
+            },
+            {
+              "name": "Ganganagar",
+              "code": "272515",
+              "uniqueCode": "16-291-01951-272515"
+            },
+            {
+              "name": "Gangaprasadpara",
+              "code": "272520",
+              "uniqueCode": "16-291-01951-272520"
+            },
+            {
+              "name": "Gurudhanpara",
+              "code": "272502",
+              "uniqueCode": "16-291-01951-272502"
+            },
+            {
+              "name": "Harimangalpara",
+              "code": "272503",
+              "uniqueCode": "16-291-01951-272503"
+            },
+            {
+              "name": "Jagannathpur",
+              "code": "272498",
+              "uniqueCode": "16-291-01951-272498"
+            },
+            {
+              "name": "Kamalachhara",
+              "code": "272495",
+              "uniqueCode": "16-291-01951-272495"
+            },
+            {
+              "name": "Kanchanpur (Part)",
+              "code": "272496",
+              "uniqueCode": "16-291-01951-272496"
+            },
+            {
+              "name": "Karmapara",
+              "code": "272506",
+              "uniqueCode": "16-291-01951-272506"
+            },
+            {
+              "name": "Karnamanipara",
+              "code": "272508",
+              "uniqueCode": "16-291-01951-272508"
+            },
+            {
+              "name": "Kathalbari",
+              "code": "272500",
+              "uniqueCode": "16-291-01951-272500"
+            },
+            {
+              "name": "Khamupara",
+              "code": "272513",
+              "uniqueCode": "16-291-01951-272513"
+            },
+            {
+              "name": "Khowaipara",
+              "code": "272514",
+              "uniqueCode": "16-291-01951-272514"
+            },
+            {
+              "name": "Kulai",
+              "code": "272494",
+              "uniqueCode": "16-291-01951-272494"
+            },
+            {
+              "name": "Kulai  R.F. (Extn.)",
+              "code": "272505",
+              "uniqueCode": "16-291-01951-272505"
+            },
+            {
+              "name": "Kulai R.F.",
+              "code": "272504",
+              "uniqueCode": "16-291-01951-272504"
+            },
+            {
+              "name": "Lalchhara",
+              "code": "272509",
+              "uniqueCode": "16-291-01951-272509"
+            },
+            {
+              "name": "Lalchhari",
+              "code": "272493",
+              "uniqueCode": "16-291-01951-272493"
+            },
+            {
+              "name": "Paschim Nalichhara",
+              "code": "272489",
+              "uniqueCode": "16-291-01951-272489"
+            },
+            {
+              "name": "Purba Nalichhara",
+              "code": "272490",
+              "uniqueCode": "16-291-01951-272490"
+            },
+            {
+              "name": "Pustaraipara",
+              "code": "272517",
+              "uniqueCode": "16-291-01951-272517"
+            },
+            {
+              "name": "Radharambari",
+              "code": "272519",
+              "uniqueCode": "16-291-01951-272519"
+            },
+            {
+              "name": "Raipasa",
+              "code": "272497",
+              "uniqueCode": "16-291-01951-272497"
+            },
+            {
+              "name": "Sardinkhapara",
+              "code": "272518",
+              "uniqueCode": "16-291-01951-272518"
+            },
+            {
+              "name": "Satbhaiyapara",
+              "code": "272522",
+              "uniqueCode": "16-291-01951-272522"
+            },
+            {
+              "name": "Siddhapara",
+              "code": "272523",
+              "uniqueCode": "16-291-01951-272523"
+            },
+            {
+              "name": "Sikaribari",
+              "code": "272501",
+              "uniqueCode": "16-291-01951-272501"
+            },
+            {
+              "name": "Tetaiya",
+              "code": "272512",
+              "uniqueCode": "16-291-01951-272512"
+            },
+            {
+              "name": "Ulemchhara",
+              "code": "272507",
+              "uniqueCode": "16-291-01951-272507"
+            }
+          ]
+        },
+        {
+          "name": "Area not under any Sub-district",
+          "code": "99999",
+          "villages": []
+        },
+        {
+          "name": "Chhamanu",
+          "code": "01952",
+          "villages": [
+            {
+              "name": "Central Catchment R.F.",
+              "code": "272536",
+              "uniqueCode": "16-291-01952-272536"
+            },
+            {
+              "name": "Dakshin Longtarai",
+              "code": "272529",
+              "uniqueCode": "16-291-01952-272529"
+            },
+            {
+              "name": "Debchhara",
+              "code": "272535",
+              "uniqueCode": "16-291-01952-272535"
+            },
+            {
+              "name": "Durgachhara",
+              "code": "272526",
+              "uniqueCode": "16-291-01952-272526"
+            },
+            {
+              "name": "Joychandra Para",
+              "code": "272524",
+              "uniqueCode": "16-291-01952-272524"
+            },
+            {
+              "name": "Makarchhara",
+              "code": "272531",
+              "uniqueCode": "16-291-01952-272531"
+            },
+            {
+              "name": "Manikpur",
+              "code": "272533",
+              "uniqueCode": "16-291-01952-272533"
+            },
+            {
+              "name": "Manu Chhailengta R.F. (Part)",
+              "code": "272532",
+              "uniqueCode": "16-291-01952-272532"
+            },
+            {
+              "name": "Paschim Chhamanu",
+              "code": "272530",
+              "uniqueCode": "16-291-01952-272530"
+            },
+            {
+              "name": "Purba Chhamanu",
+              "code": "272534",
+              "uniqueCode": "16-291-01952-272534"
+            },
+            {
+              "name": "Sadhujan Para",
+              "code": "272527",
+              "uniqueCode": "16-291-01952-272527"
+            },
+            {
+              "name": "Sonapur",
+              "code": "272525",
+              "uniqueCode": "16-291-01952-272525"
+            },
+            {
+              "name": "Uttar Longtarai",
+              "code": "272528",
+              "uniqueCode": "16-291-01952-272528"
+            }
+          ]
+        },
+        {
+          "name": "Dumburnagar",
+          "code": "01953",
+          "villages": [
+            {
+              "name": "Barabari",
+              "code": "272538",
+              "uniqueCode": "16-291-01953-272538"
+            },
+            {
+              "name": "Bhagirath Para",
+              "code": "272540",
+              "uniqueCode": "16-291-01953-272540"
+            },
+            {
+              "name": "Birchandranagar",
+              "code": "272553",
+              "uniqueCode": "16-291-01953-272553"
+            },
+            {
+              "name": "Boalkhali",
+              "code": "272569",
+              "uniqueCode": "16-291-01953-272569"
+            },
+            {
+              "name": "Bulongbasa",
+              "code": "272550",
+              "uniqueCode": "16-291-01953-272550"
+            },
+            {
+              "name": "Chitrajhari",
+              "code": "272547",
+              "uniqueCode": "16-291-01953-272547"
+            },
+            {
+              "name": "Dalapatipara",
+              "code": "272543",
+              "uniqueCode": "16-291-01953-272543"
+            },
+            {
+              "name": "Dhalajhari",
+              "code": "272549",
+              "uniqueCode": "16-291-01953-272549"
+            },
+            {
+              "name": "Jagabandhupara",
+              "code": "272537",
+              "uniqueCode": "16-291-01953-272537"
+            },
+            {
+              "name": "Jarulchhara",
+              "code": "272571",
+              "uniqueCode": "16-291-01953-272571"
+            },
+            {
+              "name": "Jinaraipara",
+              "code": "272539",
+              "uniqueCode": "16-291-01953-272539"
+            },
+            {
+              "name": "Joyrampur",
+              "code": "272556",
+              "uniqueCode": "16-291-01953-272556"
+            },
+            {
+              "name": "Kamalakhal",
+              "code": "272565",
+              "uniqueCode": "16-291-01953-272565"
+            },
+            {
+              "name": "Kamalasram",
+              "code": "272566",
+              "uniqueCode": "16-291-01953-272566"
+            },
+            {
+              "name": "Khederkot",
+              "code": "272564",
+              "uniqueCode": "16-291-01953-272564"
+            },
+            {
+              "name": "Laxmipur",
+              "code": "272548",
+              "uniqueCode": "16-291-01953-272548"
+            },
+            {
+              "name": "Malyansingh",
+              "code": "272542",
+              "uniqueCode": "16-291-01953-272542"
+            },
+            {
+              "name": "Paschim Gandachhara",
+              "code": "272546",
+              "uniqueCode": "16-291-01953-272546"
+            },
+            {
+              "name": "Paschim Kalyansingh",
+              "code": "272554",
+              "uniqueCode": "16-291-01953-272554"
+            },
+            {
+              "name": "Paschim Potachhara",
+              "code": "272573",
+              "uniqueCode": "16-291-01953-272573"
+            },
+            {
+              "name": "Paschim Raima",
+              "code": "272567",
+              "uniqueCode": "16-291-01953-272567"
+            },
+            {
+              "name": "Purba Gandachhara",
+              "code": "272544",
+              "uniqueCode": "16-291-01953-272544"
+            },
+            {
+              "name": "Purba Kalajhari R.F",
+              "code": "272563",
+              "uniqueCode": "16-291-01953-272563"
+            },
+            {
+              "name": "Purba Kalyansingh",
+              "code": "272555",
+              "uniqueCode": "16-291-01953-272555"
+            },
+            {
+              "name": "Purba Potachhara",
+              "code": "272572",
+              "uniqueCode": "16-291-01953-272572"
+            },
+            {
+              "name": "Purba Raima",
+              "code": "272568",
+              "uniqueCode": "16-291-01953-272568"
+            },
+            {
+              "name": "Ramnagar",
+              "code": "272562",
+              "uniqueCode": "16-291-01953-272562"
+            },
+            {
+              "name": "Ranipukur",
+              "code": "272561",
+              "uniqueCode": "16-291-01953-272561"
+            },
+            {
+              "name": "Ratan Nagar",
+              "code": "272558",
+              "uniqueCode": "16-291-01953-272558"
+            },
+            {
+              "name": "Sardong",
+              "code": "272557",
+              "uniqueCode": "16-291-01953-272557"
+            },
+            {
+              "name": "Sarma",
+              "code": "272551",
+              "uniqueCode": "16-291-01953-272551"
+            },
+            {
+              "name": "Sipasingh",
+              "code": "272541",
+              "uniqueCode": "16-291-01953-272541"
+            },
+            {
+              "name": "Sukraichhara",
+              "code": "272570",
+              "uniqueCode": "16-291-01953-272570"
+            },
+            {
+              "name": "Thakurchhara",
+              "code": "272560",
+              "uniqueCode": "16-291-01953-272560"
+            },
+            {
+              "name": "Tuichama",
+              "code": "272559",
+              "uniqueCode": "16-291-01953-272559"
+            },
+            {
+              "name": "Ultachhara",
+              "code": "272545",
+              "uniqueCode": "16-291-01953-272545"
+            },
+            {
+              "name": "Uttaraipara",
+              "code": "272552",
+              "uniqueCode": "16-291-01953-272552"
+            }
+          ]
+        },
+        {
+          "name": "Manu",
+          "code": "01950",
+          "villages": [
+            {
+              "name": "Chailengta",
+              "code": "272484",
+              "uniqueCode": "16-291-01950-272484"
+            },
+            {
+              "name": "Dakshin Dhumachhara",
+              "code": "272477",
+              "uniqueCode": "16-291-01950-272477"
+            },
+            {
+              "name": "Demchhara",
+              "code": "272467",
+              "uniqueCode": "16-291-01950-272467"
+            },
+            {
+              "name": "Deo Reserve Forest (Part)",
+              "code": "272472",
+              "uniqueCode": "16-291-01950-272472"
+            },
+            {
+              "name": "Gainarma",
+              "code": "272483",
+              "uniqueCode": "16-291-01950-272483"
+            },
+            {
+              "name": "Ghagrachhara",
+              "code": "272485",
+              "uniqueCode": "16-291-01950-272485"
+            },
+            {
+              "name": "Jamirchhara",
+              "code": "272481",
+              "uniqueCode": "16-291-01950-272481"
+            },
+            {
+              "name": "Jarulchhara",
+              "code": "272479",
+              "uniqueCode": "16-291-01950-272479"
+            },
+            {
+              "name": "Kanchanchhara",
+              "code": "272470",
+              "uniqueCode": "16-291-01950-272470"
+            },
+            {
+              "name": "Karatichhara",
+              "code": "272468",
+              "uniqueCode": "16-291-01950-272468"
+            },
+            {
+              "name": "Kathalchhara",
+              "code": "272466",
+              "uniqueCode": "16-291-01950-272466"
+            },
+            {
+              "name": "Lalchhara",
+              "code": "272486",
+              "uniqueCode": "16-291-01950-272486"
+            },
+            {
+              "name": "Longtarai R.F.",
+              "code": "272482",
+              "uniqueCode": "16-291-01950-272482"
+            },
+            {
+              "name": "Mainama",
+              "code": "272480",
+              "uniqueCode": "16-291-01950-272480"
+            },
+            {
+              "name": "Manu (CT)",
+              "code": "272488",
+              "uniqueCode": "16-291-01950-272488"
+            },
+            {
+              "name": "Manu Chhailengta R.F.(Part)",
+              "code": "272487",
+              "uniqueCode": "16-291-01950-272487"
+            },
+            {
+              "name": "Nalkata",
+              "code": "272469",
+              "uniqueCode": "16-291-01950-272469"
+            },
+            {
+              "name": "Paschim Karamchhara",
+              "code": "272474",
+              "uniqueCode": "16-291-01950-272474"
+            },
+            {
+              "name": "Paschim Masli",
+              "code": "272475",
+              "uniqueCode": "16-291-01950-272475"
+            },
+            {
+              "name": "Purba Karamchhara",
+              "code": "272473",
+              "uniqueCode": "16-291-01950-272473"
+            },
+            {
+              "name": "Purba Masli",
+              "code": "272478",
+              "uniqueCode": "16-291-01950-272478"
+            },
+            {
+              "name": "Ultachhara",
+              "code": "272471",
+              "uniqueCode": "16-291-01950-272471"
+            },
+            {
+              "name": "Uttar Dhumachhara",
+              "code": "272476",
+              "uniqueCode": "16-291-01950-272476"
+            }
+          ]
+        },
+        {
+          "name": "Salema",
+          "code": "01949",
+          "villages": [
+            {
+              "name": "Abhanga",
+              "code": "272453",
+              "uniqueCode": "16-291-01949-272453"
+            },
+            {
+              "name": "Apareshkar",
+              "code": "272450",
+              "uniqueCode": "16-291-01949-272450"
+            },
+            {
+              "name": "Bamanchhara",
+              "code": "272439",
+              "uniqueCode": "16-291-01949-272439"
+            },
+            {
+              "name": "Baralutma",
+              "code": "272448",
+              "uniqueCode": "16-291-01949-272448"
+            },
+            {
+              "name": "Barasurma",
+              "code": "272426",
+              "uniqueCode": "16-291-01949-272426"
+            },
+            {
+              "name": "Bishnupur",
+              "code": "272431",
+              "uniqueCode": "16-291-01949-272431"
+            },
+            {
+              "name": "Chankap",
+              "code": "272446",
+              "uniqueCode": "16-291-01949-272446"
+            },
+            {
+              "name": "Chhetrai",
+              "code": "272437",
+              "uniqueCode": "16-291-01949-272437"
+            },
+            {
+              "name": "Chotasurma",
+              "code": "272436",
+              "uniqueCode": "16-291-01949-272436"
+            },
+            {
+              "name": "Chulubari",
+              "code": "272440",
+              "uniqueCode": "16-291-01949-272440"
+            },
+            {
+              "name": "Dab bari",
+              "code": "272462",
+              "uniqueCode": "16-291-01949-272462"
+            },
+            {
+              "name": "Dakshin Bilashchhara",
+              "code": "272421",
+              "uniqueCode": "16-291-01949-272421"
+            },
+            {
+              "name": "Darang Tilla",
+              "code": "272434",
+              "uniqueCode": "16-291-01949-272434"
+            },
+            {
+              "name": "Debichhara",
+              "code": "272447",
+              "uniqueCode": "16-291-01949-272447"
+            },
+            {
+              "name": "Duraichhara",
+              "code": "272443",
+              "uniqueCode": "16-291-01949-272443"
+            },
+            {
+              "name": "Ganganagar (Part)",
+              "code": "272423",
+              "uniqueCode": "16-291-01949-272423"
+            },
+            {
+              "name": "Halahali",
+              "code": "272444",
+              "uniqueCode": "16-291-01949-272444"
+            },
+            {
+              "name": "Halhuli (Halahali - 1991 Census)",
+              "code": "272427",
+              "uniqueCode": "16-291-01949-272427"
+            },
+            {
+              "name": "Harerkhola (Part)",
+              "code": "272429",
+              "uniqueCode": "16-291-01949-272429"
+            },
+            {
+              "name": "Jamthumbari",
+              "code": "272454",
+              "uniqueCode": "16-291-01949-272454"
+            },
+            {
+              "name": "Kachuchhara",
+              "code": "272463",
+              "uniqueCode": "16-291-01949-272463"
+            },
+            {
+              "name": "Kalachhari (CT)",
+              "code": "272465",
+              "uniqueCode": "16-291-01949-272465"
+            },
+            {
+              "name": "Katalutma",
+              "code": "272452",
+              "uniqueCode": "16-291-01949-272452"
+            },
+            {
+              "name": "Kuchainala",
+              "code": "272435",
+              "uniqueCode": "16-291-01949-272435"
+            },
+            {
+              "name": "Lambuchhara",
+              "code": "272432",
+              "uniqueCode": "16-291-01949-272432"
+            },
+            {
+              "name": "Latiachhara",
+              "code": "272464",
+              "uniqueCode": "16-291-01949-272464"
+            },
+            {
+              "name": "Longtarai R.F.",
+              "code": "272438",
+              "uniqueCode": "16-291-01949-272438"
+            },
+            {
+              "name": "Mahabir",
+              "code": "272445",
+              "uniqueCode": "16-291-01949-272445"
+            },
+            {
+              "name": "Maharani",
+              "code": "272457",
+              "uniqueCode": "16-291-01949-272457"
+            },
+            {
+              "name": "Manik Bhandar",
+              "code": "272441",
+              "uniqueCode": "16-291-01949-272441"
+            },
+            {
+              "name": "Marachhara",
+              "code": "272425",
+              "uniqueCode": "16-291-01949-272425"
+            },
+            {
+              "name": "Mayachhari",
+              "code": "272430",
+              "uniqueCode": "16-291-01949-272430"
+            },
+            {
+              "name": "Mendi",
+              "code": "272458",
+              "uniqueCode": "16-291-01949-272458"
+            },
+            {
+              "name": "Michhuria",
+              "code": "272456",
+              "uniqueCode": "16-291-01949-272456"
+            },
+            {
+              "name": "Mohanpur",
+              "code": "272424",
+              "uniqueCode": "16-291-01949-272424"
+            },
+            {
+              "name": "Mothirmia",
+              "code": "272433",
+              "uniqueCode": "16-291-01949-272433"
+            },
+            {
+              "name": "Nakful",
+              "code": "272449",
+              "uniqueCode": "16-291-01949-272449"
+            },
+            {
+              "name": "Noagaon (Part)",
+              "code": "272422",
+              "uniqueCode": "16-291-01949-272422"
+            },
+            {
+              "name": "Panbua",
+              "code": "272451",
+              "uniqueCode": "16-291-01949-272451"
+            },
+            {
+              "name": "Panchasi",
+              "code": "272428",
+              "uniqueCode": "16-291-01949-272428"
+            },
+            {
+              "name": "Paschim Daluchhara",
+              "code": "272459",
+              "uniqueCode": "16-291-01949-272459"
+            },
+            {
+              "name": "Purba Daluchhara",
+              "code": "272460",
+              "uniqueCode": "16-291-01949-272460"
+            },
+            {
+              "name": "Salema",
+              "code": "272461",
+              "uniqueCode": "16-291-01949-272461"
+            },
+            {
+              "name": "Simbuchak",
+              "code": "272455",
+              "uniqueCode": "16-291-01949-272455"
+            },
+            {
+              "name": "Srirampur",
+              "code": "272442",
+              "uniqueCode": "16-291-01949-272442"
+            },
+            {
+              "name": "Uttar Bilashchhara",
+              "code": "272420",
+              "uniqueCode": "16-291-01949-272420"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North Tripura",
+      "code": "292",
+      "talukas": [
+        {
+          "name": "Area not under any Sub-district",
+          "code": "99999",
+          "villages": []
+        },
+        {
+          "name": "Damchhara",
+          "code": "01957",
+          "villages": [
+            {
+              "name": "Bangsul",
+              "code": "272658",
+              "uniqueCode": "16-292-01957-272658"
+            },
+            {
+              "name": "Damchhara",
+              "code": "272662",
+              "uniqueCode": "16-292-01957-272662"
+            },
+            {
+              "name": "Damchhara R.F.",
+              "code": "272665",
+              "uniqueCode": "16-292-01957-272665"
+            },
+            {
+              "name": "Indurail (Part)",
+              "code": "272661",
+              "uniqueCode": "16-292-01957-272661"
+            },
+            {
+              "name": "Juri R.F.",
+              "code": "272657",
+              "uniqueCode": "16-292-01957-272657"
+            },
+            {
+              "name": "Kacharichhara",
+              "code": "272664",
+              "uniqueCode": "16-292-01957-272664"
+            },
+            {
+              "name": "Kalagang (Part)",
+              "code": "272667",
+              "uniqueCode": "16-292-01957-272667"
+            },
+            {
+              "name": "Khedachhara",
+              "code": "272666",
+              "uniqueCode": "16-292-01957-272666"
+            },
+            {
+              "name": "Narendranagar",
+              "code": "272663",
+              "uniqueCode": "16-292-01957-272663"
+            },
+            {
+              "name": "Piplachhara",
+              "code": "272659",
+              "uniqueCode": "16-292-01957-272659"
+            },
+            {
+              "name": "Rahumchhara",
+              "code": "272660",
+              "uniqueCode": "16-292-01957-272660"
+            }
+          ]
+        },
+        {
+          "name": "Dasda",
+          "code": "01960",
+          "villages": [
+            {
+              "name": "Belianchief (Part)",
+              "code": "272730",
+              "uniqueCode": "16-292-01960-272730"
+            },
+            {
+              "name": "Central Catchment R.F.",
+              "code": "272728",
+              "uniqueCode": "16-292-01960-272728"
+            },
+            {
+              "name": "Chandipur",
+              "code": "272715",
+              "uniqueCode": "16-292-01960-272715"
+            },
+            {
+              "name": "Dasda Laxmipur",
+              "code": "272718",
+              "uniqueCode": "16-292-01960-272718"
+            },
+            {
+              "name": "Dasmanipara",
+              "code": "272720",
+              "uniqueCode": "16-292-01960-272720"
+            },
+            {
+              "name": "Gachirampara",
+              "code": "272727",
+              "uniqueCode": "16-292-01960-272727"
+            },
+            {
+              "name": "Jamraipara",
+              "code": "272711",
+              "uniqueCode": "16-292-01960-272711"
+            },
+            {
+              "name": "Jayantipara",
+              "code": "272710",
+              "uniqueCode": "16-292-01960-272710"
+            },
+            {
+              "name": "Kalapania",
+              "code": "272723",
+              "uniqueCode": "16-292-01960-272723"
+            },
+            {
+              "name": "Kamarmara",
+              "code": "272719",
+              "uniqueCode": "16-292-01960-272719"
+            },
+            {
+              "name": "Kanchanchhara",
+              "code": "272714",
+              "uniqueCode": "16-292-01960-272714"
+            },
+            {
+              "name": "Kanchanpur (CT)",
+              "code": "272731",
+              "uniqueCode": "16-292-01960-272731"
+            },
+            {
+              "name": "Laljuri (Part)",
+              "code": "272709",
+              "uniqueCode": "16-292-01960-272709"
+            },
+            {
+              "name": "Lambachhara",
+              "code": "272724",
+              "uniqueCode": "16-292-01960-272724"
+            },
+            {
+              "name": "Manu Chailengta R.F.",
+              "code": "272716",
+              "uniqueCode": "16-292-01960-272716"
+            },
+            {
+              "name": "Paschim Tlangsanbari (Part)",
+              "code": "272729",
+              "uniqueCode": "16-292-01960-272729"
+            },
+            {
+              "name": "Ramprasaipara",
+              "code": "272725",
+              "uniqueCode": "16-292-01960-272725"
+            },
+            {
+              "name": "Santipur",
+              "code": "272712",
+              "uniqueCode": "16-292-01960-272712"
+            },
+            {
+              "name": "Satnala",
+              "code": "272717",
+              "uniqueCode": "16-292-01960-272717"
+            },
+            {
+              "name": "Sibnagar",
+              "code": "272713",
+              "uniqueCode": "16-292-01960-272713"
+            },
+            {
+              "name": "Sunitipur",
+              "code": "272722",
+              "uniqueCode": "16-292-01960-272722"
+            },
+            {
+              "name": "Taiyangpara",
+              "code": "272721",
+              "uniqueCode": "16-292-01960-272721"
+            },
+            {
+              "name": "Tuichhama",
+              "code": "272726",
+              "uniqueCode": "16-292-01960-272726"
+            },
+            {
+              "name": "Ujan Machhmara R.F.",
+              "code": "272708",
+              "uniqueCode": "16-292-01960-272708"
+            }
+          ]
+        },
+        {
+          "name": "Gournagar",
+          "code": "01954",
+          "villages": [
+            {
+              "name": "Bhagaban Nagar",
+              "code": "272608",
+              "uniqueCode": "16-292-01954-272608"
+            },
+            {
+              "name": "Bilashpur",
+              "code": "272606",
+              "uniqueCode": "16-292-01954-272606"
+            },
+            {
+              "name": "Birchandranagar",
+              "code": "272605",
+              "uniqueCode": "16-292-01954-272605"
+            },
+            {
+              "name": "Chandipur",
+              "code": "272594",
+              "uniqueCode": "16-292-01954-272594"
+            },
+            {
+              "name": "Chhantail",
+              "code": "272592",
+              "uniqueCode": "16-292-01954-272592"
+            },
+            {
+              "name": "Debasthal",
+              "code": "272587",
+              "uniqueCode": "16-292-01954-272587"
+            },
+            {
+              "name": "Deorachhara",
+              "code": "272586",
+              "uniqueCode": "16-292-01954-272586"
+            },
+            {
+              "name": "Dhaliarkandi",
+              "code": "272579",
+              "uniqueCode": "16-292-01954-272579"
+            },
+            {
+              "name": "Dhanbilash",
+              "code": "272602",
+              "uniqueCode": "16-292-01954-272602"
+            },
+            {
+              "name": "Dhatuchhara",
+              "code": "272611",
+              "uniqueCode": "16-292-01954-272611"
+            },
+            {
+              "name": "Fultali",
+              "code": "272603",
+              "uniqueCode": "16-292-01954-272603"
+            },
+            {
+              "name": "Golakpur",
+              "code": "272600",
+              "uniqueCode": "16-292-01954-272600"
+            },
+            {
+              "name": "Gournagar",
+              "code": "272590",
+              "uniqueCode": "16-292-01954-272590"
+            },
+            {
+              "name": "Guldharpur",
+              "code": "272589",
+              "uniqueCode": "16-292-01954-272589"
+            },
+            {
+              "name": "Halaichhara",
+              "code": "272599",
+              "uniqueCode": "16-292-01954-272599"
+            },
+            {
+              "name": "Hirachhara",
+              "code": "272578",
+              "uniqueCode": "16-292-01954-272578"
+            },
+            {
+              "name": "Ichabpur",
+              "code": "272585",
+              "uniqueCode": "16-292-01954-272585"
+            },
+            {
+              "name": "Irani",
+              "code": "272577",
+              "uniqueCode": "16-292-01954-272577"
+            },
+            {
+              "name": "Jalai",
+              "code": "272610",
+              "uniqueCode": "16-292-01954-272610"
+            },
+            {
+              "name": "Jarultali",
+              "code": "272604",
+              "uniqueCode": "16-292-01954-272604"
+            },
+            {
+              "name": "Jubarajnagar",
+              "code": "272583",
+              "uniqueCode": "16-292-01954-272583"
+            },
+            {
+              "name": "Kamarangabari",
+              "code": "272591",
+              "uniqueCode": "16-292-01954-272591"
+            },
+            {
+              "name": "Kanakpur",
+              "code": "272582",
+              "uniqueCode": "16-292-01954-272582"
+            },
+            {
+              "name": "Kaulikura",
+              "code": "272607",
+              "uniqueCode": "16-292-01954-272607"
+            },
+            {
+              "name": "Khowrabil",
+              "code": "272576",
+              "uniqueCode": "16-292-01954-272576"
+            },
+            {
+              "name": "Latiapur",
+              "code": "272574",
+              "uniqueCode": "16-292-01954-272574"
+            },
+            {
+              "name": "Laxmipur",
+              "code": "272581",
+              "uniqueCode": "16-292-01954-272581"
+            },
+            {
+              "name": "Manu Valley",
+              "code": "272597",
+              "uniqueCode": "16-292-01954-272597"
+            },
+            {
+              "name": "Murtichhara",
+              "code": "272596",
+              "uniqueCode": "16-292-01954-272596"
+            },
+            {
+              "name": "Pakhirbada",
+              "code": "272588",
+              "uniqueCode": "16-292-01954-272588"
+            },
+            {
+              "name": "Rangauti",
+              "code": "272575",
+              "uniqueCode": "16-292-01954-272575"
+            },
+            {
+              "name": "Rangrung",
+              "code": "272598",
+              "uniqueCode": "16-292-01954-272598"
+            },
+            {
+              "name": "Samaruhala R.F.",
+              "code": "272601",
+              "uniqueCode": "16-292-01954-272601"
+            },
+            {
+              "name": "Samrurpar",
+              "code": "272595",
+              "uniqueCode": "16-292-01954-272595"
+            },
+            {
+              "name": "Sonamukhi",
+              "code": "272609",
+              "uniqueCode": "16-292-01954-272609"
+            },
+            {
+              "name": "Srinathpur",
+              "code": "272584",
+              "uniqueCode": "16-292-01954-272584"
+            },
+            {
+              "name": "Srirampur",
+              "code": "272593",
+              "uniqueCode": "16-292-01954-272593"
+            },
+            {
+              "name": "Tilagaon",
+              "code": "272580",
+              "uniqueCode": "16-292-01954-272580"
+            },
+            {
+              "name": "Uttar Unakuti R.F.",
+              "code": "272612",
+              "uniqueCode": "16-292-01954-272612"
+            }
+          ]
+        },
+        {
+          "name": "Jampuii hills",
+          "code": "01961",
+          "villages": [
+            {
+              "name": "Banglabari",
+              "code": "272738",
+              "uniqueCode": "16-292-01961-272738"
+            },
+            {
+              "name": "Belianchief (Part)",
+              "code": "272737",
+              "uniqueCode": "16-292-01961-272737"
+            },
+            {
+              "name": "Bhangmun",
+              "code": "272736",
+              "uniqueCode": "16-292-01961-272736"
+            },
+            {
+              "name": "Central Catchment R.F.",
+              "code": "272743",
+              "uniqueCode": "16-292-01961-272743"
+            },
+            {
+              "name": "Kalagang (Part)",
+              "code": "272735",
+              "uniqueCode": "16-292-01961-272735"
+            },
+            {
+              "name": "Paschim Manpai",
+              "code": "272732",
+              "uniqueCode": "16-292-01961-272732"
+            },
+            {
+              "name": "Paschim Tlangsangbari (Part)",
+              "code": "272739",
+              "uniqueCode": "16-292-01961-272739"
+            },
+            {
+              "name": "Purba Manpai",
+              "code": "272733",
+              "uniqueCode": "16-292-01961-272733"
+            },
+            {
+              "name": "Sabual",
+              "code": "272742",
+              "uniqueCode": "16-292-01961-272742"
+            },
+            {
+              "name": "Sailo",
+              "code": "272741",
+              "uniqueCode": "16-292-01961-272741"
+            },
+            {
+              "name": "Simblong",
+              "code": "272740",
+              "uniqueCode": "16-292-01961-272740"
+            },
+            {
+              "name": "Tlakchi",
+              "code": "272734",
+              "uniqueCode": "16-292-01961-272734"
+            }
+          ]
+        },
+        {
+          "name": "Kadamtala",
+          "code": "01955",
+          "villages": [
+            {
+              "name": "Baruakandi (Part)",
+              "code": "272626",
+              "uniqueCode": "16-292-01955-272626"
+            },
+            {
+              "name": "Bhagyapur",
+              "code": "272627",
+              "uniqueCode": "16-292-01955-272627"
+            },
+            {
+              "name": "Bishnupur",
+              "code": "272624",
+              "uniqueCode": "16-292-01955-272624"
+            },
+            {
+              "name": "Brajendranagar",
+              "code": "272615",
+              "uniqueCode": "16-292-01955-272615"
+            },
+            {
+              "name": "Chandpur",
+              "code": "272632",
+              "uniqueCode": "16-292-01955-272632"
+            },
+            {
+              "name": "Churaibari",
+              "code": "272622",
+              "uniqueCode": "16-292-01955-272622"
+            },
+            {
+              "name": "Hurua (Part)",
+              "code": "272628",
+              "uniqueCode": "16-292-01955-272628"
+            },
+            {
+              "name": "Ichailalchhara",
+              "code": "272623",
+              "uniqueCode": "16-292-01955-272623"
+            },
+            {
+              "name": "Kadamtala",
+              "code": "272621",
+              "uniqueCode": "16-292-01955-272621"
+            },
+            {
+              "name": "Kurti",
+              "code": "272617",
+              "uniqueCode": "16-292-01955-272617"
+            },
+            {
+              "name": "Laxminagar",
+              "code": "272631",
+              "uniqueCode": "16-292-01955-272631"
+            },
+            {
+              "name": "Maheshpur",
+              "code": "272619",
+              "uniqueCode": "16-292-01955-272619"
+            },
+            {
+              "name": "Piarachhara",
+              "code": "272616",
+              "uniqueCode": "16-292-01955-272616"
+            },
+            {
+              "name": "Pratyekrai",
+              "code": "272630",
+              "uniqueCode": "16-292-01955-272630"
+            },
+            {
+              "name": "Ragna",
+              "code": "272625",
+              "uniqueCode": "16-292-01955-272625"
+            },
+            {
+              "name": "Ranibari",
+              "code": "272614",
+              "uniqueCode": "16-292-01955-272614"
+            },
+            {
+              "name": "Sanichhara",
+              "code": "272629",
+              "uniqueCode": "16-292-01955-272629"
+            },
+            {
+              "name": "Sarala",
+              "code": "272618",
+              "uniqueCode": "16-292-01955-272618"
+            },
+            {
+              "name": "Saraspur",
+              "code": "272620",
+              "uniqueCode": "16-292-01955-272620"
+            },
+            {
+              "name": "Satsangam",
+              "code": "272613",
+              "uniqueCode": "16-292-01955-272613"
+            }
+          ]
+        },
+        {
+          "name": "Kumarghat",
+          "code": "01959",
+          "villages": [
+            {
+              "name": "Betchhara",
+              "code": "272703",
+              "uniqueCode": "16-292-01959-272703"
+            },
+            {
+              "name": "Dakshin Unakuti R.F.",
+              "code": "272690",
+              "uniqueCode": "16-292-01959-272690"
+            },
+            {
+              "name": "Dengdung",
+              "code": "272698",
+              "uniqueCode": "16-292-01959-272698"
+            },
+            {
+              "name": "Deo Reserve Forest (Part)",
+              "code": "272706",
+              "uniqueCode": "16-292-01959-272706"
+            },
+            {
+              "name": "Dudhpur",
+              "code": "272702",
+              "uniqueCode": "16-292-01959-272702"
+            },
+            {
+              "name": "Fatikroy (CT)",
+              "code": "272707",
+              "uniqueCode": "16-292-01959-272707"
+            },
+            {
+              "name": "Gakulnagar",
+              "code": "272693",
+              "uniqueCode": "16-292-01959-272693"
+            },
+            {
+              "name": "Ganganagar",
+              "code": "272694",
+              "uniqueCode": "16-292-01959-272694"
+            },
+            {
+              "name": "Jagannathpur",
+              "code": "272688",
+              "uniqueCode": "16-292-01959-272688"
+            },
+            {
+              "name": "Krishnanagar",
+              "code": "272687",
+              "uniqueCode": "16-292-01959-272687"
+            },
+            {
+              "name": "Kumarghat (Part)",
+              "code": "272692",
+              "uniqueCode": "16-292-01959-272692"
+            },
+            {
+              "name": "Laljuri",
+              "code": "272699",
+              "uniqueCode": "16-292-01959-272699"
+            },
+            {
+              "name": "Masauli",
+              "code": "272701",
+              "uniqueCode": "16-292-01959-272701"
+            },
+            {
+              "name": "Natingchhara",
+              "code": "272689",
+              "uniqueCode": "16-292-01959-272689"
+            },
+            {
+              "name": "Pabiachhara (Part)",
+              "code": "272705",
+              "uniqueCode": "16-292-01959-272705"
+            },
+            {
+              "name": "Paschim Kanchanbari",
+              "code": "272700",
+              "uniqueCode": "16-292-01959-272700"
+            },
+            {
+              "name": "Paschim Ratachhara",
+              "code": "272696",
+              "uniqueCode": "16-292-01959-272696"
+            },
+            {
+              "name": "Purba Kanchanbari",
+              "code": "272704",
+              "uniqueCode": "16-292-01959-272704"
+            },
+            {
+              "name": "Purba Ratachhara",
+              "code": "272695",
+              "uniqueCode": "16-292-01959-272695"
+            },
+            {
+              "name": "Radhanagar",
+              "code": "272686",
+              "uniqueCode": "16-292-01959-272686"
+            },
+            {
+              "name": "Rajkandi",
+              "code": "272685",
+              "uniqueCode": "16-292-01959-272685"
+            },
+            {
+              "name": "Saidachhara",
+              "code": "272697",
+              "uniqueCode": "16-292-01959-272697"
+            },
+            {
+              "name": "Sonaimuri",
+              "code": "272691",
+              "uniqueCode": "16-292-01959-272691"
+            }
+          ]
+        },
+        {
+          "name": "Panisagar",
+          "code": "01956",
+          "villages": [
+            {
+              "name": "Bagbasa",
+              "code": "272639",
+              "uniqueCode": "16-292-01956-272639"
+            },
+            {
+              "name": "Balidhum",
+              "code": "272633",
+              "uniqueCode": "16-292-01956-272633"
+            },
+            {
+              "name": "Bilthai",
+              "code": "272650",
+              "uniqueCode": "16-292-01956-272650"
+            },
+            {
+              "name": "Dakshin Padmabil",
+              "code": "272653",
+              "uniqueCode": "16-292-01956-272653"
+            },
+            {
+              "name": "Deochhara",
+              "code": "272647",
+              "uniqueCode": "16-292-01956-272647"
+            },
+            {
+              "name": "Dewanpasa (CT)",
+              "code": "272655",
+              "uniqueCode": "16-292-01956-272655"
+            },
+            {
+              "name": "Dhupirband",
+              "code": "272636",
+              "uniqueCode": "16-292-01956-272636"
+            },
+            {
+              "name": "Ganganagar",
+              "code": "272638",
+              "uniqueCode": "16-292-01956-272638"
+            },
+            {
+              "name": "Indurail (Part)",
+              "code": "272654",
+              "uniqueCode": "16-292-01956-272654"
+            },
+            {
+              "name": "Jalebasa",
+              "code": "272652",
+              "uniqueCode": "16-292-01956-272652"
+            },
+            {
+              "name": "Jubarajnagar",
+              "code": "272642",
+              "uniqueCode": "16-292-01956-272642"
+            },
+            {
+              "name": "Kameswar (Part)",
+              "code": "272637",
+              "uniqueCode": "16-292-01956-272637"
+            },
+            {
+              "name": "Panisagar (CT)",
+              "code": "272656",
+              "uniqueCode": "16-292-01956-272656"
+            },
+            {
+              "name": "Paschim Halflong",
+              "code": "272634",
+              "uniqueCode": "16-292-01956-272634"
+            },
+            {
+              "name": "Paschim Tilthai",
+              "code": "272645",
+              "uniqueCode": "16-292-01956-272645"
+            },
+            {
+              "name": "Pekuchhara",
+              "code": "272651",
+              "uniqueCode": "16-292-01956-272651"
+            },
+            {
+              "name": "Purba Halflong",
+              "code": "272643",
+              "uniqueCode": "16-292-01956-272643"
+            },
+            {
+              "name": "Purba Tilthai",
+              "code": "272646",
+              "uniqueCode": "16-292-01956-272646"
+            },
+            {
+              "name": "Radhapur",
+              "code": "272635",
+              "uniqueCode": "16-292-01956-272635"
+            },
+            {
+              "name": "Rajnagar",
+              "code": "272644",
+              "uniqueCode": "16-292-01956-272644"
+            },
+            {
+              "name": "Ramnagar",
+              "code": "272648",
+              "uniqueCode": "16-292-01956-272648"
+            },
+            {
+              "name": "Roa",
+              "code": "272649",
+              "uniqueCode": "16-292-01956-272649"
+            },
+            {
+              "name": "Uptakhali",
+              "code": "272641",
+              "uniqueCode": "16-292-01956-272641"
+            },
+            {
+              "name": "Uttar Padmabil",
+              "code": "272640",
+              "uniqueCode": "16-292-01956-272640"
+            }
+          ]
+        },
+        {
+          "name": "Pencharthal",
+          "code": "01958",
+          "villages": [
+            {
+              "name": "Baghaichhara",
+              "code": "272676",
+              "uniqueCode": "16-292-01958-272676"
+            },
+            {
+              "name": "Birchandranagar",
+              "code": "272673",
+              "uniqueCode": "16-292-01958-272673"
+            },
+            {
+              "name": "Dakshin Machmara",
+              "code": "272683",
+              "uniqueCode": "16-292-01958-272683"
+            },
+            {
+              "name": "Deo Reserve Forest",
+              "code": "272679",
+              "uniqueCode": "16-292-01958-272679"
+            },
+            {
+              "name": "Deo Reserve Forest (Part)",
+              "code": "272680",
+              "uniqueCode": "16-292-01958-272680"
+            },
+            {
+              "name": "Dewanbari",
+              "code": "272682",
+              "uniqueCode": "16-292-01958-272682"
+            },
+            {
+              "name": "Dhanichhara",
+              "code": "272678",
+              "uniqueCode": "16-292-01958-272678"
+            },
+            {
+              "name": "Karaichhara",
+              "code": "272675",
+              "uniqueCode": "16-292-01958-272675"
+            },
+            {
+              "name": "Lakshmanchhara",
+              "code": "272670",
+              "uniqueCode": "16-292-01958-272670"
+            },
+            {
+              "name": "Laljuri (Part)",
+              "code": "272674",
+              "uniqueCode": "16-292-01958-272674"
+            },
+            {
+              "name": "Nabinchhara",
+              "code": "272671",
+              "uniqueCode": "16-292-01958-272671"
+            },
+            {
+              "name": "Nalkata",
+              "code": "272677",
+              "uniqueCode": "16-292-01958-272677"
+            },
+            {
+              "name": "Paschim Andharchhara",
+              "code": "272668",
+              "uniqueCode": "16-292-01958-272668"
+            },
+            {
+              "name": "Pencharthal",
+              "code": "272672",
+              "uniqueCode": "16-292-01958-272672"
+            },
+            {
+              "name": "Purba Andharchhara",
+              "code": "272669",
+              "uniqueCode": "16-292-01958-272669"
+            },
+            {
+              "name": "Rabiraipara",
+              "code": "272684",
+              "uniqueCode": "16-292-01958-272684"
+            },
+            {
+              "name": "Uttar Machmara",
+              "code": "272681",
+              "uniqueCode": "16-292-01958-272681"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Tripura",
+      "code": "290",
+      "talukas": [
+        {
+          "name": "Amarpur",
+          "code": "01939",
+          "villages": [
+            {
+              "name": "Bampur",
+              "code": "272164",
+              "uniqueCode": "16-290-01939-272164"
+            },
+            {
+              "name": "Baramura Deotamura R.F. (Part)",
+              "code": "272175",
+              "uniqueCode": "16-290-01939-272175"
+            },
+            {
+              "name": "Birganj",
+              "code": "272168",
+              "uniqueCode": "16-290-01939-272168"
+            },
+            {
+              "name": "Dalak",
+              "code": "272172",
+              "uniqueCode": "16-290-01939-272172"
+            },
+            {
+              "name": "Deb bari",
+              "code": "272165",
+              "uniqueCode": "16-290-01939-272165"
+            },
+            {
+              "name": "Gungia",
+              "code": "272167",
+              "uniqueCode": "16-290-01939-272167"
+            },
+            {
+              "name": "Kurmachhara",
+              "code": "272177",
+              "uniqueCode": "16-290-01939-272177"
+            },
+            {
+              "name": "Nutanbazar",
+              "code": "272181",
+              "uniqueCode": "16-290-01939-272181"
+            },
+            {
+              "name": "Paharpur",
+              "code": "272171",
+              "uniqueCode": "16-290-01939-272171"
+            },
+            {
+              "name": "Paschim Daluma",
+              "code": "272178",
+              "uniqueCode": "16-290-01939-272178"
+            },
+            {
+              "name": "Paschim Kalajari R.F. (Part)",
+              "code": "272161",
+              "uniqueCode": "16-290-01939-272161"
+            },
+            {
+              "name": "Paschim Malbasa",
+              "code": "272169",
+              "uniqueCode": "16-290-01939-272169"
+            },
+            {
+              "name": "Paschim Sarbang",
+              "code": "272163",
+              "uniqueCode": "16-290-01939-272163"
+            },
+            {
+              "name": "Purba Daluma",
+              "code": "272179",
+              "uniqueCode": "16-290-01939-272179"
+            },
+            {
+              "name": "Purba Malbasa",
+              "code": "272170",
+              "uniqueCode": "16-290-01939-272170"
+            },
+            {
+              "name": "Purba Sarbang",
+              "code": "272162",
+              "uniqueCode": "16-290-01939-272162"
+            },
+            {
+              "name": "Rajkang",
+              "code": "272174",
+              "uniqueCode": "16-290-01939-272174"
+            },
+            {
+              "name": "Rangamati",
+              "code": "272166",
+              "uniqueCode": "16-290-01939-272166"
+            },
+            {
+              "name": "Rangkang",
+              "code": "272173",
+              "uniqueCode": "16-290-01939-272173"
+            },
+            {
+              "name": "Tairbhuma",
+              "code": "272176",
+              "uniqueCode": "16-290-01939-272176"
+            },
+            {
+              "name": "Uttar Chalagang",
+              "code": "272180",
+              "uniqueCode": "16-290-01939-272180"
+            }
+          ]
+        },
+        {
+          "name": "Area not under any Sub-district",
+          "code": "99999",
+          "villages": []
+        },
+        {
+          "name": "Bokafa",
+          "code": "01945",
+          "villages": [
+            {
+              "name": "Abhangachhara",
+              "code": "272338",
+              "uniqueCode": "16-290-01945-272338"
+            },
+            {
+              "name": "Bagafa (Part)",
+              "code": "272314",
+              "uniqueCode": "16-290-01945-272314"
+            },
+            {
+              "name": "Baikhora",
+              "code": "272323",
+              "uniqueCode": "16-290-01945-272323"
+            },
+            {
+              "name": "Baramura Deotamura R.F.",
+              "code": "272341",
+              "uniqueCode": "16-290-01945-272341"
+            },
+            {
+              "name": "Birchandranagar",
+              "code": "272309",
+              "uniqueCode": "16-290-01945-272309"
+            },
+            {
+              "name": "Birendranagar",
+              "code": "272330",
+              "uniqueCode": "16-290-01945-272330"
+            },
+            {
+              "name": "Chhaigharia",
+              "code": "272317",
+              "uniqueCode": "16-290-01945-272317"
+            },
+            {
+              "name": "Dakshin Barapathary",
+              "code": "272329",
+              "uniqueCode": "16-290-01945-272329"
+            },
+            {
+              "name": "Dakshin Hichachhara",
+              "code": "272336",
+              "uniqueCode": "16-290-01945-272336"
+            },
+            {
+              "name": "Dakshin Takmachhara",
+              "code": "272305",
+              "uniqueCode": "16-290-01945-272305"
+            },
+            {
+              "name": "Gardang",
+              "code": "272316",
+              "uniqueCode": "16-290-01945-272316"
+            },
+            {
+              "name": "Jolaibari",
+              "code": "272332",
+              "uniqueCode": "16-290-01945-272332"
+            },
+            {
+              "name": "Kalalaogang",
+              "code": "272320",
+              "uniqueCode": "16-290-01945-272320"
+            },
+            {
+              "name": "Kalasi",
+              "code": "272327",
+              "uniqueCode": "16-290-01945-272327"
+            },
+            {
+              "name": "Laogang (Part)",
+              "code": "272318",
+              "uniqueCode": "16-290-01945-272318"
+            },
+            {
+              "name": "Laxmichhara",
+              "code": "272322",
+              "uniqueCode": "16-290-01945-272322"
+            },
+            {
+              "name": "Madhya Pillak",
+              "code": "272337",
+              "uniqueCode": "16-290-01945-272337"
+            },
+            {
+              "name": "Muhuripur R.F.",
+              "code": "272326",
+              "uniqueCode": "16-290-01945-272326"
+            },
+            {
+              "name": "Paschim Charakbai",
+              "code": "272324",
+              "uniqueCode": "16-290-01945-272324"
+            },
+            {
+              "name": "Paschim Kathalia (Part)",
+              "code": "272313",
+              "uniqueCode": "16-290-01945-272313"
+            },
+            {
+              "name": "Paschim Manu",
+              "code": "272312",
+              "uniqueCode": "16-290-01945-272312"
+            },
+            {
+              "name": "Paschim Muhuripur",
+              "code": "272334",
+              "uniqueCode": "16-290-01945-272334"
+            },
+            {
+              "name": "Paschim Patichhari",
+              "code": "272310",
+              "uniqueCode": "16-290-01945-272310"
+            },
+            {
+              "name": "Paschim Pillak",
+              "code": "272335",
+              "uniqueCode": "16-290-01945-272335"
+            },
+            {
+              "name": "Purba Charakbai",
+              "code": "272325",
+              "uniqueCode": "16-290-01945-272325"
+            },
+            {
+              "name": "Purba Kathalia",
+              "code": "272307",
+              "uniqueCode": "16-290-01945-272307"
+            },
+            {
+              "name": "Purba Manu",
+              "code": "272308",
+              "uniqueCode": "16-290-01945-272308"
+            },
+            {
+              "name": "Purba Muhuripur",
+              "code": "272333",
+              "uniqueCode": "16-290-01945-272333"
+            },
+            {
+              "name": "Purba Patichhari",
+              "code": "272303",
+              "uniqueCode": "16-290-01945-272303"
+            },
+            {
+              "name": "Purba Pillak",
+              "code": "272339",
+              "uniqueCode": "16-290-01945-272339"
+            },
+            {
+              "name": "Radhakishore Ganj (Part)",
+              "code": "272319",
+              "uniqueCode": "16-290-01945-272319"
+            },
+            {
+              "name": "Raibari",
+              "code": "272321",
+              "uniqueCode": "16-290-01945-272321"
+            },
+            {
+              "name": "Rajapur",
+              "code": "272311",
+              "uniqueCode": "16-290-01945-272311"
+            },
+            {
+              "name": "Santirbazar (Part)",
+              "code": "272315",
+              "uniqueCode": "16-290-01945-272315"
+            },
+            {
+              "name": "Tairumachhara",
+              "code": "272340",
+              "uniqueCode": "16-290-01945-272340"
+            },
+            {
+              "name": "Uttar Barapathary",
+              "code": "272328",
+              "uniqueCode": "16-290-01945-272328"
+            },
+            {
+              "name": "Uttar Debipur",
+              "code": "272306",
+              "uniqueCode": "16-290-01945-272306"
+            },
+            {
+              "name": "Uttar Hichachhara",
+              "code": "272331",
+              "uniqueCode": "16-290-01945-272331"
+            },
+            {
+              "name": "Uttar Takmachhara",
+              "code": "272304",
+              "uniqueCode": "16-290-01945-272304"
+            }
+          ]
+        },
+        {
+          "name": "Hrishyamukh",
+          "code": "01944",
+          "villages": [
+            {
+              "name": "Abhaynagar",
+              "code": "272301",
+              "uniqueCode": "16-290-01944-272301"
+            },
+            {
+              "name": "Bashpadua (Part)",
+              "code": "272294",
+              "uniqueCode": "16-290-01944-272294"
+            },
+            {
+              "name": "Champaknagar",
+              "code": "272296",
+              "uniqueCode": "16-290-01944-272296"
+            },
+            {
+              "name": "Dakshin Sonaichhari",
+              "code": "272293",
+              "uniqueCode": "16-290-01944-272293"
+            },
+            {
+              "name": "Debipur",
+              "code": "272297",
+              "uniqueCode": "16-290-01944-272297"
+            },
+            {
+              "name": "Haripur",
+              "code": "272299",
+              "uniqueCode": "16-290-01944-272299"
+            },
+            {
+              "name": "Hrishyamukh",
+              "code": "272298",
+              "uniqueCode": "16-290-01944-272298"
+            },
+            {
+              "name": "Krishnanagar",
+              "code": "272300",
+              "uniqueCode": "16-290-01944-272300"
+            },
+            {
+              "name": "Manirampur",
+              "code": "272290",
+              "uniqueCode": "16-290-01944-272290"
+            },
+            {
+              "name": "Matai",
+              "code": "272295",
+              "uniqueCode": "16-290-01944-272295"
+            },
+            {
+              "name": "Ratanpur",
+              "code": "272288",
+              "uniqueCode": "16-290-01944-272288"
+            },
+            {
+              "name": "Sarasima (Part)",
+              "code": "272286",
+              "uniqueCode": "16-290-01944-272286"
+            },
+            {
+              "name": "Shibpur",
+              "code": "272291",
+              "uniqueCode": "16-290-01944-272291"
+            },
+            {
+              "name": "Tekka R.F.(Part)",
+              "code": "272302",
+              "uniqueCode": "16-290-01944-272302"
+            },
+            {
+              "name": "Tekka Tulshi R.F.",
+              "code": "272289",
+              "uniqueCode": "16-290-01944-272289"
+            },
+            {
+              "name": "Tuigamari",
+              "code": "272292",
+              "uniqueCode": "16-290-01944-272292"
+            },
+            {
+              "name": "Uttar Sonaichhari",
+              "code": "272287",
+              "uniqueCode": "16-290-01944-272287"
+            }
+          ]
+        },
+        {
+          "name": "Kakraban",
+          "code": "01942",
+          "villages": [
+            {
+              "name": "Amtali",
+              "code": "272239",
+              "uniqueCode": "16-290-01942-272239"
+            },
+            {
+              "name": "Balurpathar",
+              "code": "272251",
+              "uniqueCode": "16-290-01942-272251"
+            },
+            {
+              "name": "Dhuptali",
+              "code": "272254",
+              "uniqueCode": "16-290-01942-272254"
+            },
+            {
+              "name": "Dudhpushkarini",
+              "code": "272245",
+              "uniqueCode": "16-290-01942-272245"
+            },
+            {
+              "name": "Gangachhara",
+              "code": "272248",
+              "uniqueCode": "16-290-01942-272248"
+            },
+            {
+              "name": "Garjanmura",
+              "code": "272238",
+              "uniqueCode": "16-290-01942-272238"
+            },
+            {
+              "name": "Garji R.F. (Part)",
+              "code": "272255",
+              "uniqueCode": "16-290-01942-272255"
+            },
+            {
+              "name": "Hadra",
+              "code": "272240",
+              "uniqueCode": "16-290-01942-272240"
+            },
+            {
+              "name": "Hurijala",
+              "code": "272247",
+              "uniqueCode": "16-290-01942-272247"
+            },
+            {
+              "name": "Jamjuri",
+              "code": "272242",
+              "uniqueCode": "16-290-01942-272242"
+            },
+            {
+              "name": "Jitendranagar",
+              "code": "272253",
+              "uniqueCode": "16-290-01942-272253"
+            },
+            {
+              "name": "Kakraban",
+              "code": "272246",
+              "uniqueCode": "16-290-01942-272246"
+            },
+            {
+              "name": "Murapara (Part)",
+              "code": "272244",
+              "uniqueCode": "16-290-01942-272244"
+            },
+            {
+              "name": "Palatana",
+              "code": "272241",
+              "uniqueCode": "16-290-01942-272241"
+            },
+            {
+              "name": "Rajdharnagar",
+              "code": "272243",
+              "uniqueCode": "16-290-01942-272243"
+            },
+            {
+              "name": "Rani",
+              "code": "272250",
+              "uniqueCode": "16-290-01942-272250"
+            },
+            {
+              "name": "Samukchhara",
+              "code": "272252",
+              "uniqueCode": "16-290-01942-272252"
+            },
+            {
+              "name": "Silghati",
+              "code": "272237",
+              "uniqueCode": "16-290-01942-272237"
+            },
+            {
+              "name": "Upendranagar",
+              "code": "272249",
+              "uniqueCode": "16-290-01942-272249"
+            }
+          ]
+        },
+        {
+          "name": "Karbuk",
+          "code": "01946",
+          "villages": [
+            {
+              "name": "Baramura Deotamura R.F. (Part)",
+              "code": "272342",
+              "uniqueCode": "16-290-01946-272342"
+            },
+            {
+              "name": "Chakpur",
+              "code": "272350",
+              "uniqueCode": "16-290-01946-272350"
+            },
+            {
+              "name": "Dakshin Chalagang",
+              "code": "272344",
+              "uniqueCode": "16-290-01946-272344"
+            },
+            {
+              "name": "Dakshin Ekchhari",
+              "code": "272354",
+              "uniqueCode": "16-290-01946-272354"
+            },
+            {
+              "name": "Dakshin Karbuk",
+              "code": "272357",
+              "uniqueCode": "16-290-01946-272357"
+            },
+            {
+              "name": "Ichhachhari",
+              "code": "272358",
+              "uniqueCode": "16-290-01946-272358"
+            },
+            {
+              "name": "Jarimura",
+              "code": "272348",
+              "uniqueCode": "16-290-01946-272348"
+            },
+            {
+              "name": "Laogang",
+              "code": "272343",
+              "uniqueCode": "16-290-01946-272343"
+            },
+            {
+              "name": "Lebachhara (CT)",
+              "code": "272360",
+              "uniqueCode": "16-290-01946-272360"
+            },
+            {
+              "name": "Mukchhari",
+              "code": "272349",
+              "uniqueCode": "16-290-01946-272349"
+            },
+            {
+              "name": "Paschim Ekchhari",
+              "code": "272345",
+              "uniqueCode": "16-290-01946-272345"
+            },
+            {
+              "name": "Paschim Kalajari R.F. (Part)",
+              "code": "272351",
+              "uniqueCode": "16-290-01946-272351"
+            },
+            {
+              "name": "Paschim Karbuk",
+              "code": "272355",
+              "uniqueCode": "16-290-01946-272355"
+            },
+            {
+              "name": "Paschim Manikya Dewan",
+              "code": "272353",
+              "uniqueCode": "16-290-01946-272353"
+            },
+            {
+              "name": "Patichhari",
+              "code": "272359",
+              "uniqueCode": "16-290-01946-272359"
+            },
+            {
+              "name": "Purba Karbuk",
+              "code": "272356",
+              "uniqueCode": "16-290-01946-272356"
+            },
+            {
+              "name": "Purba Manikya Dewan",
+              "code": "272352",
+              "uniqueCode": "16-290-01946-272352"
+            },
+            {
+              "name": "Rambhadra",
+              "code": "272347",
+              "uniqueCode": "16-290-01946-272347"
+            },
+            {
+              "name": "Uttar Ekchhari",
+              "code": "272346",
+              "uniqueCode": "16-290-01946-272346"
+            }
+          ]
+        },
+        {
+          "name": "Killa",
+          "code": "01938",
+          "villages": [
+            {
+              "name": "Bagma (Part)",
+              "code": "272145",
+              "uniqueCode": "16-290-01938-272145"
+            },
+            {
+              "name": "Chaimaroa",
+              "code": "272151",
+              "uniqueCode": "16-290-01938-272151"
+            },
+            {
+              "name": "Chharthai",
+              "code": "272153",
+              "uniqueCode": "16-290-01938-272153"
+            },
+            {
+              "name": "Choygharia",
+              "code": "272149",
+              "uniqueCode": "16-290-01938-272149"
+            },
+            {
+              "name": "Dakshin Baramura Deotamura R.F.(Part)",
+              "code": "272160",
+              "uniqueCode": "16-290-01938-272160"
+            },
+            {
+              "name": "Dakshin Brajendranagar (Part)",
+              "code": "272156",
+              "uniqueCode": "16-290-01938-272156"
+            },
+            {
+              "name": "Kanchigang  R.F.",
+              "code": "272146",
+              "uniqueCode": "16-290-01938-272146"
+            },
+            {
+              "name": "Khupilong (Part)",
+              "code": "272147",
+              "uniqueCode": "16-290-01938-272147"
+            },
+            {
+              "name": "Killa",
+              "code": "272154",
+              "uniqueCode": "16-290-01938-272154"
+            },
+            {
+              "name": "Laxmipati (Part)",
+              "code": "272159",
+              "uniqueCode": "16-290-01938-272159"
+            },
+            {
+              "name": "Photamati (Part)",
+              "code": "272158",
+              "uniqueCode": "16-290-01938-272158"
+            },
+            {
+              "name": "Purba Brajendranagar",
+              "code": "272157",
+              "uniqueCode": "16-290-01938-272157"
+            },
+            {
+              "name": "Raiabari",
+              "code": "272155",
+              "uniqueCode": "16-290-01938-272155"
+            },
+            {
+              "name": "Thelakum",
+              "code": "272148",
+              "uniqueCode": "16-290-01938-272148"
+            },
+            {
+              "name": "Uttar Baramura Deotamura R.F.",
+              "code": "272150",
+              "uniqueCode": "16-290-01938-272150"
+            },
+            {
+              "name": "Uttar Brajendranagar",
+              "code": "272152",
+              "uniqueCode": "16-290-01938-272152"
+            }
+          ]
+        },
+        {
+          "name": "Matarbari",
+          "code": "01941",
+          "villages": [
+            {
+              "name": "Bagabasa",
+              "code": "272206",
+              "uniqueCode": "16-290-01941-272206"
+            },
+            {
+              "name": "Bagma (Part)",
+              "code": "272202",
+              "uniqueCode": "16-290-01941-272202"
+            },
+            {
+              "name": "Baishabari",
+              "code": "272231",
+              "uniqueCode": "16-290-01941-272231"
+            },
+            {
+              "name": "Barabhaiya",
+              "code": "272204",
+              "uniqueCode": "16-290-01941-272204"
+            },
+            {
+              "name": "Chandrapur R.F.",
+              "code": "272226",
+              "uniqueCode": "16-290-01941-272226"
+            },
+            {
+              "name": "Chapiapara",
+              "code": "272232",
+              "uniqueCode": "16-290-01941-272232"
+            },
+            {
+              "name": "Chhataria",
+              "code": "272210",
+              "uniqueCode": "16-290-01941-272210"
+            },
+            {
+              "name": "Dakshin Baramura Debtamura R.F (Part)",
+              "code": "272229",
+              "uniqueCode": "16-290-01941-272229"
+            },
+            {
+              "name": "Dakshin Brajendranagar (Part)",
+              "code": "272213",
+              "uniqueCode": "16-290-01941-272213"
+            },
+            {
+              "name": "Dakshin Chandrapur",
+              "code": "272220",
+              "uniqueCode": "16-290-01941-272220"
+            },
+            {
+              "name": "Dakshin Maharani",
+              "code": "272227",
+              "uniqueCode": "16-290-01941-272227"
+            },
+            {
+              "name": "Dhwajnagar (CT)",
+              "code": "272233",
+              "uniqueCode": "16-290-01941-272233"
+            },
+            {
+              "name": "Fulkumari (Part) (CT)",
+              "code": "272235",
+              "uniqueCode": "16-290-01941-272235"
+            },
+            {
+              "name": "Gakulpur (CT)",
+              "code": "272234",
+              "uniqueCode": "16-290-01941-272234"
+            },
+            {
+              "name": "Gandhari",
+              "code": "272228",
+              "uniqueCode": "16-290-01941-272228"
+            },
+            {
+              "name": "Garji  R.F. (Part)",
+              "code": "272223",
+              "uniqueCode": "16-290-01941-272223"
+            },
+            {
+              "name": "Garjichhara",
+              "code": "272224",
+              "uniqueCode": "16-290-01941-272224"
+            },
+            {
+              "name": "Hirapur",
+              "code": "272217",
+              "uniqueCode": "16-290-01941-272217"
+            },
+            {
+              "name": "Karaiyamura",
+              "code": "272205",
+              "uniqueCode": "16-290-01941-272205"
+            },
+            {
+              "name": "Khilpara",
+              "code": "272218",
+              "uniqueCode": "16-290-01941-272218"
+            },
+            {
+              "name": "Khupilong (Part)",
+              "code": "272203",
+              "uniqueCode": "16-290-01941-272203"
+            },
+            {
+              "name": "Laxmipati (Part)",
+              "code": "272215",
+              "uniqueCode": "16-290-01941-272215"
+            },
+            {
+              "name": "Matarbari (CT)",
+              "code": "272236",
+              "uniqueCode": "16-290-01941-272236"
+            },
+            {
+              "name": "Murapara (Part)",
+              "code": "272221",
+              "uniqueCode": "16-290-01941-272221"
+            },
+            {
+              "name": "Paschim Magpushkarini",
+              "code": "272222",
+              "uniqueCode": "16-290-01941-272222"
+            },
+            {
+              "name": "Photamati (Part)",
+              "code": "272214",
+              "uniqueCode": "16-290-01941-272214"
+            },
+            {
+              "name": "Pitra",
+              "code": "272212",
+              "uniqueCode": "16-290-01941-272212"
+            },
+            {
+              "name": "Purba Magpushkarini",
+              "code": "272225",
+              "uniqueCode": "16-290-01941-272225"
+            },
+            {
+              "name": "Radhakishorepur R.F.",
+              "code": "272207",
+              "uniqueCode": "16-290-01941-272207"
+            },
+            {
+              "name": "Rajnagar",
+              "code": "272211",
+              "uniqueCode": "16-290-01941-272211"
+            },
+            {
+              "name": "Salgarha",
+              "code": "272208",
+              "uniqueCode": "16-290-01941-272208"
+            },
+            {
+              "name": "Taiharchum",
+              "code": "272230",
+              "uniqueCode": "16-290-01941-272230"
+            },
+            {
+              "name": "Tepania",
+              "code": "272209",
+              "uniqueCode": "16-290-01941-272209"
+            },
+            {
+              "name": "Uttar Chandrapur",
+              "code": "272219",
+              "uniqueCode": "16-290-01941-272219"
+            },
+            {
+              "name": "Uttar Maharani",
+              "code": "272216",
+              "uniqueCode": "16-290-01941-272216"
+            }
+          ]
+        },
+        {
+          "name": "Ompi",
+          "code": "01940",
+          "villages": [
+            {
+              "name": "Ampichhara",
+              "code": "272193",
+              "uniqueCode": "16-290-01940-272193"
+            },
+            {
+              "name": "Ampinagar",
+              "code": "272191",
+              "uniqueCode": "16-290-01940-272191"
+            },
+            {
+              "name": "Baisyamanipara",
+              "code": "272190",
+              "uniqueCode": "16-290-01940-272190"
+            },
+            {
+              "name": "Chenchua",
+              "code": "272197",
+              "uniqueCode": "16-290-01940-272197"
+            },
+            {
+              "name": "Dakshin Chhangong",
+              "code": "272200",
+              "uniqueCode": "16-290-01940-272200"
+            },
+            {
+              "name": "Dakshin Taidu",
+              "code": "272187",
+              "uniqueCode": "16-290-01940-272187"
+            },
+            {
+              "name": "Dhanlekha",
+              "code": "272189",
+              "uniqueCode": "16-290-01940-272189"
+            },
+            {
+              "name": "Ek-janchhara",
+              "code": "272198",
+              "uniqueCode": "16-290-01940-272198"
+            },
+            {
+              "name": "Gamaichhara",
+              "code": "272194",
+              "uniqueCode": "16-290-01940-272194"
+            },
+            {
+              "name": "Haripur",
+              "code": "272192",
+              "uniqueCode": "16-290-01940-272192"
+            },
+            {
+              "name": "JambukChhara",
+              "code": "272184",
+              "uniqueCode": "16-290-01940-272184"
+            },
+            {
+              "name": "Kamlaipara",
+              "code": "272201",
+              "uniqueCode": "16-290-01940-272201"
+            },
+            {
+              "name": "Melchhi",
+              "code": "272195",
+              "uniqueCode": "16-290-01940-272195"
+            },
+            {
+              "name": "Palkuchhara",
+              "code": "272182",
+              "uniqueCode": "16-290-01940-272182"
+            },
+            {
+              "name": "Paschim Taichhlong",
+              "code": "272186",
+              "uniqueCode": "16-290-01940-272186"
+            },
+            {
+              "name": "Purba Taichhlong",
+              "code": "272185",
+              "uniqueCode": "16-290-01940-272185"
+            },
+            {
+              "name": "Sonachhara",
+              "code": "272199",
+              "uniqueCode": "16-290-01940-272199"
+            },
+            {
+              "name": "Taidudepha",
+              "code": "272188",
+              "uniqueCode": "16-290-01940-272188"
+            },
+            {
+              "name": "Uttar Chhangong",
+              "code": "272196",
+              "uniqueCode": "16-290-01940-272196"
+            },
+            {
+              "name": "Uttar Taidu",
+              "code": "272183",
+              "uniqueCode": "16-290-01940-272183"
+            }
+          ]
+        },
+        {
+          "name": "Rajnagar",
+          "code": "01943",
+          "villages": [
+            {
+              "name": "Baraiya",
+              "code": "272264",
+              "uniqueCode": "16-290-01943-272264"
+            },
+            {
+              "name": "Barapathari",
+              "code": "272274",
+              "uniqueCode": "16-290-01943-272274"
+            },
+            {
+              "name": "Bardos",
+              "code": "272269",
+              "uniqueCode": "16-290-01943-272269"
+            },
+            {
+              "name": "Bhairabnagar",
+              "code": "272262",
+              "uniqueCode": "16-290-01943-272262"
+            },
+            {
+              "name": "Chittamara",
+              "code": "272279",
+              "uniqueCode": "16-290-01943-272279"
+            },
+            {
+              "name": "Dakshin Bharatchandranagar",
+              "code": "272283",
+              "uniqueCode": "16-290-01943-272283"
+            },
+            {
+              "name": "Dakshin Krishnapur",
+              "code": "272258",
+              "uniqueCode": "16-290-01943-272258"
+            },
+            {
+              "name": "Dakshin Srirampur",
+              "code": "272265",
+              "uniqueCode": "16-290-01943-272265"
+            },
+            {
+              "name": "Ishanchandranagar",
+              "code": "272282",
+              "uniqueCode": "16-290-01943-272282"
+            },
+            {
+              "name": "Joychandrapur",
+              "code": "272273",
+              "uniqueCode": "16-290-01943-272273"
+            },
+            {
+              "name": "Kalabaria",
+              "code": "272285",
+              "uniqueCode": "16-290-01943-272285"
+            },
+            {
+              "name": "Kamalpur",
+              "code": "272267",
+              "uniqueCode": "16-290-01943-272267"
+            },
+            {
+              "name": "Kashari R.F.",
+              "code": "272277",
+              "uniqueCode": "16-290-01943-272277"
+            },
+            {
+              "name": "Laxmipur",
+              "code": "272281",
+              "uniqueCode": "16-290-01943-272281"
+            },
+            {
+              "name": "Madhya Bharatchandranagar",
+              "code": "272284",
+              "uniqueCode": "16-290-01943-272284"
+            },
+            {
+              "name": "Paikhola",
+              "code": "272278",
+              "uniqueCode": "16-290-01943-272278"
+            },
+            {
+              "name": "Paschim Anandapur",
+              "code": "272260",
+              "uniqueCode": "16-290-01943-272260"
+            },
+            {
+              "name": "Paschim Peporiakhola",
+              "code": "272275",
+              "uniqueCode": "16-290-01943-272275"
+            },
+            {
+              "name": "Prakashnagar",
+              "code": "272270",
+              "uniqueCode": "16-290-01943-272270"
+            },
+            {
+              "name": "Purba Anandapur",
+              "code": "272268",
+              "uniqueCode": "16-290-01943-272268"
+            },
+            {
+              "name": "Purba Peporiakhola",
+              "code": "272276",
+              "uniqueCode": "16-290-01943-272276"
+            },
+            {
+              "name": "Radhanagar",
+              "code": "272259",
+              "uniqueCode": "16-290-01943-272259"
+            },
+            {
+              "name": "Rajnagar",
+              "code": "272272",
+              "uniqueCode": "16-290-01943-272272"
+            },
+            {
+              "name": "Rangamura",
+              "code": "272256",
+              "uniqueCode": "16-290-01943-272256"
+            },
+            {
+              "name": "Siddhinagar",
+              "code": "272261",
+              "uniqueCode": "16-290-01943-272261"
+            },
+            {
+              "name": "Tebaria",
+              "code": "272263",
+              "uniqueCode": "16-290-01943-272263"
+            },
+            {
+              "name": "Trishna R.F.",
+              "code": "272271",
+              "uniqueCode": "16-290-01943-272271"
+            },
+            {
+              "name": "Uttar Bharatchandranagar",
+              "code": "272280",
+              "uniqueCode": "16-290-01943-272280"
+            },
+            {
+              "name": "Uttar Krishnapur",
+              "code": "272257",
+              "uniqueCode": "16-290-01943-272257"
+            },
+            {
+              "name": "Uttar Srirampur",
+              "code": "272266",
+              "uniqueCode": "16-290-01943-272266"
+            }
+          ]
+        },
+        {
+          "name": "Rupaichhari",
+          "code": "01947",
+          "villages": [
+            {
+              "name": "Aliamara",
+              "code": "272382",
+              "uniqueCode": "16-290-01947-272382"
+            },
+            {
+              "name": "Bagachatal",
+              "code": "272387",
+              "uniqueCode": "16-290-01947-272387"
+            },
+            {
+              "name": "Bagmara",
+              "code": "272363",
+              "uniqueCode": "16-290-01947-272363"
+            },
+            {
+              "name": "Baishnabpur",
+              "code": "272383",
+              "uniqueCode": "16-290-01947-272383"
+            },
+            {
+              "name": "Barabil",
+              "code": "272365",
+              "uniqueCode": "16-290-01947-272365"
+            },
+            {
+              "name": "Baramura Deotamura R.F.",
+              "code": "272364",
+              "uniqueCode": "16-290-01947-272364"
+            },
+            {
+              "name": "Bishnupur",
+              "code": "272370",
+              "uniqueCode": "16-290-01947-272370"
+            },
+            {
+              "name": "Chalita Bankul",
+              "code": "272361",
+              "uniqueCode": "16-290-01947-272361"
+            },
+            {
+              "name": "Chatakchhari",
+              "code": "272378",
+              "uniqueCode": "16-290-01947-272378"
+            },
+            {
+              "name": "Dakshin Bejoypur",
+              "code": "272381",
+              "uniqueCode": "16-290-01947-272381"
+            },
+            {
+              "name": "Dakshin Manu Bankul",
+              "code": "272373",
+              "uniqueCode": "16-290-01947-272373"
+            },
+            {
+              "name": "Dakshin Sabroom",
+              "code": "272384",
+              "uniqueCode": "16-290-01947-272384"
+            },
+            {
+              "name": "Desharampara",
+              "code": "272369",
+              "uniqueCode": "16-290-01947-272369"
+            },
+            {
+              "name": "Gaurifa",
+              "code": "272375",
+              "uniqueCode": "16-290-01947-272375"
+            },
+            {
+              "name": "Gorakapa",
+              "code": "272368",
+              "uniqueCode": "16-290-01947-272368"
+            },
+            {
+              "name": "Kaptali",
+              "code": "272388",
+              "uniqueCode": "16-290-01947-272388"
+            },
+            {
+              "name": "Kathalchhari",
+              "code": "272374",
+              "uniqueCode": "16-290-01947-272374"
+            },
+            {
+              "name": "Magrum",
+              "code": "272389",
+              "uniqueCode": "16-290-01947-272389"
+            },
+            {
+              "name": "Paschim Ludhua",
+              "code": "272379",
+              "uniqueCode": "16-290-01947-272379"
+            },
+            {
+              "name": "Purba Ludhua",
+              "code": "272380",
+              "uniqueCode": "16-290-01947-272380"
+            },
+            {
+              "name": "Purba Sabroom",
+              "code": "272385",
+              "uniqueCode": "16-290-01947-272385"
+            },
+            {
+              "name": "Rajdharpur",
+              "code": "272386",
+              "uniqueCode": "16-290-01947-272386"
+            },
+            {
+              "name": "Rupaichhari",
+              "code": "272376",
+              "uniqueCode": "16-290-01947-272376"
+            },
+            {
+              "name": "Silachari",
+              "code": "272366",
+              "uniqueCode": "16-290-01947-272366"
+            },
+            {
+              "name": "Sonaichhari",
+              "code": "272377",
+              "uniqueCode": "16-290-01947-272377"
+            },
+            {
+              "name": "Suknachari",
+              "code": "272367",
+              "uniqueCode": "16-290-01947-272367"
+            },
+            {
+              "name": "Uttar Bejoypur",
+              "code": "272371",
+              "uniqueCode": "16-290-01947-272371"
+            },
+            {
+              "name": "Uttar Manu Bankul",
+              "code": "272372",
+              "uniqueCode": "16-290-01947-272372"
+            },
+            {
+              "name": "Uttar Taichhama",
+              "code": "272362",
+              "uniqueCode": "16-290-01947-272362"
+            }
+          ]
+        },
+        {
+          "name": "Satchand",
+          "code": "01948",
+          "villages": [
+            {
+              "name": "Amlighat",
+              "code": "272412",
+              "uniqueCode": "16-290-01948-272412"
+            },
+            {
+              "name": "Betaga R.F.",
+              "code": "272406",
+              "uniqueCode": "16-290-01948-272406"
+            },
+            {
+              "name": "Bhuratali",
+              "code": "272398",
+              "uniqueCode": "16-290-01948-272398"
+            },
+            {
+              "name": "Bijoynagar",
+              "code": "272415",
+              "uniqueCode": "16-290-01948-272415"
+            },
+            {
+              "name": "Brajendranagar",
+              "code": "272414",
+              "uniqueCode": "16-290-01948-272414"
+            },
+            {
+              "name": "Chalitachhara",
+              "code": "272404",
+              "uniqueCode": "16-290-01948-272404"
+            },
+            {
+              "name": "Dakshin Kalapania",
+              "code": "272397",
+              "uniqueCode": "16-290-01948-272397"
+            },
+            {
+              "name": "Dakshin Taichhama",
+              "code": "272394",
+              "uniqueCode": "16-290-01948-272394"
+            },
+            {
+              "name": "Doulbari (Part)",
+              "code": "272416",
+              "uniqueCode": "16-290-01948-272416"
+            },
+            {
+              "name": "Fulchhari",
+              "code": "272399",
+              "uniqueCode": "16-290-01948-272399"
+            },
+            {
+              "name": "Gaganchandra Para",
+              "code": "272390",
+              "uniqueCode": "16-290-01948-272390"
+            },
+            {
+              "name": "Gardhang",
+              "code": "272391",
+              "uniqueCode": "16-290-01948-272391"
+            },
+            {
+              "name": "Goachand",
+              "code": "272403",
+              "uniqueCode": "16-290-01948-272403"
+            },
+            {
+              "name": "Harbatali",
+              "code": "272413",
+              "uniqueCode": "16-290-01948-272413"
+            },
+            {
+              "name": "Harina",
+              "code": "272405",
+              "uniqueCode": "16-290-01948-272405"
+            },
+            {
+              "name": "Krishnanagar",
+              "code": "272410",
+              "uniqueCode": "16-290-01948-272410"
+            },
+            {
+              "name": "Madhabnagar",
+              "code": "272408",
+              "uniqueCode": "16-290-01948-272408"
+            },
+            {
+              "name": "Magurchhara",
+              "code": "272402",
+              "uniqueCode": "16-290-01948-272402"
+            },
+            {
+              "name": "Manubazar",
+              "code": "272401",
+              "uniqueCode": "16-290-01948-272401"
+            },
+            {
+              "name": "Paschim Jalefa (Part)",
+              "code": "272417",
+              "uniqueCode": "16-290-01948-272417"
+            },
+            {
+              "name": "Paschim Sabroom (Part)",
+              "code": "272419",
+              "uniqueCode": "16-290-01948-272419"
+            },
+            {
+              "name": "Purba Jalefa (Part)",
+              "code": "272418",
+              "uniqueCode": "16-290-01948-272418"
+            },
+            {
+              "name": "Rajnagar",
+              "code": "272409",
+              "uniqueCode": "16-290-01948-272409"
+            },
+            {
+              "name": "Sakhbari",
+              "code": "272392",
+              "uniqueCode": "16-290-01948-272392"
+            },
+            {
+              "name": "Sindukpathar",
+              "code": "272396",
+              "uniqueCode": "16-290-01948-272396"
+            },
+            {
+              "name": "Srinagar",
+              "code": "272411",
+              "uniqueCode": "16-290-01948-272411"
+            },
+            {
+              "name": "Taikumbachhara",
+              "code": "272393",
+              "uniqueCode": "16-290-01948-272393"
+            },
+            {
+              "name": "Tekka R.F. (Part)",
+              "code": "272400",
+              "uniqueCode": "16-290-01948-272400"
+            },
+            {
+              "name": "Tekka Tulsi R.F.",
+              "code": "272407",
+              "uniqueCode": "16-290-01948-272407"
+            },
+            {
+              "name": "Uttar Kalapania",
+              "code": "272395",
+              "uniqueCode": "16-290-01948-272395"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West Tripura",
+      "code": "289",
+      "talukas": [
+        {
+          "name": "Area not under any Sub-district",
+          "code": "99999",
+          "villages": []
+        },
+        {
+          "name": "Bishalgarh",
+          "code": "01934",
+          "villages": [
+            {
+              "name": "Amtali",
+              "code": "272075",
+              "uniqueCode": "16-289-01934-272075"
+            },
+            {
+              "name": "Bangshibari",
+              "code": "272066",
+              "uniqueCode": "16-289-01934-272066"
+            },
+            {
+              "name": "Barjala",
+              "code": "272076",
+              "uniqueCode": "16-289-01934-272076"
+            },
+            {
+              "name": "Baustali",
+              "code": "272073",
+              "uniqueCode": "16-289-01934-272073"
+            },
+            {
+              "name": "Bishalgarh (Part)",
+              "code": "272056",
+              "uniqueCode": "16-289-01934-272056"
+            },
+            {
+              "name": "Brajapur",
+              "code": "272063",
+              "uniqueCode": "16-289-01934-272063"
+            },
+            {
+              "name": "Dakshin Champamura",
+              "code": "272057",
+              "uniqueCode": "16-289-01934-272057"
+            },
+            {
+              "name": "Dakshin Charilam",
+              "code": "272072",
+              "uniqueCode": "16-289-01934-272072"
+            },
+            {
+              "name": "Debipur",
+              "code": "272048",
+              "uniqueCode": "16-289-01934-272048"
+            },
+            {
+              "name": "Dhariathal",
+              "code": "272069",
+              "uniqueCode": "16-289-01934-272069"
+            },
+            {
+              "name": "Gajaria",
+              "code": "272065",
+              "uniqueCode": "16-289-01934-272065"
+            },
+            {
+              "name": "Gakulnagar (CT)",
+              "code": "272081",
+              "uniqueCode": "16-289-01934-272081"
+            },
+            {
+              "name": "Ghaniamara",
+              "code": "272055",
+              "uniqueCode": "16-289-01934-272055"
+            },
+            {
+              "name": "Golaghati",
+              "code": "272060",
+              "uniqueCode": "16-289-01934-272060"
+            },
+            {
+              "name": "Gopinagar",
+              "code": "272059",
+              "uniqueCode": "16-289-01934-272059"
+            },
+            {
+              "name": "Kaiyadhepa",
+              "code": "272052",
+              "uniqueCode": "16-289-01934-272052"
+            },
+            {
+              "name": "Kamalasagar",
+              "code": "272047",
+              "uniqueCode": "16-289-01934-272047"
+            },
+            {
+              "name": "Konaban",
+              "code": "272050",
+              "uniqueCode": "16-289-01934-272050"
+            },
+            {
+              "name": "Krishna Kishorenagar",
+              "code": "272064",
+              "uniqueCode": "16-289-01934-272064"
+            },
+            {
+              "name": "Latiachhara",
+              "code": "272061",
+              "uniqueCode": "16-289-01934-272061"
+            },
+            {
+              "name": "Laxmibil",
+              "code": "272058",
+              "uniqueCode": "16-289-01934-272058"
+            },
+            {
+              "name": "Madhupur",
+              "code": "272051",
+              "uniqueCode": "16-289-01934-272051"
+            },
+            {
+              "name": "Madhya Pathalia",
+              "code": "272079",
+              "uniqueCode": "16-289-01934-272079"
+            },
+            {
+              "name": "Mohanpur (Part)",
+              "code": "272080",
+              "uniqueCode": "16-289-01934-272080"
+            },
+            {
+              "name": "Nehalchandranagar",
+              "code": "272053",
+              "uniqueCode": "16-289-01934-272053"
+            },
+            {
+              "name": "Padmanagar",
+              "code": "272074",
+              "uniqueCode": "16-289-01934-272074"
+            },
+            {
+              "name": "Pathaliaghat",
+              "code": "272078",
+              "uniqueCode": "16-289-01934-272078"
+            },
+            {
+              "name": "Promodenagar",
+              "code": "272077",
+              "uniqueCode": "16-289-01934-272077"
+            },
+            {
+              "name": "Purathal Rajnagar",
+              "code": "272054",
+              "uniqueCode": "16-289-01934-272054"
+            },
+            {
+              "name": "Radhanagar",
+              "code": "272049",
+              "uniqueCode": "16-289-01934-272049"
+            },
+            {
+              "name": "Ramnagar",
+              "code": "272070",
+              "uniqueCode": "16-289-01934-272070"
+            },
+            {
+              "name": "Rangapania",
+              "code": "272067",
+              "uniqueCode": "16-289-01934-272067"
+            },
+            {
+              "name": "Rangmala",
+              "code": "272071",
+              "uniqueCode": "16-289-01934-272071"
+            },
+            {
+              "name": "Sutamura",
+              "code": "272068",
+              "uniqueCode": "16-289-01934-272068"
+            },
+            {
+              "name": "Uttar Charilam",
+              "code": "272062",
+              "uniqueCode": "16-289-01934-272062"
+            }
+          ]
+        },
+        {
+          "name": "Boxanagar",
+          "code": "01935",
+          "villages": [
+            {
+              "name": "Anandapur",
+              "code": "272092",
+              "uniqueCode": "16-289-01935-272092"
+            },
+            {
+              "name": "Ashabari",
+              "code": "272085",
+              "uniqueCode": "16-289-01935-272085"
+            },
+            {
+              "name": "Bejoynagar",
+              "code": "272094",
+              "uniqueCode": "16-289-01935-272094"
+            },
+            {
+              "name": "Bhaluarchar",
+              "code": "272084",
+              "uniqueCode": "16-289-01935-272084"
+            },
+            {
+              "name": "Boxanagar",
+              "code": "272086",
+              "uniqueCode": "16-289-01935-272086"
+            },
+            {
+              "name": "Dhanirampur",
+              "code": "272095",
+              "uniqueCode": "16-289-01935-272095"
+            },
+            {
+              "name": "Ghilatali",
+              "code": "272089",
+              "uniqueCode": "16-289-01935-272089"
+            },
+            {
+              "name": "Jogatrampur",
+              "code": "272090",
+              "uniqueCode": "16-289-01935-272090"
+            },
+            {
+              "name": "Kalamchaura",
+              "code": "272091",
+              "uniqueCode": "16-289-01935-272091"
+            },
+            {
+              "name": "Kalsimura",
+              "code": "272087",
+              "uniqueCode": "16-289-01935-272087"
+            },
+            {
+              "name": "Kamalanagar",
+              "code": "272093",
+              "uniqueCode": "16-289-01935-272093"
+            },
+            {
+              "name": "Kulubari",
+              "code": "272097",
+              "uniqueCode": "16-289-01935-272097"
+            },
+            {
+              "name": "Manikyanagar",
+              "code": "272088",
+              "uniqueCode": "16-289-01935-272088"
+            },
+            {
+              "name": "Matinagar",
+              "code": "272096",
+              "uniqueCode": "16-289-01935-272096"
+            },
+            {
+              "name": "Putia",
+              "code": "272083",
+              "uniqueCode": "16-289-01935-272083"
+            },
+            {
+              "name": "Rahimpur",
+              "code": "272082",
+              "uniqueCode": "16-289-01935-272082"
+            }
+          ]
+        },
+        {
+          "name": "Dukli",
+          "code": "01932",
+          "villages": [
+            {
+              "name": "Anandanagar (CT)",
+              "code": "272024",
+              "uniqueCode": "16-289-01932-272024"
+            },
+            {
+              "name": "Badharghat (Part)",
+              "code": "272017",
+              "uniqueCode": "16-289-01932-272017"
+            },
+            {
+              "name": "Bikramnagar",
+              "code": "272020",
+              "uniqueCode": "16-289-01932-272020"
+            },
+            {
+              "name": "Charipara (CT)",
+              "code": "272023",
+              "uniqueCode": "16-289-01932-272023"
+            },
+            {
+              "name": "Dukli (CT)",
+              "code": "272025",
+              "uniqueCode": "16-289-01932-272025"
+            },
+            {
+              "name": "Ishanchandranagar",
+              "code": "272018",
+              "uniqueCode": "16-289-01932-272018"
+            },
+            {
+              "name": "Kanchanmala",
+              "code": "272021",
+              "uniqueCode": "16-289-01932-272021"
+            },
+            {
+              "name": "Madhuban (CT)",
+              "code": "272027",
+              "uniqueCode": "16-289-01932-272027"
+            },
+            {
+              "name": "Madhupur (CT)",
+              "code": "272026",
+              "uniqueCode": "16-289-01932-272026"
+            },
+            {
+              "name": "Pandabpur",
+              "code": "272019",
+              "uniqueCode": "16-289-01932-272019"
+            },
+            {
+              "name": "Srinagar",
+              "code": "272022",
+              "uniqueCode": "16-289-01932-272022"
+            }
+          ]
+        },
+        {
+          "name": "Hezamara",
+          "code": "01923",
+          "villages": [
+            {
+              "name": "Baikunthapur",
+              "code": "271875",
+              "uniqueCode": "16-289-01923-271875"
+            },
+            {
+              "name": "Baluaban",
+              "code": "271873",
+              "uniqueCode": "16-289-01923-271873"
+            },
+            {
+              "name": "Barkanthalia",
+              "code": "271883",
+              "uniqueCode": "16-289-01923-271883"
+            },
+            {
+              "name": "Chandpur",
+              "code": "271884",
+              "uniqueCode": "16-289-01923-271884"
+            },
+            {
+              "name": "Dakshin Dashgharia",
+              "code": "271876",
+              "uniqueCode": "16-289-01923-271876"
+            },
+            {
+              "name": "Domrakaridak",
+              "code": "271885",
+              "uniqueCode": "16-289-01923-271885"
+            },
+            {
+              "name": "Ishanpur(Part)",
+              "code": "271872",
+              "uniqueCode": "16-289-01923-271872"
+            },
+            {
+              "name": "Kamukchhara",
+              "code": "271878",
+              "uniqueCode": "16-289-01923-271878"
+            },
+            {
+              "name": "Mantala(Part)",
+              "code": "271874",
+              "uniqueCode": "16-289-01923-271874"
+            },
+            {
+              "name": "Megliband (Part)",
+              "code": "271868",
+              "uniqueCode": "16-289-01923-271868"
+            },
+            {
+              "name": "Mohanpur (Part)",
+              "code": "271880",
+              "uniqueCode": "16-289-01923-271880"
+            },
+            {
+              "name": "Noagaon (Part)",
+              "code": "271881",
+              "uniqueCode": "16-289-01923-271881"
+            },
+            {
+              "name": "Paschim Simna (Part)",
+              "code": "271867",
+              "uniqueCode": "16-289-01923-271867"
+            },
+            {
+              "name": "Purba Simna",
+              "code": "271869",
+              "uniqueCode": "16-289-01923-271869"
+            },
+            {
+              "name": "Sankhola",
+              "code": "271871",
+              "uniqueCode": "16-289-01923-271871"
+            },
+            {
+              "name": "Subalsingh",
+              "code": "271877",
+              "uniqueCode": "16-289-01923-271877"
+            },
+            {
+              "name": "Surendranagar",
+              "code": "271879",
+              "uniqueCode": "16-289-01923-271879"
+            },
+            {
+              "name": "Thamakari",
+              "code": "271882",
+              "uniqueCode": "16-289-01923-271882"
+            },
+            {
+              "name": "Tuichhamankuri",
+              "code": "271886",
+              "uniqueCode": "16-289-01923-271886"
+            },
+            {
+              "name": "Uttar Dashgharia",
+              "code": "271870",
+              "uniqueCode": "16-289-01923-271870"
+            }
+          ]
+        },
+        {
+          "name": "Jampuijala",
+          "code": "01933",
+          "villages": [
+            {
+              "name": "Amarendranagar",
+              "code": "272045",
+              "uniqueCode": "16-289-01933-272045"
+            },
+            {
+              "name": "Bamnichhara",
+              "code": "272032",
+              "uniqueCode": "16-289-01933-272032"
+            },
+            {
+              "name": "Barmabari",
+              "code": "272037",
+              "uniqueCode": "16-289-01933-272037"
+            },
+            {
+              "name": "Hirapur",
+              "code": "272044",
+              "uniqueCode": "16-289-01933-272044"
+            },
+            {
+              "name": "Jampuijala",
+              "code": "272040",
+              "uniqueCode": "16-289-01933-272040"
+            },
+            {
+              "name": "Kalaibari",
+              "code": "272039",
+              "uniqueCode": "16-289-01933-272039"
+            },
+            {
+              "name": "Kandraichhara",
+              "code": "272041",
+              "uniqueCode": "16-289-01933-272041"
+            },
+            {
+              "name": "Killabari",
+              "code": "272038",
+              "uniqueCode": "16-289-01933-272038"
+            },
+            {
+              "name": "Madhya Ghaniamara",
+              "code": "272043",
+              "uniqueCode": "16-289-01933-272043"
+            },
+            {
+              "name": "Mohanpur (Part)",
+              "code": "272029",
+              "uniqueCode": "16-289-01933-272029"
+            },
+            {
+              "name": "Paschim Takarjala",
+              "code": "272034",
+              "uniqueCode": "16-289-01933-272034"
+            },
+            {
+              "name": "Pekuarjala",
+              "code": "272030",
+              "uniqueCode": "16-289-01933-272030"
+            },
+            {
+              "name": "Prabhapur",
+              "code": "272028",
+              "uniqueCode": "16-289-01933-272028"
+            },
+            {
+              "name": "Purba Takarjala",
+              "code": "272035",
+              "uniqueCode": "16-289-01933-272035"
+            },
+            {
+              "name": "Ratanpur",
+              "code": "272031",
+              "uniqueCode": "16-289-01933-272031"
+            },
+            {
+              "name": "Sangkumabari",
+              "code": "272036",
+              "uniqueCode": "16-289-01933-272036"
+            },
+            {
+              "name": "Shyamnagar",
+              "code": "272033",
+              "uniqueCode": "16-289-01933-272033"
+            },
+            {
+              "name": "Ujan Ghaniamara",
+              "code": "272042",
+              "uniqueCode": "16-289-01933-272042"
+            },
+            {
+              "name": "Ujan Pathalia",
+              "code": "272046",
+              "uniqueCode": "16-289-01933-272046"
+            }
+          ]
+        },
+        {
+          "name": "Jirania",
+          "code": "01931",
+          "villages": [
+            {
+              "name": "Bankimnagar (CT)",
+              "code": "272016",
+              "uniqueCode": "16-289-01931-272016"
+            },
+            {
+              "name": "Belbari",
+              "code": "272010",
+              "uniqueCode": "16-289-01931-272010"
+            },
+            {
+              "name": "Briddhanagar (CT)",
+              "code": "272014",
+              "uniqueCode": "16-289-01931-272014"
+            },
+            {
+              "name": "Champabari",
+              "code": "272012",
+              "uniqueCode": "16-289-01931-272012"
+            },
+            {
+              "name": "Champaknagar",
+              "code": "272011",
+              "uniqueCode": "16-289-01931-272011"
+            },
+            {
+              "name": "Janmejoynagar",
+              "code": "272009",
+              "uniqueCode": "16-289-01931-272009"
+            },
+            {
+              "name": "Jirania",
+              "code": "272006",
+              "uniqueCode": "16-289-01931-272006"
+            },
+            {
+              "name": "Joynagar",
+              "code": "272004",
+              "uniqueCode": "16-289-01931-272004"
+            },
+            {
+              "name": "Laxmipur (Part)",
+              "code": "271998",
+              "uniqueCode": "16-289-01931-271998"
+            },
+            {
+              "name": "Majlishpur (Part)",
+              "code": "272002",
+              "uniqueCode": "16-289-01931-272002"
+            },
+            {
+              "name": "Mekhlipara",
+              "code": "271999",
+              "uniqueCode": "16-289-01931-271999"
+            },
+            {
+              "name": "Purba Barjalai",
+              "code": "272003",
+              "uniqueCode": "16-289-01931-272003"
+            },
+            {
+              "name": "Purba Debendranagar (Part)",
+              "code": "272005",
+              "uniqueCode": "16-289-01931-272005"
+            },
+            {
+              "name": "Purba Noagoan",
+              "code": "272001",
+              "uniqueCode": "16-289-01931-272001"
+            },
+            {
+              "name": "Radhakishorenagar (CT)",
+              "code": "272013",
+              "uniqueCode": "16-289-01931-272013"
+            },
+            {
+              "name": "Radhamohanpur",
+              "code": "272007",
+              "uniqueCode": "16-289-01931-272007"
+            },
+            {
+              "name": "Radhapur",
+              "code": "272008",
+              "uniqueCode": "16-289-01931-272008"
+            },
+            {
+              "name": "Tulakona",
+              "code": "272000",
+              "uniqueCode": "16-289-01931-272000"
+            },
+            {
+              "name": "Uttar Champamura (CT)",
+              "code": "272015",
+              "uniqueCode": "16-289-01931-272015"
+            }
+          ]
+        },
+        {
+          "name": "Kalyanpur",
+          "code": "01927",
+          "villages": [
+            {
+              "name": "Dakshin Maharani (Part)",
+              "code": "271953",
+              "uniqueCode": "16-289-01927-271953"
+            },
+            {
+              "name": "Dakshin Promodenagar (Part)",
+              "code": "271943",
+              "uniqueCode": "16-289-01927-271943"
+            },
+            {
+              "name": "Durgapur",
+              "code": "271942",
+              "uniqueCode": "16-289-01927-271942"
+            },
+            {
+              "name": "Dwarikapur (Part)",
+              "code": "271941",
+              "uniqueCode": "16-289-01927-271941"
+            },
+            {
+              "name": "Ghilatali",
+              "code": "271952",
+              "uniqueCode": "16-289-01927-271952"
+            },
+            {
+              "name": "Kamalnagar",
+              "code": "271951",
+              "uniqueCode": "16-289-01927-271951"
+            },
+            {
+              "name": "Kunjaban",
+              "code": "271947",
+              "uniqueCode": "16-289-01927-271947"
+            },
+            {
+              "name": "Madhya Kalyanpur",
+              "code": "271949",
+              "uniqueCode": "16-289-01927-271949"
+            },
+            {
+              "name": "Maharanipur (Part)",
+              "code": "271944",
+              "uniqueCode": "16-289-01927-271944"
+            },
+            {
+              "name": "Paschim Kalyanpur",
+              "code": "271948",
+              "uniqueCode": "16-289-01927-271948"
+            },
+            {
+              "name": "Purba Kalyanpur",
+              "code": "271950",
+              "uniqueCode": "16-289-01927-271950"
+            },
+            {
+              "name": "Ramdayalbari (Part)",
+              "code": "271946",
+              "uniqueCode": "16-289-01927-271946"
+            },
+            {
+              "name": "Uttar Ghilatali",
+              "code": "271945",
+              "uniqueCode": "16-289-01927-271945"
+            }
+          ]
+        },
+        {
+          "name": "Kathalia",
+          "code": "01937",
+          "villages": [
+            {
+              "name": "Bejimara (Part)",
+              "code": "272144",
+              "uniqueCode": "16-289-01937-272144"
+            },
+            {
+              "name": "Bhabanipur",
+              "code": "272143",
+              "uniqueCode": "16-289-01937-272143"
+            },
+            {
+              "name": "Birampur",
+              "code": "272132",
+              "uniqueCode": "16-289-01937-272132"
+            },
+            {
+              "name": "Birendranagar",
+              "code": "272137",
+              "uniqueCode": "16-289-01937-272137"
+            },
+            {
+              "name": "Dhanpur",
+              "code": "272130",
+              "uniqueCode": "16-289-01937-272130"
+            },
+            {
+              "name": "Durlavpur",
+              "code": "272142",
+              "uniqueCode": "16-289-01937-272142"
+            },
+            {
+              "name": "Himmatpur",
+              "code": "272139",
+              "uniqueCode": "16-289-01937-272139"
+            },
+            {
+              "name": "Jagatrampur",
+              "code": "272136",
+              "uniqueCode": "16-289-01937-272136"
+            },
+            {
+              "name": "Kalapania",
+              "code": "272128",
+              "uniqueCode": "16-289-01937-272128"
+            },
+            {
+              "name": "Kalikrishnanagar",
+              "code": "272140",
+              "uniqueCode": "16-289-01937-272140"
+            },
+            {
+              "name": "Kathalia",
+              "code": "272135",
+              "uniqueCode": "16-289-01937-272135"
+            },
+            {
+              "name": "Maheshpur",
+              "code": "272134",
+              "uniqueCode": "16-289-01937-272134"
+            },
+            {
+              "name": "Manaipathar",
+              "code": "272138",
+              "uniqueCode": "16-289-01937-272138"
+            },
+            {
+              "name": "Manarchak",
+              "code": "272129",
+              "uniqueCode": "16-289-01937-272129"
+            },
+            {
+              "name": "Nidaya",
+              "code": "272141",
+              "uniqueCode": "16-289-01937-272141"
+            },
+            {
+              "name": "Nirbhoypur",
+              "code": "272133",
+              "uniqueCode": "16-289-01937-272133"
+            },
+            {
+              "name": "Paharpur",
+              "code": "272131",
+              "uniqueCode": "16-289-01937-272131"
+            },
+            {
+              "name": "Sobhapur (Part)",
+              "code": "272127",
+              "uniqueCode": "16-289-01937-272127"
+            }
+          ]
+        },
+        {
+          "name": "Khowai",
+          "code": "01925",
+          "villages": [
+            {
+              "name": "Chebri",
+              "code": "271915",
+              "uniqueCode": "16-289-01925-271915"
+            },
+            {
+              "name": "Dhalabil (Part)",
+              "code": "271911",
+              "uniqueCode": "16-289-01925-271911"
+            },
+            {
+              "name": "Ganki (Part)",
+              "code": "271907",
+              "uniqueCode": "16-289-01925-271907"
+            },
+            {
+              "name": "Gournagar",
+              "code": "271909",
+              "uniqueCode": "16-289-01925-271909"
+            },
+            {
+              "name": "Laxminarayanpur (Part)",
+              "code": "271916",
+              "uniqueCode": "16-289-01925-271916"
+            },
+            {
+              "name": "Paharmura",
+              "code": "271908",
+              "uniqueCode": "16-289-01925-271908"
+            },
+            {
+              "name": "Paschim Singhichhara (Part)",
+              "code": "271905",
+              "uniqueCode": "16-289-01925-271905"
+            },
+            {
+              "name": "Purba Ramchandraghat (Part)",
+              "code": "271914",
+              "uniqueCode": "16-289-01925-271914"
+            },
+            {
+              "name": "Purba Singhichhara",
+              "code": "271906",
+              "uniqueCode": "16-289-01925-271906"
+            },
+            {
+              "name": "Santinagar (Part)",
+              "code": "271917",
+              "uniqueCode": "16-289-01925-271917"
+            },
+            {
+              "name": "Sonatala",
+              "code": "271913",
+              "uniqueCode": "16-289-01925-271913"
+            },
+            {
+              "name": "Uttar Padmabil (Part)",
+              "code": "271910",
+              "uniqueCode": "16-289-01925-271910"
+            },
+            {
+              "name": "Uttar Ramchandraghat (Part)",
+              "code": "271912",
+              "uniqueCode": "16-289-01925-271912"
+            }
+          ]
+        },
+        {
+          "name": "Mandai",
+          "code": "01930",
+          "villages": [
+            {
+              "name": "Ashigarh",
+              "code": "271989",
+              "uniqueCode": "16-289-01930-271989"
+            },
+            {
+              "name": "Atuthangbari",
+              "code": "271997",
+              "uniqueCode": "16-289-01930-271997"
+            },
+            {
+              "name": "Bhrigudas para",
+              "code": "271995",
+              "uniqueCode": "16-289-01930-271995"
+            },
+            {
+              "name": "Dinabandhunagar",
+              "code": "271985",
+              "uniqueCode": "16-289-01930-271985"
+            },
+            {
+              "name": "Dinakobrapara",
+              "code": "271992",
+              "uniqueCode": "16-289-01930-271992"
+            },
+            {
+              "name": "Harbhang",
+              "code": "271991",
+              "uniqueCode": "16-289-01930-271991"
+            },
+            {
+              "name": "Jamilengpara",
+              "code": "271996",
+              "uniqueCode": "16-289-01930-271996"
+            },
+            {
+              "name": "Kathirambari",
+              "code": "271987",
+              "uniqueCode": "16-289-01930-271987"
+            },
+            {
+              "name": "Khengrai",
+              "code": "271990",
+              "uniqueCode": "16-289-01930-271990"
+            },
+            {
+              "name": "Laxmipur (Part)",
+              "code": "271984",
+              "uniqueCode": "16-289-01930-271984"
+            },
+            {
+              "name": "Mandainagar",
+              "code": "271993",
+              "uniqueCode": "16-289-01930-271993"
+            },
+            {
+              "name": "Paschim Barjalai",
+              "code": "271986",
+              "uniqueCode": "16-289-01930-271986"
+            },
+            {
+              "name": "Patnipara",
+              "code": "271988",
+              "uniqueCode": "16-289-01930-271988"
+            },
+            {
+              "name": "Purba Debendranagar (Part)",
+              "code": "271994",
+              "uniqueCode": "16-289-01930-271994"
+            },
+            {
+              "name": "Ramchandranagar",
+              "code": "271983",
+              "uniqueCode": "16-289-01930-271983"
+            },
+            {
+              "name": "Sibnagar",
+              "code": "271982",
+              "uniqueCode": "16-289-01930-271982"
+            },
+            {
+              "name": "Wakkinagar",
+              "code": "271981",
+              "uniqueCode": "16-289-01930-271981"
+            }
+          ]
+        },
+        {
+          "name": "Melaghar",
+          "code": "01936",
+          "villages": [
+            {
+              "name": "Aralia (Part)",
+              "code": "272109",
+              "uniqueCode": "16-289-01936-272109"
+            },
+            {
+              "name": "Bagabasa",
+              "code": "272102",
+              "uniqueCode": "16-289-01936-272102"
+            },
+            {
+              "name": "Bardowal",
+              "code": "272107",
+              "uniqueCode": "16-289-01936-272107"
+            },
+            {
+              "name": "Barpathar",
+              "code": "272119",
+              "uniqueCode": "16-289-01936-272119"
+            },
+            {
+              "name": "Bejimara (Part)",
+              "code": "272111",
+              "uniqueCode": "16-289-01936-272111"
+            },
+            {
+              "name": "Chandigarh (CT)",
+              "code": "272126",
+              "uniqueCode": "16-289-01936-272126"
+            },
+            {
+              "name": "Chandul",
+              "code": "272117",
+              "uniqueCode": "16-289-01936-272117"
+            },
+            {
+              "name": "Choumohani",
+              "code": "272099",
+              "uniqueCode": "16-289-01936-272099"
+            },
+            {
+              "name": "Dakshin Taibandul",
+              "code": "272124",
+              "uniqueCode": "16-289-01936-272124"
+            },
+            {
+              "name": "Durlavnarayanpur",
+              "code": "272106",
+              "uniqueCode": "16-289-01936-272106"
+            },
+            {
+              "name": "Gamaichhara",
+              "code": "272125",
+              "uniqueCode": "16-289-01936-272125"
+            },
+            {
+              "name": "Ghrantali",
+              "code": "272112",
+              "uniqueCode": "16-289-01936-272112"
+            },
+            {
+              "name": "Jharjharia",
+              "code": "272121",
+              "uniqueCode": "16-289-01936-272121"
+            },
+            {
+              "name": "Kamarangatali",
+              "code": "272116",
+              "uniqueCode": "16-289-01936-272116"
+            },
+            {
+              "name": "Khaschoumohani",
+              "code": "272105",
+              "uniqueCode": "16-289-01936-272105"
+            },
+            {
+              "name": "Khedabari (Part)",
+              "code": "272108",
+              "uniqueCode": "16-289-01936-272108"
+            },
+            {
+              "name": "Khedarbari",
+              "code": "272122",
+              "uniqueCode": "16-289-01936-272122"
+            },
+            {
+              "name": "Melaghar",
+              "code": "272113",
+              "uniqueCode": "16-289-01936-272113"
+            },
+            {
+              "name": "Mohanbhug",
+              "code": "272115",
+              "uniqueCode": "16-289-01936-272115"
+            },
+            {
+              "name": "Nabadwipchandranagar (Part)",
+              "code": "272110",
+              "uniqueCode": "16-289-01936-272110"
+            },
+            {
+              "name": "Paschim Jumerdhepa",
+              "code": "272100",
+              "uniqueCode": "16-289-01936-272100"
+            },
+            {
+              "name": "Paschim Nalchar",
+              "code": "272104",
+              "uniqueCode": "16-289-01936-272104"
+            },
+            {
+              "name": "Purba Jumerdhepa",
+              "code": "272101",
+              "uniqueCode": "16-289-01936-272101"
+            },
+            {
+              "name": "Purba Nalchar",
+              "code": "272103",
+              "uniqueCode": "16-289-01936-272103"
+            },
+            {
+              "name": "Rudijala",
+              "code": "272114",
+              "uniqueCode": "16-289-01936-272114"
+            },
+            {
+              "name": "Taksapara",
+              "code": "272098",
+              "uniqueCode": "16-289-01936-272098"
+            },
+            {
+              "name": "Telkajla",
+              "code": "272118",
+              "uniqueCode": "16-289-01936-272118"
+            },
+            {
+              "name": "Urmai",
+              "code": "272120",
+              "uniqueCode": "16-289-01936-272120"
+            },
+            {
+              "name": "Uttar Taibandul",
+              "code": "272123",
+              "uniqueCode": "16-289-01936-272123"
+            }
+          ]
+        },
+        {
+          "name": "Mohanpur",
+          "code": "01922",
+          "villages": [
+            {
+              "name": "Bamutia",
+              "code": "271852",
+              "uniqueCode": "16-289-01922-271852"
+            },
+            {
+              "name": "Barjala (Part)",
+              "code": "271857",
+              "uniqueCode": "16-289-01922-271857"
+            },
+            {
+              "name": "Bejoynagar",
+              "code": "271848",
+              "uniqueCode": "16-289-01922-271848"
+            },
+            {
+              "name": "Bodhjongnagar",
+              "code": "271860",
+              "uniqueCode": "16-289-01922-271860"
+            },
+            {
+              "name": "Debendrachandranagar (Part)",
+              "code": "271859",
+              "uniqueCode": "16-289-01922-271859"
+            },
+            {
+              "name": "Fatikchhara",
+              "code": "271853",
+              "uniqueCode": "16-289-01922-271853"
+            },
+            {
+              "name": "Gandhigram (CT)",
+              "code": "271866",
+              "uniqueCode": "16-289-01922-271866"
+            },
+            {
+              "name": "Ishanpur(Part)",
+              "code": "271845",
+              "uniqueCode": "16-289-01922-271845"
+            },
+            {
+              "name": "Kalachhara",
+              "code": "271847",
+              "uniqueCode": "16-289-01922-271847"
+            },
+            {
+              "name": "Kalkalia",
+              "code": "271851",
+              "uniqueCode": "16-289-01922-271851"
+            },
+            {
+              "name": "Kunjaban (Part)",
+              "code": "271858",
+              "uniqueCode": "16-289-01922-271858"
+            },
+            {
+              "name": "Lankamura (Part)",
+              "code": "271855",
+              "uniqueCode": "16-289-01922-271855"
+            },
+            {
+              "name": "Laxmilunga",
+              "code": "271854",
+              "uniqueCode": "16-289-01922-271854"
+            },
+            {
+              "name": "Mantala(Part)",
+              "code": "271846",
+              "uniqueCode": "16-289-01922-271846"
+            },
+            {
+              "name": "Megliband  (Part)",
+              "code": "271844",
+              "uniqueCode": "16-289-01922-271844"
+            },
+            {
+              "name": "Mohanpur(Part)",
+              "code": "271849",
+              "uniqueCode": "16-289-01922-271849"
+            },
+            {
+              "name": "Narsingarh (CT)",
+              "code": "271864",
+              "uniqueCode": "16-289-01922-271864"
+            },
+            {
+              "name": "Noagaon(Part)",
+              "code": "271850",
+              "uniqueCode": "16-289-01922-271850"
+            },
+            {
+              "name": "Paschim Simna (Part)",
+              "code": "271843",
+              "uniqueCode": "16-289-01922-271843"
+            },
+            {
+              "name": "Ramnagar (Part) (Minabari)",
+              "code": "271856",
+              "uniqueCode": "16-289-01922-271856"
+            },
+            {
+              "name": "Singarbil (CT)",
+              "code": "271865",
+              "uniqueCode": "16-289-01922-271865"
+            },
+            {
+              "name": "Taranagar (CT)",
+              "code": "271863",
+              "uniqueCode": "16-289-01922-271863"
+            },
+            {
+              "name": "Tulabagan",
+              "code": "271861",
+              "uniqueCode": "16-289-01922-271861"
+            },
+            {
+              "name": "Uttar Debendrachandranagar",
+              "code": "271862",
+              "uniqueCode": "16-289-01922-271862"
+            }
+          ]
+        },
+        {
+          "name": "Mungiakumi",
+          "code": "01929",
+          "villages": [
+            {
+              "name": "Atharamura R.F.",
+              "code": "271976",
+              "uniqueCode": "16-289-01929-271976"
+            },
+            {
+              "name": "Dakshin Gakulnagar (Part)",
+              "code": "271979",
+              "uniqueCode": "16-289-01929-271979"
+            },
+            {
+              "name": "Dakshin Maharani (Part)",
+              "code": "271973",
+              "uniqueCode": "16-289-01929-271973"
+            },
+            {
+              "name": "Jagna Kobrabari (Part)",
+              "code": "271968",
+              "uniqueCode": "16-289-01929-271968"
+            },
+            {
+              "name": "Karaibari",
+              "code": "271970",
+              "uniqueCode": "16-289-01929-271970"
+            },
+            {
+              "name": "Laxmipur (Part)",
+              "code": "271975",
+              "uniqueCode": "16-289-01929-271975"
+            },
+            {
+              "name": "Maharanipur (Part)",
+              "code": "271972",
+              "uniqueCode": "16-289-01929-271972"
+            },
+            {
+              "name": "Nunachhara R.F.",
+              "code": "271980",
+              "uniqueCode": "16-289-01929-271980"
+            },
+            {
+              "name": "Ramkrishnapur",
+              "code": "271974",
+              "uniqueCode": "16-289-01929-271974"
+            },
+            {
+              "name": "Sriramkhara",
+              "code": "271971",
+              "uniqueCode": "16-289-01929-271971"
+            },
+            {
+              "name": "Teliamura R.F. (Part)",
+              "code": "271978",
+              "uniqueCode": "16-289-01929-271978"
+            },
+            {
+              "name": "Tuichindraibari",
+              "code": "271969",
+              "uniqueCode": "16-289-01929-271969"
+            },
+            {
+              "name": "Uttar Gakulnagar (Part)",
+              "code": "271977",
+              "uniqueCode": "16-289-01929-271977"
+            },
+            {
+              "name": "Uttar Promodenagar",
+              "code": "271967",
+              "uniqueCode": "16-289-01929-271967"
+            }
+          ]
+        },
+        {
+          "name": "Padmabil",
+          "code": "01924",
+          "villages": [
+            {
+              "name": "Akhrabari",
+              "code": "271899",
+              "uniqueCode": "16-289-01924-271899"
+            },
+            {
+              "name": "Bagabil",
+              "code": "271888",
+              "uniqueCode": "16-289-01924-271888"
+            },
+            {
+              "name": "Dakshin Padmabil",
+              "code": "271894",
+              "uniqueCode": "16-289-01924-271894"
+            },
+            {
+              "name": "Dakshin Ramchandraghat",
+              "code": "271897",
+              "uniqueCode": "16-289-01924-271897"
+            },
+            {
+              "name": "Dhalabil (Part)",
+              "code": "271895",
+              "uniqueCode": "16-289-01924-271895"
+            },
+            {
+              "name": "Dwarikapur (Part)",
+              "code": "271902",
+              "uniqueCode": "16-289-01924-271902"
+            },
+            {
+              "name": "Gayamanibari",
+              "code": "271893",
+              "uniqueCode": "16-289-01924-271893"
+            },
+            {
+              "name": "Khengrabari",
+              "code": "271887",
+              "uniqueCode": "16-289-01924-271887"
+            },
+            {
+              "name": "Laxminarayanpur (Part)",
+              "code": "271901",
+              "uniqueCode": "16-289-01924-271901"
+            },
+            {
+              "name": "Paglabari",
+              "code": "271904",
+              "uniqueCode": "16-289-01924-271904"
+            },
+            {
+              "name": "Paschim Belchhara",
+              "code": "271890",
+              "uniqueCode": "16-289-01924-271890"
+            },
+            {
+              "name": "Purba Belchhara",
+              "code": "271891",
+              "uniqueCode": "16-289-01924-271891"
+            },
+            {
+              "name": "Purba Ramchandraghat (Part)",
+              "code": "271900",
+              "uniqueCode": "16-289-01924-271900"
+            },
+            {
+              "name": "Ramdayalbari (Part)",
+              "code": "271903",
+              "uniqueCode": "16-289-01924-271903"
+            },
+            {
+              "name": "Ratanpur",
+              "code": "271889",
+              "uniqueCode": "16-289-01924-271889"
+            },
+            {
+              "name": "Tuihachingbari",
+              "code": "271898",
+              "uniqueCode": "16-289-01924-271898"
+            },
+            {
+              "name": "Uttar Padmabil (Part)",
+              "code": "271892",
+              "uniqueCode": "16-289-01924-271892"
+            },
+            {
+              "name": "Uttar Ramchandraghat (Part)",
+              "code": "271896",
+              "uniqueCode": "16-289-01924-271896"
+            }
+          ]
+        },
+        {
+          "name": "Teliamura",
+          "code": "01928",
+          "villages": [
+            {
+              "name": "Brahmachhara",
+              "code": "271963",
+              "uniqueCode": "16-289-01928-271963"
+            },
+            {
+              "name": "Dakshin Gakulnagar (Part)",
+              "code": "271965",
+              "uniqueCode": "16-289-01928-271965"
+            },
+            {
+              "name": "Dakshin Pulinpur",
+              "code": "271958",
+              "uniqueCode": "16-289-01928-271958"
+            },
+            {
+              "name": "Hawaibari",
+              "code": "271960",
+              "uniqueCode": "16-289-01928-271960"
+            },
+            {
+              "name": "Krishnapur (Part)",
+              "code": "271954",
+              "uniqueCode": "16-289-01928-271954"
+            },
+            {
+              "name": "Laxmipur (Part)",
+              "code": "271957",
+              "uniqueCode": "16-289-01928-271957"
+            },
+            {
+              "name": "Moharchhara",
+              "code": "271955",
+              "uniqueCode": "16-289-01928-271955"
+            },
+            {
+              "name": "Sardu Karkari",
+              "code": "271961",
+              "uniqueCode": "16-289-01928-271961"
+            },
+            {
+              "name": "Teliamura (Part)",
+              "code": "271966",
+              "uniqueCode": "16-289-01928-271966"
+            },
+            {
+              "name": "Teliamura R.F. (Part)",
+              "code": "271962",
+              "uniqueCode": "16-289-01928-271962"
+            },
+            {
+              "name": "Tuichindrai",
+              "code": "271959",
+              "uniqueCode": "16-289-01928-271959"
+            },
+            {
+              "name": "Uttar Gakulnagar (Part)",
+              "code": "271964",
+              "uniqueCode": "16-289-01928-271964"
+            },
+            {
+              "name": "Uttar Pulinpur",
+              "code": "271956",
+              "uniqueCode": "16-289-01928-271956"
+            }
+          ]
+        },
+        {
+          "name": "Tulashikhar",
+          "code": "01926",
+          "villages": [
+            {
+              "name": "Asharambari",
+              "code": "271920",
+              "uniqueCode": "16-289-01926-271920"
+            },
+            {
+              "name": "Badlabari",
+              "code": "271937",
+              "uniqueCode": "16-289-01926-271937"
+            },
+            {
+              "name": "Banbazar",
+              "code": "271919",
+              "uniqueCode": "16-289-01926-271919"
+            },
+            {
+              "name": "Chamubasti",
+              "code": "271918",
+              "uniqueCode": "16-289-01926-271918"
+            },
+            {
+              "name": "Dakshin Promodenagar (Part)",
+              "code": "271940",
+              "uniqueCode": "16-289-01926-271940"
+            },
+            {
+              "name": "Jagna Kobrabari (Part)",
+              "code": "271939",
+              "uniqueCode": "16-289-01926-271939"
+            },
+            {
+              "name": "Maidanbari",
+              "code": "271932",
+              "uniqueCode": "16-289-01926-271932"
+            },
+            {
+              "name": "Mainakbari",
+              "code": "271938",
+              "uniqueCode": "16-289-01926-271938"
+            },
+            {
+              "name": "Paschim Bachaibari",
+              "code": "271927",
+              "uniqueCode": "16-289-01926-271927"
+            },
+            {
+              "name": "Paschim Champachhara",
+              "code": "271929",
+              "uniqueCode": "16-289-01926-271929"
+            },
+            {
+              "name": "Paschim Karangichhara",
+              "code": "271921",
+              "uniqueCode": "16-289-01926-271921"
+            },
+            {
+              "name": "Paschim Laxmichhara",
+              "code": "271926",
+              "uniqueCode": "16-289-01926-271926"
+            },
+            {
+              "name": "Paschim Rajnagar",
+              "code": "271935",
+              "uniqueCode": "16-289-01926-271935"
+            },
+            {
+              "name": "Purba Bachaibari",
+              "code": "271928",
+              "uniqueCode": "16-289-01926-271928"
+            },
+            {
+              "name": "Purba Champachhara",
+              "code": "271930",
+              "uniqueCode": "16-289-01926-271930"
+            },
+            {
+              "name": "Purba Karangichhara",
+              "code": "271922",
+              "uniqueCode": "16-289-01926-271922"
+            },
+            {
+              "name": "Purba Laxmichhara",
+              "code": "271925",
+              "uniqueCode": "16-289-01926-271925"
+            },
+            {
+              "name": "Purba Rajnagar",
+              "code": "271934",
+              "uniqueCode": "16-289-01926-271934"
+            },
+            {
+              "name": "Ramkrishnabari",
+              "code": "271933",
+              "uniqueCode": "16-289-01926-271933"
+            },
+            {
+              "name": "Remachhara",
+              "code": "271924",
+              "uniqueCode": "16-289-01926-271924"
+            },
+            {
+              "name": "Santinagar (Part)",
+              "code": "271936",
+              "uniqueCode": "16-289-01926-271936"
+            },
+            {
+              "name": "Shikaribari",
+              "code": "271931",
+              "uniqueCode": "16-289-01926-271931"
+            },
+            {
+              "name": "Sukhiabari",
+              "code": "271923",
+              "uniqueCode": "16-289-01926-271923"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

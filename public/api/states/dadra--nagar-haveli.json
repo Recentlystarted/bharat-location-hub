@@ -1,0 +1,368 @@
+{
+  "state": "DADRA & NAGAR HAVELI",
+  "code": "26",
+  "districts": [
+    {
+      "name": "Dadra & Nagar Haveli",
+      "code": "496",
+      "talukas": [
+        {
+          "name": "Dadra & Nagar Haveli",
+          "code": "03949",
+          "villages": [
+            {
+              "name": "Ambabari",
+              "code": "524971",
+              "uniqueCode": "26-496-03949-524971"
+            },
+            {
+              "name": "Amboli",
+              "code": "524962",
+              "uniqueCode": "26-496-03949-524962"
+            },
+            {
+              "name": "Apti",
+              "code": "524960",
+              "uniqueCode": "26-496-03949-524960"
+            },
+            {
+              "name": "Athal",
+              "code": "524946",
+              "uniqueCode": "26-496-03949-524946"
+            },
+            {
+              "name": "Athola",
+              "code": "524942",
+              "uniqueCode": "26-496-03949-524942"
+            },
+            {
+              "name": "Bedpa",
+              "code": "524994",
+              "uniqueCode": "26-496-03949-524994"
+            },
+            {
+              "name": "Bensda",
+              "code": "524993",
+              "uniqueCode": "26-496-03949-524993"
+            },
+            {
+              "name": "Bildhari",
+              "code": "524976",
+              "uniqueCode": "26-496-03949-524976"
+            },
+            {
+              "name": "Bindrabin",
+              "code": "524963",
+              "uniqueCode": "26-496-03949-524963"
+            },
+            {
+              "name": "Bonta",
+              "code": "524939",
+              "uniqueCode": "26-496-03949-524939"
+            },
+            {
+              "name": "Chauda",
+              "code": "524982",
+              "uniqueCode": "26-496-03949-524982"
+            },
+            {
+              "name": "Chikhali",
+              "code": "524955",
+              "uniqueCode": "26-496-03949-524955"
+            },
+            {
+              "name": "Chinchpada",
+              "code": "524953",
+              "uniqueCode": "26-496-03949-524953"
+            },
+            {
+              "name": "Chinsda",
+              "code": "524990",
+              "uniqueCode": "26-496-03949-524990"
+            },
+            {
+              "name": "Dadra (CT)",
+              "code": "524997",
+              "uniqueCode": "26-496-03949-524997"
+            },
+            {
+              "name": "Dapada",
+              "code": "524956",
+              "uniqueCode": "26-496-03949-524956"
+            },
+            {
+              "name": "Demani",
+              "code": "524932",
+              "uniqueCode": "26-496-03949-524932"
+            },
+            {
+              "name": "Dhapsa",
+              "code": "524943",
+              "uniqueCode": "26-496-03949-524943"
+            },
+            {
+              "name": "Dolara",
+              "code": "524986",
+              "uniqueCode": "26-496-03949-524986"
+            },
+            {
+              "name": "Dudhani",
+              "code": "524974",
+              "uniqueCode": "26-496-03949-524974"
+            },
+            {
+              "name": "Falandi",
+              "code": "524947",
+              "uniqueCode": "26-496-03949-524947"
+            },
+            {
+              "name": "Galonda",
+              "code": "524941",
+              "uniqueCode": "26-496-03949-524941"
+            },
+            {
+              "name": "Ghodbari",
+              "code": "524977",
+              "uniqueCode": "26-496-03949-524977"
+            },
+            {
+              "name": "Goratpada",
+              "code": "524967",
+              "uniqueCode": "26-496-03949-524967"
+            },
+            {
+              "name": "Gunsa",
+              "code": "524975",
+              "uniqueCode": "26-496-03949-524975"
+            },
+            {
+              "name": "Jamalpada",
+              "code": "524972",
+              "uniqueCode": "26-496-03949-524972"
+            },
+            {
+              "name": "Kala",
+              "code": "524983",
+              "uniqueCode": "26-496-03949-524983"
+            },
+            {
+              "name": "Kanadi",
+              "code": "524944",
+              "uniqueCode": "26-496-03949-524944"
+            },
+            {
+              "name": "Karachgam",
+              "code": "524984",
+              "uniqueCode": "26-496-03949-524984"
+            },
+            {
+              "name": "Karad",
+              "code": "524951",
+              "uniqueCode": "26-496-03949-524951"
+            },
+            {
+              "name": "Karchond",
+              "code": "524978",
+              "uniqueCode": "26-496-03949-524978"
+            },
+            {
+              "name": "Kauncha",
+              "code": "524973",
+              "uniqueCode": "26-496-03949-524973"
+            },
+            {
+              "name": "Khadoli",
+              "code": "524958",
+              "uniqueCode": "26-496-03949-524958"
+            },
+            {
+              "name": "Khanvel",
+              "code": "524965",
+              "uniqueCode": "26-496-03949-524965"
+            },
+            {
+              "name": "Kharadpada",
+              "code": "524945",
+              "uniqueCode": "26-496-03949-524945"
+            },
+            {
+              "name": "Khedpa",
+              "code": "524996",
+              "uniqueCode": "26-496-03949-524996"
+            },
+            {
+              "name": "Kherarbari",
+              "code": "524979",
+              "uniqueCode": "26-496-03949-524979"
+            },
+            {
+              "name": "Kherdi",
+              "code": "524985",
+              "uniqueCode": "26-496-03949-524985"
+            },
+            {
+              "name": "Khutali",
+              "code": "524981",
+              "uniqueCode": "26-496-03949-524981"
+            },
+            {
+              "name": "Kilavani",
+              "code": "524940",
+              "uniqueCode": "26-496-03949-524940"
+            },
+            {
+              "name": "Kothar",
+              "code": "524969",
+              "uniqueCode": "26-496-03949-524969"
+            },
+            {
+              "name": "Kudacha",
+              "code": "524950",
+              "uniqueCode": "26-496-03949-524950"
+            },
+            {
+              "name": "Luhari",
+              "code": "524954",
+              "uniqueCode": "26-496-03949-524954"
+            },
+            {
+              "name": "Mandoni",
+              "code": "524991",
+              "uniqueCode": "26-496-03949-524991"
+            },
+            {
+              "name": "Masat (CT)",
+              "code": "525000",
+              "uniqueCode": "26-496-03949-525000"
+            },
+            {
+              "name": "Medha",
+              "code": "524970",
+              "uniqueCode": "26-496-03949-524970"
+            },
+            {
+              "name": "Morkhal",
+              "code": "524936",
+              "uniqueCode": "26-496-03949-524936"
+            },
+            {
+              "name": "Mota Randha",
+              "code": "524938",
+              "uniqueCode": "26-496-03949-524938"
+            },
+            {
+              "name": "Nana Randha",
+              "code": "524937",
+              "uniqueCode": "26-496-03949-524937"
+            },
+            {
+              "name": "Naroli (CT)",
+              "code": "524998",
+              "uniqueCode": "26-496-03949-524998"
+            },
+            {
+              "name": "Parzai",
+              "code": "524987",
+              "uniqueCode": "26-496-03949-524987"
+            },
+            {
+              "name": "Pati",
+              "code": "524957",
+              "uniqueCode": "26-496-03949-524957"
+            },
+            {
+              "name": "Rakholi (CT)",
+              "code": "525001",
+              "uniqueCode": "26-496-03949-525001"
+            },
+            {
+              "name": "Rudana",
+              "code": "524989",
+              "uniqueCode": "26-496-03949-524989"
+            },
+            {
+              "name": "Saily",
+              "code": "524949",
+              "uniqueCode": "26-496-03949-524949"
+            },
+            {
+              "name": "Samarvarni (CT)",
+              "code": "524999",
+              "uniqueCode": "26-496-03949-524999"
+            },
+            {
+              "name": "Shelti",
+              "code": "524980",
+              "uniqueCode": "26-496-03949-524980"
+            },
+            {
+              "name": "Sili",
+              "code": "524935",
+              "uniqueCode": "26-496-03949-524935"
+            },
+            {
+              "name": "Sindoni",
+              "code": "524995",
+              "uniqueCode": "26-496-03949-524995"
+            },
+            {
+              "name": "Surangi",
+              "code": "524959",
+              "uniqueCode": "26-496-03949-524959"
+            },
+            {
+              "name": "Talavali",
+              "code": "524988",
+              "uniqueCode": "26-496-03949-524988"
+            },
+            {
+              "name": "Tighra",
+              "code": "524933",
+              "uniqueCode": "26-496-03949-524933"
+            },
+            {
+              "name": "Tinoda",
+              "code": "524964",
+              "uniqueCode": "26-496-03949-524964"
+            },
+            {
+              "name": "Umarkui",
+              "code": "524948",
+              "uniqueCode": "26-496-03949-524948"
+            },
+            {
+              "name": "Umbervarni",
+              "code": "524966",
+              "uniqueCode": "26-496-03949-524966"
+            },
+            {
+              "name": "Vaghchauda",
+              "code": "524968",
+              "uniqueCode": "26-496-03949-524968"
+            },
+            {
+              "name": "Vaghchhipa",
+              "code": "524934",
+              "uniqueCode": "26-496-03949-524934"
+            },
+            {
+              "name": "Vansda",
+              "code": "524992",
+              "uniqueCode": "26-496-03949-524992"
+            },
+            {
+              "name": "Vasona",
+              "code": "524952",
+              "uniqueCode": "26-496-03949-524952"
+            },
+            {
+              "name": "Velugam",
+              "code": "524961",
+              "uniqueCode": "26-496-03949-524961"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

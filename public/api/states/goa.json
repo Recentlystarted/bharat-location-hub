@@ -1,0 +1,2069 @@
+{
+  "state": "GOA",
+  "code": "30",
+  "districts": [
+    {
+      "name": "North Goa",
+      "code": "585",
+      "talukas": [
+        {
+          "name": "Bardez",
+          "code": "05610",
+          "villages": [
+            {
+              "name": "Aldona (CT)",
+              "code": "626704",
+              "uniqueCode": "30-585-05610-626704"
+            },
+            {
+              "name": "Anjuna (CT)",
+              "code": "626694",
+              "uniqueCode": "30-585-05610-626694"
+            },
+            {
+              "name": "Arpora",
+              "code": "626673",
+              "uniqueCode": "30-585-05610-626673"
+            },
+            {
+              "name": "Assagao",
+              "code": "626672",
+              "uniqueCode": "30-585-05610-626672"
+            },
+            {
+              "name": "Assonora",
+              "code": "626668",
+              "uniqueCode": "30-585-05610-626668"
+            },
+            {
+              "name": "Bastora",
+              "code": "626678",
+              "uniqueCode": "30-585-05610-626678"
+            },
+            {
+              "name": "Calangute (CT)",
+              "code": "626695",
+              "uniqueCode": "30-585-05610-626695"
+            },
+            {
+              "name": "Calvim",
+              "code": "626685",
+              "uniqueCode": "30-585-05610-626685"
+            },
+            {
+              "name": "Camurlim",
+              "code": "626663",
+              "uniqueCode": "30-585-05610-626663"
+            },
+            {
+              "name": "Canca",
+              "code": "626677",
+              "uniqueCode": "30-585-05610-626677"
+            },
+            {
+              "name": "Candolim (CT)",
+              "code": "626697",
+              "uniqueCode": "30-585-05610-626697"
+            },
+            {
+              "name": "Colvale (CT)",
+              "code": "626691",
+              "uniqueCode": "30-585-05610-626691"
+            },
+            {
+              "name": "Corjuem",
+              "code": "626683",
+              "uniqueCode": "30-585-05610-626683"
+            },
+            {
+              "name": "Guirim (CT)",
+              "code": "626693",
+              "uniqueCode": "30-585-05610-626693"
+            },
+            {
+              "name": "Marna",
+              "code": "626671",
+              "uniqueCode": "30-585-05610-626671"
+            },
+            {
+              "name": "Marra",
+              "code": "626689",
+              "uniqueCode": "30-585-05610-626689"
+            },
+            {
+              "name": "Moira (CT)",
+              "code": "626692",
+              "uniqueCode": "30-585-05610-626692"
+            },
+            {
+              "name": "Moitem",
+              "code": "626667",
+              "uniqueCode": "30-585-05610-626667"
+            },
+            {
+              "name": "Nachinola",
+              "code": "626682",
+              "uniqueCode": "30-585-05610-626682"
+            },
+            {
+              "name": "Nadora",
+              "code": "626665",
+              "uniqueCode": "30-585-05610-626665"
+            },
+            {
+              "name": "Nagoa",
+              "code": "626674",
+              "uniqueCode": "30-585-05610-626674"
+            },
+            {
+              "name": "Nerul (CT)",
+              "code": "626698",
+              "uniqueCode": "30-585-05610-626698"
+            },
+            {
+              "name": "Olaulim",
+              "code": "626686",
+              "uniqueCode": "30-585-05610-626686"
+            },
+            {
+              "name": "Oxel",
+              "code": "626662",
+              "uniqueCode": "30-585-05610-626662"
+            },
+            {
+              "name": "Paliem",
+              "code": "626679",
+              "uniqueCode": "30-585-05610-626679"
+            },
+            {
+              "name": "Parra",
+              "code": "626675",
+              "uniqueCode": "30-585-05610-626675"
+            },
+            {
+              "name": "Penha-de-Franca (CT)",
+              "code": "626701",
+              "uniqueCode": "30-585-05610-626701"
+            },
+            {
+              "name": "Pilerne (CT)",
+              "code": "626700",
+              "uniqueCode": "30-585-05610-626700"
+            },
+            {
+              "name": "Pirna",
+              "code": "626666",
+              "uniqueCode": "30-585-05610-626666"
+            },
+            {
+              "name": "Pomburpa",
+              "code": "626687",
+              "uniqueCode": "30-585-05610-626687"
+            },
+            {
+              "name": "Ponolem",
+              "code": "626684",
+              "uniqueCode": "30-585-05610-626684"
+            },
+            {
+              "name": "Punola",
+              "code": "626680",
+              "uniqueCode": "30-585-05610-626680"
+            },
+            {
+              "name": "Reis Magos (CT)",
+              "code": "626699",
+              "uniqueCode": "30-585-05610-626699"
+            },
+            {
+              "name": "Revora",
+              "code": "626664",
+              "uniqueCode": "30-585-05610-626664"
+            },
+            {
+              "name": "Saligao (CT)",
+              "code": "626696",
+              "uniqueCode": "30-585-05610-626696"
+            },
+            {
+              "name": "Salvador do Mundo (CT)",
+              "code": "626702",
+              "uniqueCode": "30-585-05610-626702"
+            },
+            {
+              "name": "Sangolda",
+              "code": "626688",
+              "uniqueCode": "30-585-05610-626688"
+            },
+            {
+              "name": "Siolim (CT)",
+              "code": "626690",
+              "uniqueCode": "30-585-05610-626690"
+            },
+            {
+              "name": "Sircaim",
+              "code": "626669",
+              "uniqueCode": "30-585-05610-626669"
+            },
+            {
+              "name": "Socorro (CT)",
+              "code": "626703",
+              "uniqueCode": "30-585-05610-626703"
+            },
+            {
+              "name": "Tivim",
+              "code": "626670",
+              "uniqueCode": "30-585-05610-626670"
+            },
+            {
+              "name": "Ucassaim",
+              "code": "626681",
+              "uniqueCode": "30-585-05610-626681"
+            },
+            {
+              "name": "Verla",
+              "code": "626676",
+              "uniqueCode": "30-585-05610-626676"
+            }
+          ]
+        },
+        {
+          "name": "Bicholim",
+          "code": "05612",
+          "villages": [
+            {
+              "name": "Adwalpale",
+              "code": "626745",
+              "uniqueCode": "30-585-05612-626745"
+            },
+            {
+              "name": "Amone",
+              "code": "626758",
+              "uniqueCode": "30-585-05612-626758"
+            },
+            {
+              "name": "Aturli",
+              "code": "626754",
+              "uniqueCode": "30-585-05612-626754"
+            },
+            {
+              "name": "Carapur (CT)",
+              "code": "626763",
+              "uniqueCode": "30-585-05612-626763"
+            },
+            {
+              "name": "Cotombi",
+              "code": "626760",
+              "uniqueCode": "30-585-05612-626760"
+            },
+            {
+              "name": "Cudnem",
+              "code": "626757",
+              "uniqueCode": "30-585-05612-626757"
+            },
+            {
+              "name": "Curchirem",
+              "code": "626750",
+              "uniqueCode": "30-585-05612-626750"
+            },
+            {
+              "name": "Dumacem",
+              "code": "626742",
+              "uniqueCode": "30-585-05612-626742"
+            },
+            {
+              "name": "Latambarcem",
+              "code": "626744",
+              "uniqueCode": "30-585-05612-626744"
+            },
+            {
+              "name": "Maem",
+              "code": "626752",
+              "uniqueCode": "30-585-05612-626752"
+            },
+            {
+              "name": "Maulinguem North",
+              "code": "626749",
+              "uniqueCode": "30-585-05612-626749"
+            },
+            {
+              "name": "Mencurem",
+              "code": "626741",
+              "uniqueCode": "30-585-05612-626741"
+            },
+            {
+              "name": "Mulgao",
+              "code": "626747",
+              "uniqueCode": "30-585-05612-626747"
+            },
+            {
+              "name": "Naroa",
+              "code": "626755",
+              "uniqueCode": "30-585-05612-626755"
+            },
+            {
+              "name": "Navelim",
+              "code": "626759",
+              "uniqueCode": "30-585-05612-626759"
+            },
+            {
+              "name": "Ona",
+              "code": "626748",
+              "uniqueCode": "30-585-05612-626748"
+            },
+            {
+              "name": "Pale (CT)",
+              "code": "626764",
+              "uniqueCode": "30-585-05612-626764"
+            },
+            {
+              "name": "Piligao",
+              "code": "626756",
+              "uniqueCode": "30-585-05612-626756"
+            },
+            {
+              "name": "Salem",
+              "code": "626743",
+              "uniqueCode": "30-585-05612-626743"
+            },
+            {
+              "name": "Sarvona",
+              "code": "626751",
+              "uniqueCode": "30-585-05612-626751"
+            },
+            {
+              "name": "Sirigao",
+              "code": "626746",
+              "uniqueCode": "30-585-05612-626746"
+            },
+            {
+              "name": "Surla",
+              "code": "626761",
+              "uniqueCode": "30-585-05612-626761"
+            },
+            {
+              "name": "Vainguinim",
+              "code": "626753",
+              "uniqueCode": "30-585-05612-626753"
+            },
+            {
+              "name": "Velguem",
+              "code": "626762",
+              "uniqueCode": "30-585-05612-626762"
+            }
+          ]
+        },
+        {
+          "name": "Pernem",
+          "code": "05609",
+          "villages": [
+            {
+              "name": "Agarvado",
+              "code": "626657",
+              "uniqueCode": "30-585-05609-626657"
+            },
+            {
+              "name": "Alorna",
+              "code": "626649",
+              "uniqueCode": "30-585-05609-626649"
+            },
+            {
+              "name": "Amberem",
+              "code": "626643",
+              "uniqueCode": "30-585-05609-626643"
+            },
+            {
+              "name": "Arambol (CT)",
+              "code": "626658",
+              "uniqueCode": "30-585-05609-626658"
+            },
+            {
+              "name": "Cansarvornem",
+              "code": "626651",
+              "uniqueCode": "30-585-05609-626651"
+            },
+            {
+              "name": "Casnem",
+              "code": "626641",
+              "uniqueCode": "30-585-05609-626641"
+            },
+            {
+              "name": "Chandel",
+              "code": "626648",
+              "uniqueCode": "30-585-05609-626648"
+            },
+            {
+              "name": "Chopdem",
+              "code": "626656",
+              "uniqueCode": "30-585-05609-626656"
+            },
+            {
+              "name": "Corgao",
+              "code": "626638",
+              "uniqueCode": "30-585-05609-626638"
+            },
+            {
+              "name": "Dargalim",
+              "code": "626653",
+              "uniqueCode": "30-585-05609-626653"
+            },
+            {
+              "name": "Ibrampur",
+              "code": "626650",
+              "uniqueCode": "30-585-05609-626650"
+            },
+            {
+              "name": "Mandrem (CT)",
+              "code": "626659",
+              "uniqueCode": "30-585-05609-626659"
+            },
+            {
+              "name": "Mopa",
+              "code": "626647",
+              "uniqueCode": "30-585-05609-626647"
+            },
+            {
+              "name": "Morjim (CT)",
+              "code": "626661",
+              "uniqueCode": "30-585-05609-626661"
+            },
+            {
+              "name": "Ozorim",
+              "code": "626652",
+              "uniqueCode": "30-585-05609-626652"
+            },
+            {
+              "name": "Paliem",
+              "code": "626637",
+              "uniqueCode": "30-585-05609-626637"
+            },
+            {
+              "name": "Parcem (CT)",
+              "code": "626660",
+              "uniqueCode": "30-585-05609-626660"
+            },
+            {
+              "name": "Pernem",
+              "code": "626639",
+              "uniqueCode": "30-585-05609-626639"
+            },
+            {
+              "name": "Poroscodem",
+              "code": "626640",
+              "uniqueCode": "30-585-05609-626640"
+            },
+            {
+              "name": "Querim",
+              "code": "626636",
+              "uniqueCode": "30-585-05609-626636"
+            },
+            {
+              "name": "Tamboxem",
+              "code": "626645",
+              "uniqueCode": "30-585-05609-626645"
+            },
+            {
+              "name": "Tiracol",
+              "code": "626635",
+              "uniqueCode": "30-585-05609-626635"
+            },
+            {
+              "name": "Torxem",
+              "code": "626646",
+              "uniqueCode": "30-585-05609-626646"
+            },
+            {
+              "name": "Tuem",
+              "code": "626655",
+              "uniqueCode": "30-585-05609-626655"
+            },
+            {
+              "name": "Uguem",
+              "code": "626644",
+              "uniqueCode": "30-585-05609-626644"
+            },
+            {
+              "name": "Varconda",
+              "code": "626642",
+              "uniqueCode": "30-585-05609-626642"
+            },
+            {
+              "name": "Virnora",
+              "code": "626654",
+              "uniqueCode": "30-585-05609-626654"
+            }
+          ]
+        },
+        {
+          "name": "Ponda",
+          "code": "05614",
+          "villages": [
+            {
+              "name": "Adcolna",
+              "code": "626847",
+              "uniqueCode": "30-585-05614-626847"
+            },
+            {
+              "name": "Bandora (CT)",
+              "code": "626869",
+              "uniqueCode": "30-585-05614-626869"
+            },
+            {
+              "name": "Betora",
+              "code": "626859",
+              "uniqueCode": "30-585-05614-626859"
+            },
+            {
+              "name": "Betqui",
+              "code": "626844",
+              "uniqueCode": "30-585-05614-626844"
+            },
+            {
+              "name": "Boma",
+              "code": "626848",
+              "uniqueCode": "30-585-05614-626848"
+            },
+            {
+              "name": "Borim (CT)",
+              "code": "626872",
+              "uniqueCode": "30-585-05614-626872"
+            },
+            {
+              "name": "Candepar",
+              "code": "626853",
+              "uniqueCode": "30-585-05614-626853"
+            },
+            {
+              "name": "Candola (CT)",
+              "code": "626865",
+              "uniqueCode": "30-585-05614-626865"
+            },
+            {
+              "name": "Codar",
+              "code": "626860",
+              "uniqueCode": "30-585-05614-626860"
+            },
+            {
+              "name": "Conxem",
+              "code": "626862",
+              "uniqueCode": "30-585-05614-626862"
+            },
+            {
+              "name": "Cuncoliem",
+              "code": "626849",
+              "uniqueCode": "30-585-05614-626849"
+            },
+            {
+              "name": "Cundaim",
+              "code": "626855",
+              "uniqueCode": "30-585-05614-626855"
+            },
+            {
+              "name": "Curti (CT)",
+              "code": "626870",
+              "uniqueCode": "30-585-05614-626870"
+            },
+            {
+              "name": "Durbhat",
+              "code": "626856",
+              "uniqueCode": "30-585-05614-626856"
+            },
+            {
+              "name": "Gangem",
+              "code": "626852",
+              "uniqueCode": "30-585-05614-626852"
+            },
+            {
+              "name": "Marcaim (CT)",
+              "code": "626867",
+              "uniqueCode": "30-585-05614-626867"
+            },
+            {
+              "name": "Nirancal",
+              "code": "626861",
+              "uniqueCode": "30-585-05614-626861"
+            },
+            {
+              "name": "Orgao (CT)",
+              "code": "626866",
+              "uniqueCode": "30-585-05614-626866"
+            },
+            {
+              "name": "Ponchavadi",
+              "code": "626864",
+              "uniqueCode": "30-585-05614-626864"
+            },
+            {
+              "name": "Priol (CT)",
+              "code": "626868",
+              "uniqueCode": "30-585-05614-626868"
+            },
+            {
+              "name": "Quela (CT)",
+              "code": "626871",
+              "uniqueCode": "30-585-05614-626871"
+            },
+            {
+              "name": "Querim",
+              "code": "626850",
+              "uniqueCode": "30-585-05614-626850"
+            },
+            {
+              "name": "Savoi-Verem",
+              "code": "626846",
+              "uniqueCode": "30-585-05614-626846"
+            },
+            {
+              "name": "Siroda",
+              "code": "626863",
+              "uniqueCode": "30-585-05614-626863"
+            },
+            {
+              "name": "Telaulim",
+              "code": "626857",
+              "uniqueCode": "30-585-05614-626857"
+            },
+            {
+              "name": "Tivrem",
+              "code": "626843",
+              "uniqueCode": "30-585-05614-626843"
+            },
+            {
+              "name": "Usgao (CT)",
+              "code": "626873",
+              "uniqueCode": "30-585-05614-626873"
+            },
+            {
+              "name": "Vadi",
+              "code": "626858",
+              "uniqueCode": "30-585-05614-626858"
+            },
+            {
+              "name": "Vagurbem",
+              "code": "626851",
+              "uniqueCode": "30-585-05614-626851"
+            },
+            {
+              "name": "Velinga",
+              "code": "626854",
+              "uniqueCode": "30-585-05614-626854"
+            },
+            {
+              "name": "Volvoi",
+              "code": "626845",
+              "uniqueCode": "30-585-05614-626845"
+            }
+          ]
+        },
+        {
+          "name": "Satari",
+          "code": "05613",
+          "villages": [
+            {
+              "name": "Advoi",
+              "code": "626825",
+              "uniqueCode": "30-585-05613-626825"
+            },
+            {
+              "name": "Ambedem",
+              "code": "626803",
+              "uniqueCode": "30-585-05613-626803"
+            },
+            {
+              "name": "Ambeli",
+              "code": "626839",
+              "uniqueCode": "30-585-05613-626839"
+            },
+            {
+              "name": "Anjunem",
+              "code": "626770",
+              "uniqueCode": "30-585-05613-626770"
+            },
+            {
+              "name": "Ansolem",
+              "code": "626814",
+              "uniqueCode": "30-585-05613-626814"
+            },
+            {
+              "name": "Assodem",
+              "code": "626836",
+              "uniqueCode": "30-585-05613-626836"
+            },
+            {
+              "name": "Birondem",
+              "code": "626830",
+              "uniqueCode": "30-585-05613-626830"
+            },
+            {
+              "name": "Bombedem",
+              "code": "626802",
+              "uniqueCode": "30-585-05613-626802"
+            },
+            {
+              "name": "Buimpal",
+              "code": "626807",
+              "uniqueCode": "30-585-05613-626807"
+            },
+            {
+              "name": "Carambolim- Brama",
+              "code": "626793",
+              "uniqueCode": "30-585-05613-626793"
+            },
+            {
+              "name": "Carambolim-Bozruco",
+              "code": "626821",
+              "uniqueCode": "30-585-05613-626821"
+            },
+            {
+              "name": "Caranzol",
+              "code": "626820",
+              "uniqueCode": "30-585-05613-626820"
+            },
+            {
+              "name": "Choraundem",
+              "code": "626773",
+              "uniqueCode": "30-585-05613-626773"
+            },
+            {
+              "name": "Codal",
+              "code": "626780",
+              "uniqueCode": "30-585-05613-626780"
+            },
+            {
+              "name": "Codiem",
+              "code": "626812",
+              "uniqueCode": "30-585-05613-626812"
+            },
+            {
+              "name": "Codqui",
+              "code": "626823",
+              "uniqueCode": "30-585-05613-626823"
+            },
+            {
+              "name": "Codvol",
+              "code": "626818",
+              "uniqueCode": "30-585-05613-626818"
+            },
+            {
+              "name": "Compordem",
+              "code": "626790",
+              "uniqueCode": "30-585-05613-626790"
+            },
+            {
+              "name": "Conquirem",
+              "code": "626841",
+              "uniqueCode": "30-585-05613-626841"
+            },
+            {
+              "name": "Cotorem",
+              "code": "626832",
+              "uniqueCode": "30-585-05613-626832"
+            },
+            {
+              "name": "Cudcem",
+              "code": "626815",
+              "uniqueCode": "30-585-05613-626815"
+            },
+            {
+              "name": "Cumarconda",
+              "code": "626808",
+              "uniqueCode": "30-585-05613-626808"
+            },
+            {
+              "name": "Dabem",
+              "code": "626789",
+              "uniqueCode": "30-585-05613-626789"
+            },
+            {
+              "name": "Damocem",
+              "code": "626831",
+              "uniqueCode": "30-585-05613-626831"
+            },
+            {
+              "name": "Davem",
+              "code": "626801",
+              "uniqueCode": "30-585-05613-626801"
+            },
+            {
+              "name": "Derodem",
+              "code": "626779",
+              "uniqueCode": "30-585-05613-626779"
+            },
+            {
+              "name": "Dongurli",
+              "code": "626782",
+              "uniqueCode": "30-585-05613-626782"
+            },
+            {
+              "name": "Edorem",
+              "code": "626791",
+              "uniqueCode": "30-585-05613-626791"
+            },
+            {
+              "name": "Golauli",
+              "code": "626776",
+              "uniqueCode": "30-585-05613-626776"
+            },
+            {
+              "name": "Gonteli",
+              "code": "626768",
+              "uniqueCode": "30-585-05613-626768"
+            },
+            {
+              "name": "Govanem",
+              "code": "626837",
+              "uniqueCode": "30-585-05613-626837"
+            },
+            {
+              "name": "Guleli",
+              "code": "626828",
+              "uniqueCode": "30-585-05613-626828"
+            },
+            {
+              "name": "Gululem",
+              "code": "626784",
+              "uniqueCode": "30-585-05613-626784"
+            },
+            {
+              "name": "Ivrem-Buzruco",
+              "code": "626774",
+              "uniqueCode": "30-585-05613-626774"
+            },
+            {
+              "name": "Ivrem-Curdo",
+              "code": "626775",
+              "uniqueCode": "30-585-05613-626775"
+            },
+            {
+              "name": "Maloli",
+              "code": "626796",
+              "uniqueCode": "30-585-05613-626796"
+            },
+            {
+              "name": "Malpona",
+              "code": "626838",
+              "uniqueCode": "30-585-05613-626838"
+            },
+            {
+              "name": "Mauzi",
+              "code": "626806",
+              "uniqueCode": "30-585-05613-626806"
+            },
+            {
+              "name": "Melauli",
+              "code": "626840",
+              "uniqueCode": "30-585-05613-626840"
+            },
+            {
+              "name": "Morlem",
+              "code": "626786",
+              "uniqueCode": "30-585-05613-626786"
+            },
+            {
+              "name": "Nagargao",
+              "code": "626804",
+              "uniqueCode": "30-585-05613-626804"
+            },
+            {
+              "name": "Naguem",
+              "code": "626813",
+              "uniqueCode": "30-585-05613-626813"
+            },
+            {
+              "name": "Naneli",
+              "code": "626792",
+              "uniqueCode": "30-585-05613-626792"
+            },
+            {
+              "name": "Nanorem",
+              "code": "626797",
+              "uniqueCode": "30-585-05613-626797"
+            },
+            {
+              "name": "Onda (CT)",
+              "code": "626842",
+              "uniqueCode": "30-585-05613-626842"
+            },
+            {
+              "name": "Padeli",
+              "code": "626829",
+              "uniqueCode": "30-585-05613-626829"
+            },
+            {
+              "name": "Pale",
+              "code": "626783",
+              "uniqueCode": "30-585-05613-626783"
+            },
+            {
+              "name": "Pendral",
+              "code": "626819",
+              "uniqueCode": "30-585-05613-626819"
+            },
+            {
+              "name": "Pissurlem",
+              "code": "626809",
+              "uniqueCode": "30-585-05613-626809"
+            },
+            {
+              "name": "Podocem",
+              "code": "626765",
+              "uniqueCode": "30-585-05613-626765"
+            },
+            {
+              "name": "Ponocem",
+              "code": "626826",
+              "uniqueCode": "30-585-05613-626826"
+            },
+            {
+              "name": "Ponsuli",
+              "code": "626772",
+              "uniqueCode": "30-585-05613-626772"
+            },
+            {
+              "name": "Poriem",
+              "code": "626766",
+              "uniqueCode": "30-585-05613-626766"
+            },
+            {
+              "name": "Quelaudem",
+              "code": "626771",
+              "uniqueCode": "30-585-05613-626771"
+            },
+            {
+              "name": "Querim",
+              "code": "626785",
+              "uniqueCode": "30-585-05613-626785"
+            },
+            {
+              "name": "Ravona",
+              "code": "626767",
+              "uniqueCode": "30-585-05613-626767"
+            },
+            {
+              "name": "Rivem",
+              "code": "626781",
+              "uniqueCode": "30-585-05613-626781"
+            },
+            {
+              "name": "Saleli",
+              "code": "626787",
+              "uniqueCode": "30-585-05613-626787"
+            },
+            {
+              "name": "Sanvorcem",
+              "code": "626824",
+              "uniqueCode": "30-585-05613-626824"
+            },
+            {
+              "name": "Sanvordem",
+              "code": "626816",
+              "uniqueCode": "30-585-05613-626816"
+            },
+            {
+              "name": "Satorem",
+              "code": "626805",
+              "uniqueCode": "30-585-05613-626805"
+            },
+            {
+              "name": "Satrem",
+              "code": "626778",
+              "uniqueCode": "30-585-05613-626778"
+            },
+            {
+              "name": "Sigonem",
+              "code": "626795",
+              "uniqueCode": "30-585-05613-626795"
+            },
+            {
+              "name": "Siranguli",
+              "code": "626834",
+              "uniqueCode": "30-585-05613-626834"
+            },
+            {
+              "name": "Siroli",
+              "code": "626769",
+              "uniqueCode": "30-585-05613-626769"
+            },
+            {
+              "name": "Sirsodem",
+              "code": "626835",
+              "uniqueCode": "30-585-05613-626835"
+            },
+            {
+              "name": "Sonal",
+              "code": "626817",
+              "uniqueCode": "30-585-05613-626817"
+            },
+            {
+              "name": "Sonus-Vonvoliem",
+              "code": "626810",
+              "uniqueCode": "30-585-05613-626810"
+            },
+            {
+              "name": "Surla",
+              "code": "626777",
+              "uniqueCode": "30-585-05613-626777"
+            },
+            {
+              "name": "Ustem",
+              "code": "626800",
+              "uniqueCode": "30-585-05613-626800"
+            },
+            {
+              "name": "Vaguriem",
+              "code": "626811",
+              "uniqueCode": "30-585-05613-626811"
+            },
+            {
+              "name": "Vainguinim",
+              "code": "626798",
+              "uniqueCode": "30-585-05613-626798"
+            },
+            {
+              "name": "Vantem",
+              "code": "626827",
+              "uniqueCode": "30-585-05613-626827"
+            },
+            {
+              "name": "Velguem",
+              "code": "626822",
+              "uniqueCode": "30-585-05613-626822"
+            },
+            {
+              "name": "Xelopo-Buzruco",
+              "code": "626794",
+              "uniqueCode": "30-585-05613-626794"
+            },
+            {
+              "name": "Xelopo-Curdo",
+              "code": "626833",
+              "uniqueCode": "30-585-05613-626833"
+            },
+            {
+              "name": "Zarani",
+              "code": "626799",
+              "uniqueCode": "30-585-05613-626799"
+            },
+            {
+              "name": "Zormen",
+              "code": "626788",
+              "uniqueCode": "30-585-05613-626788"
+            }
+          ]
+        },
+        {
+          "name": "Tiswadi",
+          "code": "05611",
+          "villages": [
+            {
+              "name": "Ambarim",
+              "code": "626705",
+              "uniqueCode": "30-585-05611-626705"
+            },
+            {
+              "name": "Azossim",
+              "code": "626719",
+              "uniqueCode": "30-585-05611-626719"
+            },
+            {
+              "name": "Bainguinim",
+              "code": "626715",
+              "uniqueCode": "30-585-05611-626715"
+            },
+            {
+              "name": "Bambolim (CT)",
+              "code": "626733",
+              "uniqueCode": "30-585-05611-626733"
+            },
+            {
+              "name": "Batim",
+              "code": "626722",
+              "uniqueCode": "30-585-05611-626722"
+            },
+            {
+              "name": "Calapor (CT)",
+              "code": "626732",
+              "uniqueCode": "30-585-05611-626732"
+            },
+            {
+              "name": "Capao",
+              "code": "626708",
+              "uniqueCode": "30-585-05611-626708"
+            },
+            {
+              "name": "Caraim",
+              "code": "626707",
+              "uniqueCode": "30-585-05611-626707"
+            },
+            {
+              "name": "Carambolim",
+              "code": "626718",
+              "uniqueCode": "30-585-05611-626718"
+            },
+            {
+              "name": "Chimbel (CT)",
+              "code": "626730",
+              "uniqueCode": "30-585-05611-626730"
+            },
+            {
+              "name": "Chorao",
+              "code": "626706",
+              "uniqueCode": "30-585-05611-626706"
+            },
+            {
+              "name": "Corlim (CT)",
+              "code": "626729",
+              "uniqueCode": "30-585-05611-626729"
+            },
+            {
+              "name": "Cujira (OG)",
+              "code": "626740",
+              "uniqueCode": "30-585-05611-626740"
+            },
+            {
+              "name": "Cumbarjua (CT)",
+              "code": "626728",
+              "uniqueCode": "30-585-05611-626728"
+            },
+            {
+              "name": "Curca",
+              "code": "626723",
+              "uniqueCode": "30-585-05611-626723"
+            },
+            {
+              "name": "Durgawadi (OG) (Part)",
+              "code": "645599",
+              "uniqueCode": "30-585-05611-645599"
+            },
+            {
+              "name": "Ella",
+              "code": "626714",
+              "uniqueCode": "30-585-05611-626714"
+            },
+            {
+              "name": "Gancim",
+              "code": "626721",
+              "uniqueCode": "30-585-05611-626721"
+            },
+            {
+              "name": "Gandaulim",
+              "code": "626713",
+              "uniqueCode": "30-585-05611-626713"
+            },
+            {
+              "name": "Goa Velha (CT)",
+              "code": "626734",
+              "uniqueCode": "30-585-05611-626734"
+            },
+            {
+              "name": "Goalim Moula",
+              "code": "626717",
+              "uniqueCode": "30-585-05611-626717"
+            },
+            {
+              "name": "Goltim",
+              "code": "626710",
+              "uniqueCode": "30-585-05611-626710"
+            },
+            {
+              "name": "Jua (CT)",
+              "code": "626727",
+              "uniqueCode": "30-585-05611-626727"
+            },
+            {
+              "name": "Malar",
+              "code": "626711",
+              "uniqueCode": "30-585-05611-626711"
+            },
+            {
+              "name": "Mandur",
+              "code": "626720",
+              "uniqueCode": "30-585-05611-626720"
+            },
+            {
+              "name": "Mercurim (CT)",
+              "code": "626735",
+              "uniqueCode": "30-585-05611-626735"
+            },
+            {
+              "name": "Morambi-O-Grande (Merces) (OG)",
+              "code": "626737",
+              "uniqueCode": "30-585-05611-626737"
+            },
+            {
+              "name": "Morambi-O-Pequeno (Merces) (OG)",
+              "code": "626739",
+              "uniqueCode": "30-585-05611-626739"
+            },
+            {
+              "name": "Murda (CT)",
+              "code": "626731",
+              "uniqueCode": "30-585-05611-626731"
+            },
+            {
+              "name": "Naroa",
+              "code": "626712",
+              "uniqueCode": "30-585-05611-626712"
+            },
+            {
+              "name": "Navelim",
+              "code": "626709",
+              "uniqueCode": "30-585-05611-626709"
+            },
+            {
+              "name": "Neura-O-Grande",
+              "code": "626726",
+              "uniqueCode": "30-585-05611-626726"
+            },
+            {
+              "name": "Neura-O-Pequeno",
+              "code": "626725",
+              "uniqueCode": "30-585-05611-626725"
+            },
+            {
+              "name": "Panelim (OG)",
+              "code": "626736",
+              "uniqueCode": "30-585-05611-626736"
+            },
+            {
+              "name": "Renovadi (OG)",
+              "code": "626738",
+              "uniqueCode": "30-585-05611-626738"
+            },
+            {
+              "name": "Siridao",
+              "code": "626724",
+              "uniqueCode": "30-585-05611-626724"
+            },
+            {
+              "name": "Talaulim",
+              "code": "626716",
+              "uniqueCode": "30-585-05611-626716"
+            },
+            {
+              "name": "Taleigao (OG) (Part)",
+              "code": "645598",
+              "uniqueCode": "30-585-05611-645598"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Goa",
+      "code": "586",
+      "talukas": [
+        {
+          "name": "Canacona",
+          "code": "05619",
+          "villages": [
+            {
+              "name": "Agonda",
+              "code": "627023",
+              "uniqueCode": "30-586-05619-627023"
+            },
+            {
+              "name": "Anjadip",
+              "code": "627029",
+              "uniqueCode": "30-586-05619-627029"
+            },
+            {
+              "name": "Canacona",
+              "code": "627024",
+              "uniqueCode": "30-586-05619-627024"
+            },
+            {
+              "name": "Cola",
+              "code": "627022",
+              "uniqueCode": "30-586-05619-627022"
+            },
+            {
+              "name": "Cotigao",
+              "code": "627028",
+              "uniqueCode": "30-586-05619-627028"
+            },
+            {
+              "name": "Gaodongrem",
+              "code": "627025",
+              "uniqueCode": "30-586-05619-627025"
+            },
+            {
+              "name": "Loliem",
+              "code": "627027",
+              "uniqueCode": "30-586-05619-627027"
+            },
+            {
+              "name": "Poinguinim",
+              "code": "627026",
+              "uniqueCode": "30-586-05619-627026"
+            }
+          ]
+        },
+        {
+          "name": "Mormugao",
+          "code": "05615",
+          "villages": [
+            {
+              "name": "Arossim",
+              "code": "626884",
+              "uniqueCode": "30-586-05615-626884"
+            },
+            {
+              "name": "Cansaulim",
+              "code": "626883",
+              "uniqueCode": "30-586-05615-626883"
+            },
+            {
+              "name": "Chicalim (CT)",
+              "code": "626885",
+              "uniqueCode": "30-586-05615-626885"
+            },
+            {
+              "name": "Chicolna",
+              "code": "626880",
+              "uniqueCode": "30-586-05615-626880"
+            },
+            {
+              "name": "Cortalim (CT)",
+              "code": "626887",
+              "uniqueCode": "30-586-05615-626887"
+            },
+            {
+              "name": "Cuelim",
+              "code": "626877",
+              "uniqueCode": "30-586-05615-626877"
+            },
+            {
+              "name": "Dabolim",
+              "code": "626874",
+              "uniqueCode": "30-586-05615-626874"
+            },
+            {
+              "name": "Issorcim",
+              "code": "626879",
+              "uniqueCode": "30-586-05615-626879"
+            },
+            {
+              "name": "Pale",
+              "code": "626878",
+              "uniqueCode": "30-586-05615-626878"
+            },
+            {
+              "name": "Quelossim",
+              "code": "626876",
+              "uniqueCode": "30-586-05615-626876"
+            },
+            {
+              "name": "Sancoale (CT)",
+              "code": "626886",
+              "uniqueCode": "30-586-05615-626886"
+            },
+            {
+              "name": "Sao Jacinto Island",
+              "code": "626875",
+              "uniqueCode": "30-586-05615-626875"
+            },
+            {
+              "name": "Sao Jorge Island",
+              "code": "626881",
+              "uniqueCode": "30-586-05615-626881"
+            },
+            {
+              "name": "Velsao",
+              "code": "626882",
+              "uniqueCode": "30-586-05615-626882"
+            }
+          ]
+        },
+        {
+          "name": "Quepem",
+          "code": "05617",
+          "villages": [
+            {
+              "name": "Adnem",
+              "code": "626948",
+              "uniqueCode": "30-586-05617-626948"
+            },
+            {
+              "name": "Ambaulim",
+              "code": "626947",
+              "uniqueCode": "30-586-05617-626947"
+            },
+            {
+              "name": "Assolda",
+              "code": "626934",
+              "uniqueCode": "30-586-05617-626934"
+            },
+            {
+              "name": "Avedem",
+              "code": "626939",
+              "uniqueCode": "30-586-05617-626939"
+            },
+            {
+              "name": "Bali",
+              "code": "626949",
+              "uniqueCode": "30-586-05617-626949"
+            },
+            {
+              "name": "Barcem",
+              "code": "626961",
+              "uniqueCode": "30-586-05617-626961"
+            },
+            {
+              "name": "Bendordem",
+              "code": "626955",
+              "uniqueCode": "30-586-05617-626955"
+            },
+            {
+              "name": "Cavorem",
+              "code": "626956",
+              "uniqueCode": "30-586-05617-626956"
+            },
+            {
+              "name": "Cazur",
+              "code": "626967",
+              "uniqueCode": "30-586-05617-626967"
+            },
+            {
+              "name": "Chaifi",
+              "code": "626940",
+              "uniqueCode": "30-586-05617-626940"
+            },
+            {
+              "name": "Cordem",
+              "code": "626958",
+              "uniqueCode": "30-586-05617-626958"
+            },
+            {
+              "name": "Corla",
+              "code": "626966",
+              "uniqueCode": "30-586-05617-626966"
+            },
+            {
+              "name": "Cotombi",
+              "code": "626938",
+              "uniqueCode": "30-586-05617-626938"
+            },
+            {
+              "name": "Fatorpa",
+              "code": "626950",
+              "uniqueCode": "30-586-05617-626950"
+            },
+            {
+              "name": "Gocoldem",
+              "code": "626962",
+              "uniqueCode": "30-586-05617-626962"
+            },
+            {
+              "name": "Maina",
+              "code": "626957",
+              "uniqueCode": "30-586-05617-626957"
+            },
+            {
+              "name": "Mangal",
+              "code": "626968",
+              "uniqueCode": "30-586-05617-626968"
+            },
+            {
+              "name": "Molcarnem",
+              "code": "626946",
+              "uniqueCode": "30-586-05617-626946"
+            },
+            {
+              "name": "Molcopona",
+              "code": "626945",
+              "uniqueCode": "30-586-05617-626945"
+            },
+            {
+              "name": "Morpila",
+              "code": "626953",
+              "uniqueCode": "30-586-05617-626953"
+            },
+            {
+              "name": "Nagvem",
+              "code": "626942",
+              "uniqueCode": "30-586-05617-626942"
+            },
+            {
+              "name": "Naquerim",
+              "code": "626952",
+              "uniqueCode": "30-586-05617-626952"
+            },
+            {
+              "name": "Odar",
+              "code": "626937",
+              "uniqueCode": "30-586-05617-626937"
+            },
+            {
+              "name": "Padi",
+              "code": "626959",
+              "uniqueCode": "30-586-05617-626959"
+            },
+            {
+              "name": "Pirla",
+              "code": "626964",
+              "uniqueCode": "30-586-05617-626964"
+            },
+            {
+              "name": "Quedem",
+              "code": "626960",
+              "uniqueCode": "30-586-05617-626960"
+            },
+            {
+              "name": "Quisconda",
+              "code": "626963",
+              "uniqueCode": "30-586-05617-626963"
+            },
+            {
+              "name": "Quitol",
+              "code": "626951",
+              "uniqueCode": "30-586-05617-626951"
+            },
+            {
+              "name": "Sirvoi",
+              "code": "626941",
+              "uniqueCode": "30-586-05617-626941"
+            },
+            {
+              "name": "Sulcorna",
+              "code": "626965",
+              "uniqueCode": "30-586-05617-626965"
+            },
+            {
+              "name": "Tiloi",
+              "code": "626954",
+              "uniqueCode": "30-586-05617-626954"
+            },
+            {
+              "name": "Undorna",
+              "code": "626944",
+              "uniqueCode": "30-586-05617-626944"
+            },
+            {
+              "name": "Xeldem (CT)",
+              "code": "626969",
+              "uniqueCode": "30-586-05617-626969"
+            },
+            {
+              "name": "Xelvona",
+              "code": "626936",
+              "uniqueCode": "30-586-05617-626936"
+            },
+            {
+              "name": "Xic-Xelvona",
+              "code": "626935",
+              "uniqueCode": "30-586-05617-626935"
+            },
+            {
+              "name": "Zanodem",
+              "code": "626943",
+              "uniqueCode": "30-586-05617-626943"
+            }
+          ]
+        },
+        {
+          "name": "Salcete",
+          "code": "05616",
+          "villages": [
+            {
+              "name": "Adsulim",
+              "code": "626906",
+              "uniqueCode": "30-586-05616-626906"
+            },
+            {
+              "name": "Ambelim",
+              "code": "626922",
+              "uniqueCode": "30-586-05616-626922"
+            },
+            {
+              "name": "Aquem (CT)",
+              "code": "626929",
+              "uniqueCode": "30-586-05616-626929"
+            },
+            {
+              "name": "Assolna",
+              "code": "626919",
+              "uniqueCode": "30-586-05616-626919"
+            },
+            {
+              "name": "Benaulim (CT)",
+              "code": "626931",
+              "uniqueCode": "30-586-05616-626931"
+            },
+            {
+              "name": "Betalbatim",
+              "code": "626895",
+              "uniqueCode": "30-586-05616-626895"
+            },
+            {
+              "name": "Calata",
+              "code": "626891",
+              "uniqueCode": "30-586-05616-626891"
+            },
+            {
+              "name": "Camurlim",
+              "code": "626890",
+              "uniqueCode": "30-586-05616-626890"
+            },
+            {
+              "name": "Cana",
+              "code": "626904",
+              "uniqueCode": "30-586-05616-626904"
+            },
+            {
+              "name": "Carmona",
+              "code": "626917",
+              "uniqueCode": "30-586-05616-626917"
+            },
+            {
+              "name": "Cavelossim",
+              "code": "626920",
+              "uniqueCode": "30-586-05616-626920"
+            },
+            {
+              "name": "Cavorim",
+              "code": "626910",
+              "uniqueCode": "30-586-05616-626910"
+            },
+            {
+              "name": "Chandor",
+              "code": "626911",
+              "uniqueCode": "30-586-05616-626911"
+            },
+            {
+              "name": "Chinchinim (CT)",
+              "code": "626933",
+              "uniqueCode": "30-586-05616-626933"
+            },
+            {
+              "name": "Colva",
+              "code": "626897",
+              "uniqueCode": "30-586-05616-626897"
+            },
+            {
+              "name": "Curtorim (CT)",
+              "code": "626926",
+              "uniqueCode": "30-586-05616-626926"
+            },
+            {
+              "name": "Davorlim (CT)",
+              "code": "626928",
+              "uniqueCode": "30-586-05616-626928"
+            },
+            {
+              "name": "Deussua",
+              "code": "626918",
+              "uniqueCode": "30-586-05616-626918"
+            },
+            {
+              "name": "Dicarpale",
+              "code": "626909",
+              "uniqueCode": "30-586-05616-626909"
+            },
+            {
+              "name": "Dramapur",
+              "code": "626908",
+              "uniqueCode": "30-586-05616-626908"
+            },
+            {
+              "name": "Duncolim",
+              "code": "626900",
+              "uniqueCode": "30-586-05616-626900"
+            },
+            {
+              "name": "Gandaulim",
+              "code": "626896",
+              "uniqueCode": "30-586-05616-626896"
+            },
+            {
+              "name": "Gonsua",
+              "code": "626894",
+              "uniqueCode": "30-586-05616-626894"
+            },
+            {
+              "name": "Guirdolim",
+              "code": "626903",
+              "uniqueCode": "30-586-05616-626903"
+            },
+            {
+              "name": "Loutulim",
+              "code": "626889",
+              "uniqueCode": "30-586-05616-626889"
+            },
+            {
+              "name": "Macasana",
+              "code": "626902",
+              "uniqueCode": "30-586-05616-626902"
+            },
+            {
+              "name": "Majorda",
+              "code": "626892",
+              "uniqueCode": "30-586-05616-626892"
+            },
+            {
+              "name": "Mulem",
+              "code": "626913",
+              "uniqueCode": "30-586-05616-626913"
+            },
+            {
+              "name": "Nagoa",
+              "code": "626888",
+              "uniqueCode": "30-586-05616-626888"
+            },
+            {
+              "name": "Navelim (CT)",
+              "code": "626930",
+              "uniqueCode": "30-586-05616-626930"
+            },
+            {
+              "name": "Nuvem (CT)",
+              "code": "626924",
+              "uniqueCode": "30-586-05616-626924"
+            },
+            {
+              "name": "Orlim",
+              "code": "626916",
+              "uniqueCode": "30-586-05616-626916"
+            },
+            {
+              "name": "Paroda",
+              "code": "626912",
+              "uniqueCode": "30-586-05616-626912"
+            },
+            {
+              "name": "Rachol",
+              "code": "626901",
+              "uniqueCode": "30-586-05616-626901"
+            },
+            {
+              "name": "Raia (CT)",
+              "code": "626925",
+              "uniqueCode": "30-586-05616-626925"
+            },
+            {
+              "name": "Sao Jose de Areal (CT)",
+              "code": "626927",
+              "uniqueCode": "30-586-05616-626927"
+            },
+            {
+              "name": "Sarzora",
+              "code": "626914",
+              "uniqueCode": "30-586-05616-626914"
+            },
+            {
+              "name": "Seraulim",
+              "code": "626899",
+              "uniqueCode": "30-586-05616-626899"
+            },
+            {
+              "name": "Sernabatim",
+              "code": "626905",
+              "uniqueCode": "30-586-05616-626905"
+            },
+            {
+              "name": "Sirlim",
+              "code": "626915",
+              "uniqueCode": "30-586-05616-626915"
+            },
+            {
+              "name": "Talaulim",
+              "code": "626907",
+              "uniqueCode": "30-586-05616-626907"
+            },
+            {
+              "name": "Utorda",
+              "code": "626893",
+              "uniqueCode": "30-586-05616-626893"
+            },
+            {
+              "name": "Vanelim",
+              "code": "626898",
+              "uniqueCode": "30-586-05616-626898"
+            },
+            {
+              "name": "Varca (CT)",
+              "code": "626932",
+              "uniqueCode": "30-586-05616-626932"
+            },
+            {
+              "name": "Velim",
+              "code": "626921",
+              "uniqueCode": "30-586-05616-626921"
+            },
+            {
+              "name": "Verna (CT)",
+              "code": "626923",
+              "uniqueCode": "30-586-05616-626923"
+            }
+          ]
+        },
+        {
+          "name": "Sanguem",
+          "code": "05618",
+          "villages": [
+            {
+              "name": "Aglote",
+              "code": "626973",
+              "uniqueCode": "30-586-05618-626973"
+            },
+            {
+              "name": "Antoriem",
+              "code": "626986",
+              "uniqueCode": "30-586-05618-626986"
+            },
+            {
+              "name": "Bandoli",
+              "code": "626984",
+              "uniqueCode": "30-586-05618-626984"
+            },
+            {
+              "name": "Bati",
+              "code": "627006",
+              "uniqueCode": "30-586-05618-627006"
+            },
+            {
+              "name": "Boma",
+              "code": "626990",
+              "uniqueCode": "30-586-05618-626990"
+            },
+            {
+              "name": "Calem",
+              "code": "626988",
+              "uniqueCode": "30-586-05618-626988"
+            },
+            {
+              "name": "Camarconda",
+              "code": "626982",
+              "uniqueCode": "30-586-05618-626982"
+            },
+            {
+              "name": "Caranzol",
+              "code": "626976",
+              "uniqueCode": "30-586-05618-626976"
+            },
+            {
+              "name": "Codli",
+              "code": "626981",
+              "uniqueCode": "30-586-05618-626981"
+            },
+            {
+              "name": "Colem",
+              "code": "626977",
+              "uniqueCode": "30-586-05618-626977"
+            },
+            {
+              "name": "Colomba",
+              "code": "627013",
+              "uniqueCode": "30-586-05618-627013"
+            },
+            {
+              "name": "Comproi",
+              "code": "626998",
+              "uniqueCode": "30-586-05618-626998"
+            },
+            {
+              "name": "Coranginim",
+              "code": "626997",
+              "uniqueCode": "30-586-05618-626997"
+            },
+            {
+              "name": "Cormonem",
+              "code": "626980",
+              "uniqueCode": "30-586-05618-626980"
+            },
+            {
+              "name": "Costi",
+              "code": "626996",
+              "uniqueCode": "30-586-05618-626996"
+            },
+            {
+              "name": "Cotarli",
+              "code": "627000",
+              "uniqueCode": "30-586-05618-627000"
+            },
+            {
+              "name": "Cumbari",
+              "code": "627007",
+              "uniqueCode": "30-586-05618-627007"
+            },
+            {
+              "name": "Curdi",
+              "code": "627012",
+              "uniqueCode": "30-586-05618-627012"
+            },
+            {
+              "name": "Curpem",
+              "code": "627015",
+              "uniqueCode": "30-586-05618-627015"
+            },
+            {
+              "name": "Darbandora",
+              "code": "626971",
+              "uniqueCode": "30-586-05618-626971"
+            },
+            {
+              "name": "Dongor",
+              "code": "627009",
+              "uniqueCode": "30-586-05618-627009"
+            },
+            {
+              "name": "Dongurli",
+              "code": "626992",
+              "uniqueCode": "30-586-05618-626992"
+            },
+            {
+              "name": "Dudal",
+              "code": "626995",
+              "uniqueCode": "30-586-05618-626995"
+            },
+            {
+              "name": "Maulinguem",
+              "code": "626994",
+              "uniqueCode": "30-586-05618-626994"
+            },
+            {
+              "name": "Moissal",
+              "code": "626983",
+              "uniqueCode": "30-586-05618-626983"
+            },
+            {
+              "name": "Molem",
+              "code": "626975",
+              "uniqueCode": "30-586-05618-626975"
+            },
+            {
+              "name": "Muguli",
+              "code": "626999",
+              "uniqueCode": "30-586-05618-626999"
+            },
+            {
+              "name": "Naiquinim",
+              "code": "627010",
+              "uniqueCode": "30-586-05618-627010"
+            },
+            {
+              "name": "Netorli",
+              "code": "627018",
+              "uniqueCode": "30-586-05618-627018"
+            },
+            {
+              "name": "Nundem",
+              "code": "627019",
+              "uniqueCode": "30-586-05618-627019"
+            },
+            {
+              "name": "Oxel",
+              "code": "626991",
+              "uniqueCode": "30-586-05618-626991"
+            },
+            {
+              "name": "Patiem",
+              "code": "626993",
+              "uniqueCode": "30-586-05618-626993"
+            },
+            {
+              "name": "Piliem",
+              "code": "626970",
+              "uniqueCode": "30-586-05618-626970"
+            },
+            {
+              "name": "Porteem",
+              "code": "627011",
+              "uniqueCode": "30-586-05618-627011"
+            },
+            {
+              "name": "Potrem",
+              "code": "627005",
+              "uniqueCode": "30-586-05618-627005"
+            },
+            {
+              "name": "Rivona",
+              "code": "627014",
+              "uniqueCode": "30-586-05618-627014"
+            },
+            {
+              "name": "Rumbrem",
+              "code": "626985",
+              "uniqueCode": "30-586-05618-626985"
+            },
+            {
+              "name": "Salauli",
+              "code": "627002",
+              "uniqueCode": "30-586-05618-627002"
+            },
+            {
+              "name": "Sancordem",
+              "code": "626972",
+              "uniqueCode": "30-586-05618-626972"
+            },
+            {
+              "name": "Sangod",
+              "code": "626979",
+              "uniqueCode": "30-586-05618-626979"
+            },
+            {
+              "name": "Santona",
+              "code": "626987",
+              "uniqueCode": "30-586-05618-626987"
+            },
+            {
+              "name": "Sanvordem (CT)",
+              "code": "627021",
+              "uniqueCode": "30-586-05618-627021"
+            },
+            {
+              "name": "Sigao",
+              "code": "626978",
+              "uniqueCode": "30-586-05618-626978"
+            },
+            {
+              "name": "Sigonem",
+              "code": "627017",
+              "uniqueCode": "30-586-05618-627017"
+            },
+            {
+              "name": "Sonauli",
+              "code": "626989",
+              "uniqueCode": "30-586-05618-626989"
+            },
+            {
+              "name": "Surla",
+              "code": "626974",
+              "uniqueCode": "30-586-05618-626974"
+            },
+            {
+              "name": "Tudou",
+              "code": "627004",
+              "uniqueCode": "30-586-05618-627004"
+            },
+            {
+              "name": "Uguem",
+              "code": "627003",
+              "uniqueCode": "30-586-05618-627003"
+            },
+            {
+              "name": "Verlem",
+              "code": "627020",
+              "uniqueCode": "30-586-05618-627020"
+            },
+            {
+              "name": "Vichundrem",
+              "code": "627016",
+              "uniqueCode": "30-586-05618-627016"
+            },
+            {
+              "name": "Viliena",
+              "code": "627008",
+              "uniqueCode": "30-586-05618-627008"
+            },
+            {
+              "name": "Xelpem",
+              "code": "627001",
+              "uniqueCode": "30-586-05618-627001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

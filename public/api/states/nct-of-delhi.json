@@ -1,0 +1,1322 @@
+{
+  "state": "NCT OF DELHI",
+  "code": "07",
+  "districts": [
+    {
+      "name": "Central",
+      "code": "095",
+      "talukas": [
+        {
+          "name": "Darya Ganj",
+          "code": "00445",
+          "villages": []
+        },
+        {
+          "name": "Karol Bagh",
+          "code": "00447",
+          "villages": []
+        },
+        {
+          "name": "Pahar Ganj",
+          "code": "00446",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "East",
+      "code": "093",
+      "talukas": [
+        {
+          "name": "Gandhi Nagar",
+          "code": "00439",
+          "villages": [
+            {
+              "name": "Shakar Pur Baramad (CT)",
+              "code": "063983",
+              "uniqueCode": "07-093-00439-063983"
+            }
+          ]
+        },
+        {
+          "name": "Preet Vihar",
+          "code": "00441",
+          "villages": [
+            {
+              "name": "Chilla Saroda Bangar (CT)",
+              "code": "063989",
+              "uniqueCode": "07-093-00441-063989"
+            },
+            {
+              "name": "Chilla Saroda Khadar (CT)",
+              "code": "063990",
+              "uniqueCode": "07-093-00441-063990"
+            },
+            {
+              "name": "Dallo Pura (CT)",
+              "code": "063988",
+              "uniqueCode": "07-093-00441-063988"
+            },
+            {
+              "name": "Gharoli (CT)",
+              "code": "063986",
+              "uniqueCode": "07-093-00441-063986"
+            },
+            {
+              "name": "Gharonda Neemka Bangar alias Patpar Ganj (CT)",
+              "code": "063985",
+              "uniqueCode": "07-093-00441-063985"
+            },
+            {
+              "name": "Kondli (CT)",
+              "code": "063987",
+              "uniqueCode": "07-093-00441-063987"
+            },
+            {
+              "name": "Shamas Pur",
+              "code": "063984",
+              "uniqueCode": "07-093-00441-063984"
+            }
+          ]
+        },
+        {
+          "name": "Vivek Vihar",
+          "code": "00440",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "New Delhi",
+      "code": "094",
+      "talukas": [
+        {
+          "name": "Chanakya Puri",
+          "code": "00443",
+          "villages": []
+        },
+        {
+          "name": "Connaught Place",
+          "code": "00442",
+          "villages": []
+        },
+        {
+          "name": "Parliament Street",
+          "code": "00444",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "North",
+      "code": "091",
+      "talukas": [
+        {
+          "name": "Civil Lines",
+          "code": "00433",
+          "villages": [
+            {
+              "name": "Badar Pur Majra Burari",
+              "code": "063952",
+              "uniqueCode": "07-091-00433-063952"
+            },
+            {
+              "name": "Burari  (CT)",
+              "code": "063957",
+              "uniqueCode": "07-091-00433-063957"
+            },
+            {
+              "name": "Jagat Pur ilaqa Delhi",
+              "code": "063954",
+              "uniqueCode": "07-091-00433-063954"
+            },
+            {
+              "name": "Jagat Pur ilaqa Shahdara (un-inhabited)",
+              "code": "063953",
+              "uniqueCode": "07-091-00433-063953"
+            },
+            {
+              "name": "Jharoda Majra Burari  (CT)",
+              "code": "063958",
+              "uniqueCode": "07-091-00433-063958"
+            },
+            {
+              "name": "Kamal Pur Majra Burari (CT)",
+              "code": "063956",
+              "uniqueCode": "07-091-00433-063956"
+            },
+            {
+              "name": "Mukand Pur (CT)",
+              "code": "063955",
+              "uniqueCode": "07-091-00433-063955"
+            },
+            {
+              "name": "Salem Pur Majra Burari",
+              "code": "063951",
+              "uniqueCode": "07-091-00433-063951"
+            }
+          ]
+        },
+        {
+          "name": "Kotwali",
+          "code": "00435",
+          "villages": []
+        },
+        {
+          "name": "Sadar Bazar",
+          "code": "00434",
+          "villages": []
+        }
+      ]
+    },
+    {
+      "name": "North East",
+      "code": "092",
+      "talukas": [
+        {
+          "name": "Seelam Pur",
+          "code": "00436",
+          "villages": [
+            {
+              "name": "Badar Pur Khadar",
+              "code": "063959",
+              "uniqueCode": "07-092-00436-063959"
+            },
+            {
+              "name": "Baqiabad (CT)",
+              "code": "063969",
+              "uniqueCode": "07-092-00436-063969"
+            },
+            {
+              "name": "Bihari Pur",
+              "code": "063965",
+              "uniqueCode": "07-092-00436-063965"
+            },
+            {
+              "name": "Dayal Pur (CT)",
+              "code": "063971",
+              "uniqueCode": "07-092-00436-063971"
+            },
+            {
+              "name": "Garhi Mendu",
+              "code": "063967",
+              "uniqueCode": "07-092-00436-063967"
+            },
+            {
+              "name": "Gokal Pur (CT)",
+              "code": "063979",
+              "uniqueCode": "07-092-00436-063979"
+            },
+            {
+              "name": "Jiwan Pur alias Johri Pur (CT)",
+              "code": "063972",
+              "uniqueCode": "07-092-00436-063972"
+            },
+            {
+              "name": "Karawal Nagar (CT)",
+              "code": "063970",
+              "uniqueCode": "07-092-00436-063970"
+            },
+            {
+              "name": "Khajoori Khas (CT)",
+              "code": "063976",
+              "uniqueCode": "07-092-00436-063976"
+            },
+            {
+              "name": "Khan Pur Dhani (CT)",
+              "code": "063974",
+              "uniqueCode": "07-092-00436-063974"
+            },
+            {
+              "name": "Mir Pur Turk (CT)",
+              "code": "063977",
+              "uniqueCode": "07-092-00436-063977"
+            },
+            {
+              "name": "Mustafabad (CT)",
+              "code": "063973",
+              "uniqueCode": "07-092-00436-063973"
+            },
+            {
+              "name": "Pur Delhi",
+              "code": "063960",
+              "uniqueCode": "07-092-00436-063960"
+            },
+            {
+              "name": "Pur Shahdara",
+              "code": "063961",
+              "uniqueCode": "07-092-00436-063961"
+            },
+            {
+              "name": "Saba Pur Delhi",
+              "code": "063962",
+              "uniqueCode": "07-092-00436-063962"
+            },
+            {
+              "name": "Saba Pur Shahdara",
+              "code": "063963",
+              "uniqueCode": "07-092-00436-063963"
+            },
+            {
+              "name": "Sadat Pur Gujran (CT)",
+              "code": "063968",
+              "uniqueCode": "07-092-00436-063968"
+            },
+            {
+              "name": "Sadat Pur Musalmanan",
+              "code": "063964",
+              "uniqueCode": "07-092-00436-063964"
+            },
+            {
+              "name": "Sher Pur",
+              "code": "063966",
+              "uniqueCode": "07-092-00436-063966"
+            },
+            {
+              "name": "Tukhmir Pur (CT)",
+              "code": "063975",
+              "uniqueCode": "07-092-00436-063975"
+            },
+            {
+              "name": "Ziauddin Pur (CT)",
+              "code": "063978",
+              "uniqueCode": "07-092-00436-063978"
+            }
+          ]
+        },
+        {
+          "name": "Seema Puri",
+          "code": "00438",
+          "villages": [
+            {
+              "name": "Mandoli (CT)",
+              "code": "063982",
+              "uniqueCode": "07-092-00438-063982"
+            }
+          ]
+        },
+        {
+          "name": "Shahdara",
+          "code": "00437",
+          "villages": [
+            {
+              "name": "Babar Pur (CT)",
+              "code": "063980",
+              "uniqueCode": "07-092-00437-063980"
+            },
+            {
+              "name": "Jaffrabad (CT)",
+              "code": "063981",
+              "uniqueCode": "07-092-00437-063981"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North West",
+      "code": "090",
+      "talukas": [
+        {
+          "name": "Model Town",
+          "code": "00432",
+          "villages": [
+            {
+              "name": "Bhalswa Jahangir Pur (CT)",
+              "code": "063950",
+              "uniqueCode": "07-090-00432-063950"
+            },
+            {
+              "name": "Shanjar Pur(un-inhabited)",
+              "code": "063949",
+              "uniqueCode": "07-090-00432-063949"
+            }
+          ]
+        },
+        {
+          "name": "Narela",
+          "code": "00430",
+          "villages": [
+            {
+              "name": "Akbar Pur Majra",
+              "code": "063872",
+              "uniqueCode": "07-090-00430-063872"
+            },
+            {
+              "name": "Ali Pur (CT)",
+              "code": "063910",
+              "uniqueCode": "07-090-00430-063910"
+            },
+            {
+              "name": "Bakhtawar Pur (CT)",
+              "code": "063908",
+              "uniqueCode": "07-090-00430-063908"
+            },
+            {
+              "name": "Bankauli (CT)",
+              "code": "063909",
+              "uniqueCode": "07-090-00430-063909"
+            },
+            {
+              "name": "Bankner (CT)",
+              "code": "063905",
+              "uniqueCode": "07-090-00430-063905"
+            },
+            {
+              "name": "Barwala (CT)",
+              "code": "063920",
+              "uniqueCode": "07-090-00430-063920"
+            },
+            {
+              "name": "Bawana (CT)",
+              "code": "063922",
+              "uniqueCode": "07-090-00430-063922"
+            },
+            {
+              "name": "Bazid Pur Thakran",
+              "code": "063890",
+              "uniqueCode": "07-090-00430-063890"
+            },
+            {
+              "name": "Bhor Garh (CT)",
+              "code": "063906",
+              "uniqueCode": "07-090-00430-063906"
+            },
+            {
+              "name": "Bodh Pur Bija Pur",
+              "code": "063902",
+              "uniqueCode": "07-090-00430-063902"
+            },
+            {
+              "name": "Darya Pur Kalan (CT)",
+              "code": "063923",
+              "uniqueCode": "07-090-00430-063923"
+            },
+            {
+              "name": "Fateh Pur Jat",
+              "code": "063879",
+              "uniqueCode": "07-090-00430-063879"
+            },
+            {
+              "name": "Garhi Khasru",
+              "code": "063900",
+              "uniqueCode": "07-090-00430-063900"
+            },
+            {
+              "name": "Ghoga",
+              "code": "063885",
+              "uniqueCode": "07-090-00430-063885"
+            },
+            {
+              "name": "Hamid Pur",
+              "code": "063870",
+              "uniqueCode": "07-090-00430-063870"
+            },
+            {
+              "name": "Hareoli",
+              "code": "063886",
+              "uniqueCode": "07-090-00430-063886"
+            },
+            {
+              "name": "Hiranki",
+              "code": "063897",
+              "uniqueCode": "07-090-00430-063897"
+            },
+            {
+              "name": "Holambi Kalan",
+              "code": "063895",
+              "uniqueCode": "07-090-00430-063895"
+            },
+            {
+              "name": "Holambi Khurd",
+              "code": "063894",
+              "uniqueCode": "07-090-00430-063894"
+            },
+            {
+              "name": "Ibrahim Pur (CT)",
+              "code": "063912",
+              "uniqueCode": "07-090-00430-063912"
+            },
+            {
+              "name": "Iradat Nagar alias Naya Bans",
+              "code": "063893",
+              "uniqueCode": "07-090-00430-063893"
+            },
+            {
+              "name": "Jhangola",
+              "code": "063875",
+              "uniqueCode": "07-090-00430-063875"
+            },
+            {
+              "name": "Kankar Khera",
+              "code": "063903",
+              "uniqueCode": "07-090-00430-063903"
+            },
+            {
+              "name": "Katewara",
+              "code": "063889",
+              "uniqueCode": "07-090-00430-063889"
+            },
+            {
+              "name": "Kham Pur",
+              "code": "063880",
+              "uniqueCode": "07-090-00430-063880"
+            },
+            {
+              "name": "Khera Kalan (CT)",
+              "code": "063916",
+              "uniqueCode": "07-090-00430-063916"
+            },
+            {
+              "name": "Khera Khurd (CT)",
+              "code": "063919",
+              "uniqueCode": "07-090-00430-063919"
+            },
+            {
+              "name": "Kureni",
+              "code": "063882",
+              "uniqueCode": "07-090-00430-063882"
+            },
+            {
+              "name": "Lam Pur",
+              "code": "063866",
+              "uniqueCode": "07-090-00430-063866"
+            },
+            {
+              "name": "Libas Pur (CT)",
+              "code": "063914",
+              "uniqueCode": "07-090-00430-063914"
+            },
+            {
+              "name": "Mamoor Pur",
+              "code": "063867",
+              "uniqueCode": "07-090-00430-063867"
+            },
+            {
+              "name": "Mohd. Pur Ramzan Pur",
+              "code": "063898",
+              "uniqueCode": "07-090-00430-063898"
+            },
+            {
+              "name": "Mukhmel Pur (CT)",
+              "code": "063911",
+              "uniqueCode": "07-090-00430-063911"
+            },
+            {
+              "name": "Mungesh Pur",
+              "code": "063888",
+              "uniqueCode": "07-090-00430-063888"
+            },
+            {
+              "name": "Nangal Thakran",
+              "code": "063891",
+              "uniqueCode": "07-090-00430-063891"
+            },
+            {
+              "name": "Nangli Poona",
+              "code": "063901",
+              "uniqueCode": "07-090-00430-063901"
+            },
+            {
+              "name": "Ochandi",
+              "code": "063887",
+              "uniqueCode": "07-090-00430-063887"
+            },
+            {
+              "name": "Palla",
+              "code": "063873",
+              "uniqueCode": "07-090-00430-063873"
+            },
+            {
+              "name": "Pansali",
+              "code": "063904",
+              "uniqueCode": "07-090-00430-063904"
+            },
+            {
+              "name": "Pehlad Pur Bangar (CT)",
+              "code": "063918",
+              "uniqueCode": "07-090-00430-063918"
+            },
+            {
+              "name": "Pooth Khurd (CT)",
+              "code": "063921",
+              "uniqueCode": "07-090-00430-063921"
+            },
+            {
+              "name": "Qadi Pur (CT)",
+              "code": "063913",
+              "uniqueCode": "07-090-00430-063913"
+            },
+            {
+              "name": "Qullak Pur",
+              "code": "063874",
+              "uniqueCode": "07-090-00430-063874"
+            },
+            {
+              "name": "Raja Pur Kalan (Un-inhabited)",
+              "code": "063883",
+              "uniqueCode": "07-090-00430-063883"
+            },
+            {
+              "name": "Sahibabad Daulat Pur (CT)",
+              "code": "063917",
+              "uniqueCode": "07-090-00430-063917"
+            },
+            {
+              "name": "Sanoth",
+              "code": "063884",
+              "uniqueCode": "07-090-00430-063884"
+            },
+            {
+              "name": "Shah Pur Garhi",
+              "code": "063881",
+              "uniqueCode": "07-090-00430-063881"
+            },
+            {
+              "name": "Singhola",
+              "code": "063869",
+              "uniqueCode": "07-090-00430-063869"
+            },
+            {
+              "name": "Singhu",
+              "code": "063868",
+              "uniqueCode": "07-090-00430-063868"
+            },
+            {
+              "name": "Siras Pur (CT)",
+              "code": "063915",
+              "uniqueCode": "07-090-00430-063915"
+            },
+            {
+              "name": "Sultan Pur Dabas",
+              "code": "063892",
+              "uniqueCode": "07-090-00430-063892"
+            },
+            {
+              "name": "Sunger Pur Delhi",
+              "code": "063877",
+              "uniqueCode": "07-090-00430-063877"
+            },
+            {
+              "name": "Sunger Pur Shahdara  (un-inhabited)",
+              "code": "063876",
+              "uniqueCode": "07-090-00430-063876"
+            },
+            {
+              "name": "Taj Pur Kalan",
+              "code": "063871",
+              "uniqueCode": "07-090-00430-063871"
+            },
+            {
+              "name": "Tehri Daulat Pur (Un-inhabited)",
+              "code": "063899",
+              "uniqueCode": "07-090-00430-063899"
+            },
+            {
+              "name": "Tigi Pur",
+              "code": "063878",
+              "uniqueCode": "07-090-00430-063878"
+            },
+            {
+              "name": "Tikri Khurd (CT)",
+              "code": "063907",
+              "uniqueCode": "07-090-00430-063907"
+            },
+            {
+              "name": "Zind Pur",
+              "code": "063896",
+              "uniqueCode": "07-090-00430-063896"
+            }
+          ]
+        },
+        {
+          "name": "Saraswati Vihar",
+          "code": "00431",
+          "villages": [
+            {
+              "name": "Begum Pur (CT)",
+              "code": "063946",
+              "uniqueCode": "07-090-00431-063946"
+            },
+            {
+              "name": "Budhan Pur",
+              "code": "063927",
+              "uniqueCode": "07-090-00431-063927"
+            },
+            {
+              "name": "Chand Pur",
+              "code": "063928",
+              "uniqueCode": "07-090-00431-063928"
+            },
+            {
+              "name": "Chatesar",
+              "code": "063932",
+              "uniqueCode": "07-090-00431-063932"
+            },
+            {
+              "name": "Garhi Rindhala",
+              "code": "063934",
+              "uniqueCode": "07-090-00431-063934"
+            },
+            {
+              "name": "Gheora (CT)",
+              "code": "063939",
+              "uniqueCode": "07-090-00431-063939"
+            },
+            {
+              "name": "Jat Khor",
+              "code": "063925",
+              "uniqueCode": "07-090-00431-063925"
+            },
+            {
+              "name": "Jonti",
+              "code": "063933",
+              "uniqueCode": "07-090-00431-063933"
+            },
+            {
+              "name": "Kanjhawala (CT)",
+              "code": "063938",
+              "uniqueCode": "07-090-00431-063938"
+            },
+            {
+              "name": "Karala (CT)",
+              "code": "063945",
+              "uniqueCode": "07-090-00431-063945"
+            },
+            {
+              "name": "Kirari Suleman Nagar (CT)",
+              "code": "063942",
+              "uniqueCode": "07-090-00431-063942"
+            },
+            {
+              "name": "Lad Pur (CT)",
+              "code": "063937",
+              "uniqueCode": "07-090-00431-063937"
+            },
+            {
+              "name": "Madan Pur Dabas",
+              "code": "063929",
+              "uniqueCode": "07-090-00431-063929"
+            },
+            {
+              "name": "Mohammad Pur Majri (CT)",
+              "code": "063944",
+              "uniqueCode": "07-090-00431-063944"
+            },
+            {
+              "name": "Mubarak Pur Dabas (CT)",
+              "code": "063941",
+              "uniqueCode": "07-090-00431-063941"
+            },
+            {
+              "name": "Nithari (CT)",
+              "code": "063943",
+              "uniqueCode": "07-090-00431-063943"
+            },
+            {
+              "name": "Nizam Pur Rashid Pur",
+              "code": "063935",
+              "uniqueCode": "07-090-00431-063935"
+            },
+            {
+              "name": "Pooth Kalan (CT)",
+              "code": "063947",
+              "uniqueCode": "07-090-00431-063947"
+            },
+            {
+              "name": "Punjab Khor",
+              "code": "063924",
+              "uniqueCode": "07-090-00431-063924"
+            },
+            {
+              "name": "Qutab Garh (CT)",
+              "code": "063936",
+              "uniqueCode": "07-090-00431-063936"
+            },
+            {
+              "name": "Rani Khera (CT)",
+              "code": "063940",
+              "uniqueCode": "07-090-00431-063940"
+            },
+            {
+              "name": "Rasool Pur",
+              "code": "063930",
+              "uniqueCode": "07-090-00431-063930"
+            },
+            {
+              "name": "Salah Pur Majra",
+              "code": "063926",
+              "uniqueCode": "07-090-00431-063926"
+            },
+            {
+              "name": "Saoda",
+              "code": "063931",
+              "uniqueCode": "07-090-00431-063931"
+            },
+            {
+              "name": "Sultan Pur Majra (CT)",
+              "code": "063948",
+              "uniqueCode": "07-090-00431-063948"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South",
+      "code": "098",
+      "talukas": [
+        {
+          "name": "Defence Colony",
+          "code": "00455",
+          "villages": [
+            {
+              "name": "Saidabad (CT)",
+              "code": "064080",
+              "uniqueCode": "07-098-00455-064080"
+            }
+          ]
+        },
+        {
+          "name": "Hauz Khas",
+          "code": "00454",
+          "villages": [
+            {
+              "name": "Asola (CT)",
+              "code": "064070",
+              "uniqueCode": "07-098-00454-064070"
+            },
+            {
+              "name": "Aya Nagar (CT)",
+              "code": "064065",
+              "uniqueCode": "07-098-00454-064065"
+            },
+            {
+              "name": "Bhati (CT)",
+              "code": "064069",
+              "uniqueCode": "07-098-00454-064069"
+            },
+            {
+              "name": "Chandan Hola (CT)",
+              "code": "064071",
+              "uniqueCode": "07-098-00454-064071"
+            },
+            {
+              "name": "Chattar Pur (CT)",
+              "code": "064073",
+              "uniqueCode": "07-098-00454-064073"
+            },
+            {
+              "name": "Deoli (CT)",
+              "code": "064076",
+              "uniqueCode": "07-098-00454-064076"
+            },
+            {
+              "name": "Dera Mandi (CT)",
+              "code": "064068",
+              "uniqueCode": "07-098-00454-064068"
+            },
+            {
+              "name": "Fateh Pur Beri (CT)",
+              "code": "064067",
+              "uniqueCode": "07-098-00454-064067"
+            },
+            {
+              "name": "Gadai Pur",
+              "code": "064062",
+              "uniqueCode": "07-098-00454-064062"
+            },
+            {
+              "name": "Jona Pur (CT)",
+              "code": "064066",
+              "uniqueCode": "07-098-00454-064066"
+            },
+            {
+              "name": "Maidan Garhi (CT)",
+              "code": "064074",
+              "uniqueCode": "07-098-00454-064074"
+            },
+            {
+              "name": "Neb Sarai (CT)",
+              "code": "064077",
+              "uniqueCode": "07-098-00454-064077"
+            },
+            {
+              "name": "Raj Pur Khurd (CT)",
+              "code": "064075",
+              "uniqueCode": "07-098-00454-064075"
+            },
+            {
+              "name": "Saidul Azaib (CT)",
+              "code": "064078",
+              "uniqueCode": "07-098-00454-064078"
+            },
+            {
+              "name": "Satberi",
+              "code": "064063",
+              "uniqueCode": "07-098-00454-064063"
+            },
+            {
+              "name": "Shahur Pur",
+              "code": "064064",
+              "uniqueCode": "07-098-00454-064064"
+            },
+            {
+              "name": "Sultan Pur (CT)",
+              "code": "064072",
+              "uniqueCode": "07-098-00454-064072"
+            },
+            {
+              "name": "Tigri (CT)",
+              "code": "064079",
+              "uniqueCode": "07-098-00454-064079"
+            }
+          ]
+        },
+        {
+          "name": "Kalkaji",
+          "code": "00456",
+          "villages": [
+            {
+              "name": "Aali (CT)",
+              "code": "064086",
+              "uniqueCode": "07-098-00456-064086"
+            },
+            {
+              "name": "Jait Pur (CT)",
+              "code": "064087",
+              "uniqueCode": "07-098-00456-064087"
+            },
+            {
+              "name": "Kotla Mahigiran (CT)",
+              "code": "064081",
+              "uniqueCode": "07-098-00456-064081"
+            },
+            {
+              "name": "Mithe Pur (CT)",
+              "code": "064084",
+              "uniqueCode": "07-098-00456-064084"
+            },
+            {
+              "name": "Molar Band (CT)",
+              "code": "064085",
+              "uniqueCode": "07-098-00456-064085"
+            },
+            {
+              "name": "Pul Pehlad (CT)",
+              "code": "064082",
+              "uniqueCode": "07-098-00456-064082"
+            },
+            {
+              "name": "Taj Pul (CT)",
+              "code": "064083",
+              "uniqueCode": "07-098-00456-064083"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South West",
+      "code": "097",
+      "talukas": [
+        {
+          "name": "Delhi Cantonment",
+          "code": "00452",
+          "villages": [
+            {
+              "name": "Moradabad Pahari (CT)",
+              "code": "064055",
+              "uniqueCode": "07-097-00452-064055"
+            }
+          ]
+        },
+        {
+          "name": "Najafgarh",
+          "code": "00451",
+          "villages": [
+            {
+              "name": "Asalat Pur Khawad",
+              "code": "064035",
+              "uniqueCode": "07-097-00451-064035"
+            },
+            {
+              "name": "Badhosra",
+              "code": "064032",
+              "uniqueCode": "07-097-00451-064032"
+            },
+            {
+              "name": "Baqar Garh",
+              "code": "064019",
+              "uniqueCode": "07-097-00451-064019"
+            },
+            {
+              "name": "Chhawala (CT)",
+              "code": "064054",
+              "uniqueCode": "07-097-00451-064054"
+            },
+            {
+              "name": "Darya Pur Khurd",
+              "code": "064023",
+              "uniqueCode": "07-097-00451-064023"
+            },
+            {
+              "name": "Daulat Pur",
+              "code": "064027",
+              "uniqueCode": "07-097-00451-064027"
+            },
+            {
+              "name": "Deorala",
+              "code": "064044",
+              "uniqueCode": "07-097-00451-064044"
+            },
+            {
+              "name": "Dhansa",
+              "code": "064041",
+              "uniqueCode": "07-097-00451-064041"
+            },
+            {
+              "name": "Dichaon Kalan",
+              "code": "064004",
+              "uniqueCode": "07-097-00451-064004"
+            },
+            {
+              "name": "Dindar Pur (CT)",
+              "code": "064051",
+              "uniqueCode": "07-097-00451-064051"
+            },
+            {
+              "name": "Ghalib Pur",
+              "code": "064042",
+              "uniqueCode": "07-097-00451-064042"
+            },
+            {
+              "name": "Goela Khurd",
+              "code": "064011",
+              "uniqueCode": "07-097-00451-064011"
+            },
+            {
+              "name": "Goman Hera",
+              "code": "064038",
+              "uniqueCode": "07-097-00451-064038"
+            },
+            {
+              "name": "Hasan Pur",
+              "code": "064026",
+              "uniqueCode": "07-097-00451-064026"
+            },
+            {
+              "name": "Isa Pur",
+              "code": "064020",
+              "uniqueCode": "07-097-00451-064020"
+            },
+            {
+              "name": "Jaffar Pur Kalan (CT)",
+              "code": "064047",
+              "uniqueCode": "07-097-00451-064047"
+            },
+            {
+              "name": "Jain Pur(Un-inhabited)",
+              "code": "064037",
+              "uniqueCode": "07-097-00451-064037"
+            },
+            {
+              "name": "Jharoda Kalan (CT)",
+              "code": "064045",
+              "uniqueCode": "07-097-00451-064045"
+            },
+            {
+              "name": "Jhatikra",
+              "code": "064034",
+              "uniqueCode": "07-097-00451-064034"
+            },
+            {
+              "name": "Jhuljhuli",
+              "code": "064039",
+              "uniqueCode": "07-097-00451-064039"
+            },
+            {
+              "name": "Kair (CT)",
+              "code": "064046",
+              "uniqueCode": "07-097-00451-064046"
+            },
+            {
+              "name": "Kangan Heri",
+              "code": "064029",
+              "uniqueCode": "07-097-00451-064029"
+            },
+            {
+              "name": "Kharkhari Jatmal",
+              "code": "064016",
+              "uniqueCode": "07-097-00451-064016"
+            },
+            {
+              "name": "Kharkhari Nahar",
+              "code": "064009",
+              "uniqueCode": "07-097-00451-064009"
+            },
+            {
+              "name": "Kharkhari Rond",
+              "code": "064025",
+              "uniqueCode": "07-097-00451-064025"
+            },
+            {
+              "name": "Khera (CT)",
+              "code": "064050",
+              "uniqueCode": "07-097-00451-064050"
+            },
+            {
+              "name": "Khera Dabar",
+              "code": "064017",
+              "uniqueCode": "07-097-00451-064017"
+            },
+            {
+              "name": "Malik Pur zer-Najafgarh",
+              "code": "064022",
+              "uniqueCode": "07-097-00451-064022"
+            },
+            {
+              "name": "Mitraon (CT)",
+              "code": "064049",
+              "uniqueCode": "07-097-00451-064049"
+            },
+            {
+              "name": "Mundhela Kalan",
+              "code": "064007",
+              "uniqueCode": "07-097-00451-064007"
+            },
+            {
+              "name": "Mundhela Khurd",
+              "code": "064006",
+              "uniqueCode": "07-097-00451-064006"
+            },
+            {
+              "name": "Nanak Heri",
+              "code": "064033",
+              "uniqueCode": "07-097-00451-064033"
+            },
+            {
+              "name": "Nangli Sakrawati (CT)",
+              "code": "064053",
+              "uniqueCode": "07-097-00451-064053"
+            },
+            {
+              "name": "Paprawat",
+              "code": "064010",
+              "uniqueCode": "07-097-00451-064010"
+            },
+            {
+              "name": "Pindwala Kalan",
+              "code": "064015",
+              "uniqueCode": "07-097-00451-064015"
+            },
+            {
+              "name": "Pindwala Khurd",
+              "code": "064028",
+              "uniqueCode": "07-097-00451-064028"
+            },
+            {
+              "name": "Qazi Pur",
+              "code": "064021",
+              "uniqueCode": "07-097-00451-064021"
+            },
+            {
+              "name": "Qutab Pur",
+              "code": "064012",
+              "uniqueCode": "07-097-00451-064012"
+            },
+            {
+              "name": "Raghu Pur",
+              "code": "064031",
+              "uniqueCode": "07-097-00451-064031"
+            },
+            {
+              "name": "Raota",
+              "code": "064043",
+              "uniqueCode": "07-097-00451-064043"
+            },
+            {
+              "name": "Rewla Kham Pur",
+              "code": "064014",
+              "uniqueCode": "07-097-00451-064014"
+            },
+            {
+              "name": "Roshan Pura alias Dichaon Khurd (CT)",
+              "code": "064052",
+              "uniqueCode": "07-097-00451-064052"
+            },
+            {
+              "name": "Salah Pur",
+              "code": "064030",
+              "uniqueCode": "07-097-00451-064030"
+            },
+            {
+              "name": "Samas Pur Khalsa",
+              "code": "064018",
+              "uniqueCode": "07-097-00451-064018"
+            },
+            {
+              "name": "Sarang Pur",
+              "code": "064040",
+              "uniqueCode": "07-097-00451-064040"
+            },
+            {
+              "name": "Sher Pur Deri",
+              "code": "064024",
+              "uniqueCode": "07-097-00451-064024"
+            },
+            {
+              "name": "Shikar Pur",
+              "code": "064036",
+              "uniqueCode": "07-097-00451-064036"
+            },
+            {
+              "name": "Surakh Pur",
+              "code": "064005",
+              "uniqueCode": "07-097-00451-064005"
+            },
+            {
+              "name": "Surera",
+              "code": "064008",
+              "uniqueCode": "07-097-00451-064008"
+            },
+            {
+              "name": "Taj Pur Khurd",
+              "code": "064013",
+              "uniqueCode": "07-097-00451-064013"
+            },
+            {
+              "name": "Ujwa (CT)",
+              "code": "064048",
+              "uniqueCode": "07-097-00451-064048"
+            }
+          ]
+        },
+        {
+          "name": "Vasant Vihar",
+          "code": "00453",
+          "villages": [
+            {
+              "name": "Ghitorni (CT)",
+              "code": "064061",
+              "uniqueCode": "07-097-00453-064061"
+            },
+            {
+              "name": "Kapas Hera (CT)",
+              "code": "064059",
+              "uniqueCode": "07-097-00453-064059"
+            },
+            {
+              "name": "Kusum Pur (CT)",
+              "code": "064056",
+              "uniqueCode": "07-097-00453-064056"
+            },
+            {
+              "name": "Malik Pur Kohi alias Rang Puri (CT)",
+              "code": "064057",
+              "uniqueCode": "07-097-00453-064057"
+            },
+            {
+              "name": "Rajokri (CT)",
+              "code": "064060",
+              "uniqueCode": "07-097-00453-064060"
+            },
+            {
+              "name": "Sambhalka (CT)",
+              "code": "064058",
+              "uniqueCode": "07-097-00453-064058"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "code": "096",
+      "talukas": [
+        {
+          "name": "Patel Nagar",
+          "code": "00448",
+          "villages": [
+            {
+              "name": "Hastsal (CT)",
+              "code": "063991",
+              "uniqueCode": "07-096-00448-063991"
+            },
+            {
+              "name": "Raja Pur Khurd (CT)",
+              "code": "063992",
+              "uniqueCode": "07-096-00448-063992"
+            }
+          ]
+        },
+        {
+          "name": "Punjabi Bagh",
+          "code": "00450",
+          "villages": [
+            {
+              "name": "Bakkar Wala (CT)",
+              "code": "064002",
+              "uniqueCode": "07-096-00450-064002"
+            },
+            {
+              "name": "Bapraula (CT)",
+              "code": "063995",
+              "uniqueCode": "07-096-00450-063995"
+            },
+            {
+              "name": "Jaffar Pur alias Hiran Kudna",
+              "code": "063994",
+              "uniqueCode": "07-096-00450-063994"
+            },
+            {
+              "name": "Mundka (CT)",
+              "code": "064001",
+              "uniqueCode": "07-096-00450-064001"
+            },
+            {
+              "name": "Nangloi Jat (CT)",
+              "code": "063999",
+              "uniqueCode": "07-096-00450-063999"
+            },
+            {
+              "name": "Neel Wal",
+              "code": "063993",
+              "uniqueCode": "07-096-00450-063993"
+            },
+            {
+              "name": "Nilothi (CT)",
+              "code": "063998",
+              "uniqueCode": "07-096-00450-063998"
+            },
+            {
+              "name": "Quammruddin Nagar (CT)",
+              "code": "064000",
+              "uniqueCode": "07-096-00450-064000"
+            },
+            {
+              "name": "Shafi Pur Ranhola (CT)",
+              "code": "063997",
+              "uniqueCode": "07-096-00450-063997"
+            },
+            {
+              "name": "Tikri Kalan (CT)",
+              "code": "064003",
+              "uniqueCode": "07-096-00450-064003"
+            },
+            {
+              "name": "Tilang Pur Kotla (CT)",
+              "code": "063996",
+              "uniqueCode": "07-096-00450-063996"
+            }
+          ]
+        },
+        {
+          "name": "Rajouri Garden",
+          "code": "00449",
+          "villages": []
+        }
+      ]
+    }
+  ]
+}

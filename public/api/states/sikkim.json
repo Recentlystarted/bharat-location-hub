@@ -1,0 +1,2344 @@
+{
+  "state": "SIKKIM",
+  "code": "11",
+  "districts": [
+    {
+      "name": "East District",
+      "code": "244",
+      "talukas": [
+        {
+          "name": "Gangtok",
+          "code": "01553",
+          "villages": [
+            {
+              "name": "Aritar (Dung-Dung)",
+              "code": "261261",
+              "uniqueCode": "11-244-01553-261261"
+            },
+            {
+              "name": "Assam",
+              "code": "261316",
+              "uniqueCode": "11-244-01553-261316"
+            },
+            {
+              "name": "Barbing",
+              "code": "261296",
+              "uniqueCode": "11-244-01553-261296"
+            },
+            {
+              "name": "Beng",
+              "code": "261267",
+              "uniqueCode": "11-244-01553-261267"
+            },
+            {
+              "name": "Bhusuk",
+              "code": "261314",
+              "uniqueCode": "11-244-01553-261314"
+            },
+            {
+              "name": "Budang Thangsing",
+              "code": "261266",
+              "uniqueCode": "11-244-01553-261266"
+            },
+            {
+              "name": "Byang",
+              "code": "261275",
+              "uniqueCode": "11-244-01553-261275"
+            },
+            {
+              "name": "Central Pendam",
+              "code": "261284",
+              "uniqueCode": "11-244-01553-261284"
+            },
+            {
+              "name": "Chadey",
+              "code": "261259",
+              "uniqueCode": "11-244-01553-261259"
+            },
+            {
+              "name": "Chinze",
+              "code": "261293",
+              "uniqueCode": "11-244-01553-261293"
+            },
+            {
+              "name": "Chisopani",
+              "code": "261271",
+              "uniqueCode": "11-244-01553-261271"
+            },
+            {
+              "name": "Chuba",
+              "code": "261286",
+              "uniqueCode": "11-244-01553-261286"
+            },
+            {
+              "name": "Dung-Dung",
+              "code": "261265",
+              "uniqueCode": "11-244-01553-261265"
+            },
+            {
+              "name": "Gangtok Forest Block",
+              "code": "261321",
+              "uniqueCode": "11-244-01553-261321"
+            },
+            {
+              "name": "Gnathang",
+              "code": "261315",
+              "uniqueCode": "11-244-01553-261315"
+            },
+            {
+              "name": "Gnathang Forest Block",
+              "code": "261319",
+              "uniqueCode": "11-244-01553-261319"
+            },
+            {
+              "name": "Kambal",
+              "code": "261255",
+              "uniqueCode": "11-244-01553-261255"
+            },
+            {
+              "name": "Khamdong",
+              "code": "261268",
+              "uniqueCode": "11-244-01553-261268"
+            },
+            {
+              "name": "Kyongnosla Forest Block",
+              "code": "261318",
+              "uniqueCode": "11-244-01553-261318"
+            },
+            {
+              "name": "Lingdok",
+              "code": "261301",
+              "uniqueCode": "11-244-01553-261301"
+            },
+            {
+              "name": "Lingdum",
+              "code": "261299",
+              "uniqueCode": "11-244-01553-261299"
+            },
+            {
+              "name": "Lingzey (Assam)",
+              "code": "261317",
+              "uniqueCode": "11-244-01553-261317"
+            },
+            {
+              "name": "Lingzey (Simik)",
+              "code": "261262",
+              "uniqueCode": "11-244-01553-261262"
+            },
+            {
+              "name": "Lingzey (Sumen)",
+              "code": "261282",
+              "uniqueCode": "11-244-01553-261282"
+            },
+            {
+              "name": "Luing",
+              "code": "261305",
+              "uniqueCode": "11-244-01553-261305"
+            },
+            {
+              "name": "Mangthang",
+              "code": "261280",
+              "uniqueCode": "11-244-01553-261280"
+            },
+            {
+              "name": "Martam",
+              "code": "261279",
+              "uniqueCode": "11-244-01553-261279"
+            },
+            {
+              "name": "Naitam",
+              "code": "261311",
+              "uniqueCode": "11-244-01553-261311"
+            },
+            {
+              "name": "Namgeythang",
+              "code": "261274",
+              "uniqueCode": "11-244-01553-261274"
+            },
+            {
+              "name": "Namin",
+              "code": "261289",
+              "uniqueCode": "11-244-01553-261289"
+            },
+            {
+              "name": "Namli",
+              "code": "261287",
+              "uniqueCode": "11-244-01553-261287"
+            },
+            {
+              "name": "Namok",
+              "code": "261312",
+              "uniqueCode": "11-244-01553-261312"
+            },
+            {
+              "name": "Nampong",
+              "code": "261300",
+              "uniqueCode": "11-244-01553-261300"
+            },
+            {
+              "name": "Nandok",
+              "code": "261310",
+              "uniqueCode": "11-244-01553-261310"
+            },
+            {
+              "name": "Navey",
+              "code": "261302",
+              "uniqueCode": "11-244-01553-261302"
+            },
+            {
+              "name": "Nazitam",
+              "code": "261278",
+              "uniqueCode": "11-244-01553-261278"
+            },
+            {
+              "name": "Pam",
+              "code": "261313",
+              "uniqueCode": "11-244-01553-261313"
+            },
+            {
+              "name": "Pangthang Forest Block",
+              "code": "261320",
+              "uniqueCode": "11-244-01553-261320"
+            },
+            {
+              "name": "Parbing",
+              "code": "261306",
+              "uniqueCode": "11-244-01553-261306"
+            },
+            {
+              "name": "Patuk",
+              "code": "261263",
+              "uniqueCode": "11-244-01553-261263"
+            },
+            {
+              "name": "Penlong",
+              "code": "261304",
+              "uniqueCode": "11-244-01553-261304"
+            },
+            {
+              "name": "Phengyong",
+              "code": "261276",
+              "uniqueCode": "11-244-01553-261276"
+            },
+            {
+              "name": "Rakdong",
+              "code": "261253",
+              "uniqueCode": "11-244-01553-261253"
+            },
+            {
+              "name": "Raley-Khese",
+              "code": "261257",
+              "uniqueCode": "11-244-01553-261257"
+            },
+            {
+              "name": "Rangpo Forest Block",
+              "code": "261327",
+              "uniqueCode": "11-244-01553-261327"
+            },
+            {
+              "name": "Ranipool Forest Block",
+              "code": "261322",
+              "uniqueCode": "11-244-01553-261322"
+            },
+            {
+              "name": "Ranka",
+              "code": "261294",
+              "uniqueCode": "11-244-01553-261294"
+            },
+            {
+              "name": "Rapdang",
+              "code": "261273",
+              "uniqueCode": "11-244-01553-261273"
+            },
+            {
+              "name": "Rawate-Rumtek",
+              "code": "261292",
+              "uniqueCode": "11-244-01553-261292"
+            },
+            {
+              "name": "Rey",
+              "code": "261298",
+              "uniqueCode": "11-244-01553-261298"
+            },
+            {
+              "name": "Rongyek",
+              "code": "261307",
+              "uniqueCode": "11-244-01553-261307"
+            },
+            {
+              "name": "Rumtek Forest Block",
+              "code": "261323",
+              "uniqueCode": "11-244-01553-261323"
+            },
+            {
+              "name": "Sajong",
+              "code": "261285",
+              "uniqueCode": "11-244-01553-261285"
+            },
+            {
+              "name": "Sakyong",
+              "code": "261270",
+              "uniqueCode": "11-244-01553-261270"
+            },
+            {
+              "name": "Samdong",
+              "code": "261256",
+              "uniqueCode": "11-244-01553-261256"
+            },
+            {
+              "name": "Samlik-Marchak",
+              "code": "261290",
+              "uniqueCode": "11-244-01553-261290"
+            },
+            {
+              "name": "Sang Forest Block",
+              "code": "261325",
+              "uniqueCode": "11-244-01553-261325"
+            },
+            {
+              "name": "Sangtong",
+              "code": "261295",
+              "uniqueCode": "11-244-01553-261295"
+            },
+            {
+              "name": "Sherwani",
+              "code": "261269",
+              "uniqueCode": "11-244-01553-261269"
+            },
+            {
+              "name": "Shotak",
+              "code": "261303",
+              "uniqueCode": "11-244-01553-261303"
+            },
+            {
+              "name": "Shyagyong-Rumtek",
+              "code": "261291",
+              "uniqueCode": "11-244-01553-261291"
+            },
+            {
+              "name": "Simik",
+              "code": "261260",
+              "uniqueCode": "11-244-01553-261260"
+            },
+            {
+              "name": "Singbel",
+              "code": "261264",
+              "uniqueCode": "11-244-01553-261264"
+            },
+            {
+              "name": "Singtam Forest Block",
+              "code": "261326",
+              "uniqueCode": "11-244-01553-261326"
+            },
+            {
+              "name": "Sumen",
+              "code": "261281",
+              "uniqueCode": "11-244-01553-261281"
+            },
+            {
+              "name": "Syari",
+              "code": "261309",
+              "uniqueCode": "11-244-01553-261309"
+            },
+            {
+              "name": "Tathangchen",
+              "code": "261308",
+              "uniqueCode": "11-244-01553-261308"
+            },
+            {
+              "name": "Temphyak Mendu",
+              "code": "261297",
+              "uniqueCode": "11-244-01553-261297"
+            },
+            {
+              "name": "Tintek",
+              "code": "261254",
+              "uniqueCode": "11-244-01553-261254"
+            },
+            {
+              "name": "Tirkutam",
+              "code": "261277",
+              "uniqueCode": "11-244-01553-261277"
+            },
+            {
+              "name": "Tshalumthang",
+              "code": "261272",
+              "uniqueCode": "11-244-01553-261272"
+            },
+            {
+              "name": "Tumen",
+              "code": "261258",
+              "uniqueCode": "11-244-01553-261258"
+            },
+            {
+              "name": "Tumen Forest Block",
+              "code": "261324",
+              "uniqueCode": "11-244-01553-261324"
+            },
+            {
+              "name": "Tumlabung",
+              "code": "261288",
+              "uniqueCode": "11-244-01553-261288"
+            },
+            {
+              "name": "West Pendam",
+              "code": "261283",
+              "uniqueCode": "11-244-01553-261283"
+            }
+          ]
+        },
+        {
+          "name": "Pakyong",
+          "code": "01554",
+          "villages": [
+            {
+              "name": "Aho",
+              "code": "261330",
+              "uniqueCode": "11-244-01554-261330"
+            },
+            {
+              "name": "Amba",
+              "code": "261344",
+              "uniqueCode": "11-244-01554-261344"
+            },
+            {
+              "name": "Assam Lingzey Forest Block",
+              "code": "261354",
+              "uniqueCode": "11-244-01554-261354"
+            },
+            {
+              "name": "Biring",
+              "code": "261346",
+              "uniqueCode": "11-244-01554-261346"
+            },
+            {
+              "name": "Changey Senti (Tsaney)",
+              "code": "261331",
+              "uniqueCode": "11-244-01554-261331"
+            },
+            {
+              "name": "Chhota Singtam",
+              "code": "261328",
+              "uniqueCode": "11-244-01554-261328"
+            },
+            {
+              "name": "Chochenpheri",
+              "code": "261352",
+              "uniqueCode": "11-244-01554-261352"
+            },
+            {
+              "name": "Dikling",
+              "code": "261337",
+              "uniqueCode": "11-244-01554-261337"
+            },
+            {
+              "name": "East Pendam",
+              "code": "261336",
+              "uniqueCode": "11-244-01554-261336"
+            },
+            {
+              "name": "Kamarey Bhasmey",
+              "code": "261335",
+              "uniqueCode": "11-244-01554-261335"
+            },
+            {
+              "name": "Kartok",
+              "code": "261338",
+              "uniqueCode": "11-244-01554-261338"
+            },
+            {
+              "name": "Latuk",
+              "code": "261353",
+              "uniqueCode": "11-244-01554-261353"
+            },
+            {
+              "name": "Linkey",
+              "code": "261347",
+              "uniqueCode": "11-244-01554-261347"
+            },
+            {
+              "name": "Losing",
+              "code": "261341",
+              "uniqueCode": "11-244-01554-261341"
+            },
+            {
+              "name": "Machong",
+              "code": "261351",
+              "uniqueCode": "11-244-01554-261351"
+            },
+            {
+              "name": "Namcheybung",
+              "code": "261333",
+              "uniqueCode": "11-244-01554-261333"
+            },
+            {
+              "name": "Pachak",
+              "code": "261334",
+              "uniqueCode": "11-244-01554-261334"
+            },
+            {
+              "name": "Pachey",
+              "code": "261332",
+              "uniqueCode": "11-244-01554-261332"
+            },
+            {
+              "name": "Pacheykhani (Dikling)",
+              "code": "261340",
+              "uniqueCode": "11-244-01554-261340"
+            },
+            {
+              "name": "Pacheykhani (Losing)",
+              "code": "261342",
+              "uniqueCode": "11-244-01554-261342"
+            },
+            {
+              "name": "Pakyong Forest Block",
+              "code": "261355",
+              "uniqueCode": "11-244-01554-261355"
+            },
+            {
+              "name": "Parkha",
+              "code": "261349",
+              "uniqueCode": "11-244-01554-261349"
+            },
+            {
+              "name": "Pathing Forest Block",
+              "code": "261356",
+              "uniqueCode": "11-244-01554-261356"
+            },
+            {
+              "name": "Riwa",
+              "code": "261350",
+              "uniqueCode": "11-244-01554-261350"
+            },
+            {
+              "name": "Tarethang",
+              "code": "261345",
+              "uniqueCode": "11-244-01554-261345"
+            },
+            {
+              "name": "Taza",
+              "code": "261343",
+              "uniqueCode": "11-244-01554-261343"
+            },
+            {
+              "name": "Thekabung",
+              "code": "261348",
+              "uniqueCode": "11-244-01554-261348"
+            },
+            {
+              "name": "Tsalumthang",
+              "code": "261339",
+              "uniqueCode": "11-244-01554-261339"
+            },
+            {
+              "name": "Yangtam",
+              "code": "261329",
+              "uniqueCode": "11-244-01554-261329"
+            }
+          ]
+        },
+        {
+          "name": "Rongli",
+          "code": "01555",
+          "villages": [
+            {
+              "name": "Aritar",
+              "code": "261372",
+              "uniqueCode": "11-244-01555-261372"
+            },
+            {
+              "name": "Changeylakha",
+              "code": "261366",
+              "uniqueCode": "11-244-01555-261366"
+            },
+            {
+              "name": "Chujachen",
+              "code": "261367",
+              "uniqueCode": "11-244-01555-261367"
+            },
+            {
+              "name": "Dholepchen",
+              "code": "261368",
+              "uniqueCode": "11-244-01555-261368"
+            },
+            {
+              "name": "Lamaten",
+              "code": "261358",
+              "uniqueCode": "11-244-01555-261358"
+            },
+            {
+              "name": "Lingtam",
+              "code": "261359",
+              "uniqueCode": "11-244-01555-261359"
+            },
+            {
+              "name": "Mulukey",
+              "code": "261370",
+              "uniqueCode": "11-244-01555-261370"
+            },
+            {
+              "name": "North Rhegoh",
+              "code": "261364",
+              "uniqueCode": "11-244-01555-261364"
+            },
+            {
+              "name": "Phadamchen",
+              "code": "261360",
+              "uniqueCode": "11-244-01555-261360"
+            },
+            {
+              "name": "Phadamchen Forest Block",
+              "code": "261373",
+              "uniqueCode": "11-244-01555-261373"
+            },
+            {
+              "name": "Premlakha",
+              "code": "261361",
+              "uniqueCode": "11-244-01555-261361"
+            },
+            {
+              "name": "Rhenak (CT)",
+              "code": "261376",
+              "uniqueCode": "11-244-01555-261376"
+            },
+            {
+              "name": "Rhenock Forest Block",
+              "code": "261375",
+              "uniqueCode": "11-244-01555-261375"
+            },
+            {
+              "name": "Rolep",
+              "code": "261357",
+              "uniqueCode": "11-244-01555-261357"
+            },
+            {
+              "name": "Rongli Forest Block",
+              "code": "261374",
+              "uniqueCode": "11-244-01555-261374"
+            },
+            {
+              "name": "Singaneybas",
+              "code": "261362",
+              "uniqueCode": "11-244-01555-261362"
+            },
+            {
+              "name": "South Rhegoh",
+              "code": "261365",
+              "uniqueCode": "11-244-01555-261365"
+            },
+            {
+              "name": "Subanedara",
+              "code": "261363",
+              "uniqueCode": "11-244-01555-261363"
+            },
+            {
+              "name": "Sudunglakha",
+              "code": "261369",
+              "uniqueCode": "11-244-01555-261369"
+            },
+            {
+              "name": "Tarpin",
+              "code": "261371",
+              "uniqueCode": "11-244-01555-261371"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North  District",
+      "code": "241",
+      "talukas": [
+        {
+          "name": "Chungthang",
+          "code": "01547",
+          "villages": [
+            {
+              "name": "Chungthang",
+              "code": "260927",
+              "uniqueCode": "11-241-01547-260927"
+            },
+            {
+              "name": "Lachen",
+              "code": "260925",
+              "uniqueCode": "11-241-01547-260925"
+            },
+            {
+              "name": "Lachen Forest Block",
+              "code": "260930",
+              "uniqueCode": "11-241-01547-260930"
+            },
+            {
+              "name": "Lachung",
+              "code": "260926",
+              "uniqueCode": "11-241-01547-260926"
+            },
+            {
+              "name": "Lachung Forest Block",
+              "code": "260932",
+              "uniqueCode": "11-241-01547-260932"
+            },
+            {
+              "name": "Shipgyer",
+              "code": "260928",
+              "uniqueCode": "11-241-01547-260928"
+            },
+            {
+              "name": "Thangu Forest Block",
+              "code": "260931",
+              "uniqueCode": "11-241-01547-260931"
+            },
+            {
+              "name": "Tshungthang Forest Block",
+              "code": "260933",
+              "uniqueCode": "11-241-01547-260933"
+            },
+            {
+              "name": "Tung",
+              "code": "260929",
+              "uniqueCode": "11-241-01547-260929"
+            }
+          ]
+        },
+        {
+          "name": "Mangan",
+          "code": "01548",
+          "villages": [
+            {
+              "name": "Barfok",
+              "code": "260951",
+              "uniqueCode": "11-241-01548-260951"
+            },
+            {
+              "name": "Chawang",
+              "code": "260967",
+              "uniqueCode": "11-241-01548-260967"
+            },
+            {
+              "name": "Gnon-Samdong",
+              "code": "260949",
+              "uniqueCode": "11-241-01548-260949"
+            },
+            {
+              "name": "Gor",
+              "code": "260948",
+              "uniqueCode": "11-241-01548-260948"
+            },
+            {
+              "name": "Hee-Gyathang",
+              "code": "260950",
+              "uniqueCode": "11-241-01548-260950"
+            },
+            {
+              "name": "Kabi",
+              "code": "260972",
+              "uniqueCode": "11-241-01548-260972"
+            },
+            {
+              "name": "Kabi Forest Block",
+              "code": "260979",
+              "uniqueCode": "11-241-01548-260979"
+            },
+            {
+              "name": "Kazor",
+              "code": "260938",
+              "uniqueCode": "11-241-01548-260938"
+            },
+            {
+              "name": "L. Mangshila",
+              "code": "260959",
+              "uniqueCode": "11-241-01548-260959"
+            },
+            {
+              "name": "Labi",
+              "code": "260971",
+              "uniqueCode": "11-241-01548-260971"
+            },
+            {
+              "name": "Lingdem",
+              "code": "260942",
+              "uniqueCode": "11-241-01548-260942"
+            },
+            {
+              "name": "Lingdong",
+              "code": "260952",
+              "uniqueCode": "11-241-01548-260952"
+            },
+            {
+              "name": "Lingthem",
+              "code": "260941",
+              "uniqueCode": "11-241-01548-260941"
+            },
+            {
+              "name": "Lingzah-Tolung",
+              "code": "260944",
+              "uniqueCode": "11-241-01548-260944"
+            },
+            {
+              "name": "Lower Dzongu Forest Block",
+              "code": "260975",
+              "uniqueCode": "11-241-01548-260975"
+            },
+            {
+              "name": "Lum",
+              "code": "260946",
+              "uniqueCode": "11-241-01548-260946"
+            },
+            {
+              "name": "Mangan Forest Block",
+              "code": "260977",
+              "uniqueCode": "11-241-01548-260977"
+            },
+            {
+              "name": "Men-Rongong",
+              "code": "260969",
+              "uniqueCode": "11-241-01548-260969"
+            },
+            {
+              "name": "Meyong",
+              "code": "260935",
+              "uniqueCode": "11-241-01548-260935"
+            },
+            {
+              "name": "Naga Forest Block",
+              "code": "260976",
+              "uniqueCode": "11-241-01548-260976"
+            },
+            {
+              "name": "Naga-Namgor",
+              "code": "260934",
+              "uniqueCode": "11-241-01548-260934"
+            },
+            {
+              "name": "Namok",
+              "code": "260960",
+              "uniqueCode": "11-241-01548-260960"
+            },
+            {
+              "name": "Nampatam",
+              "code": "260956",
+              "uniqueCode": "11-241-01548-260956"
+            },
+            {
+              "name": "Pakshep",
+              "code": "260937",
+              "uniqueCode": "11-241-01548-260937"
+            },
+            {
+              "name": "Paney-Phensong",
+              "code": "260970",
+              "uniqueCode": "11-241-01548-260970"
+            },
+            {
+              "name": "Phamtam",
+              "code": "260968",
+              "uniqueCode": "11-241-01548-260968"
+            },
+            {
+              "name": "Phodong",
+              "code": "260966",
+              "uniqueCode": "11-241-01548-260966"
+            },
+            {
+              "name": "Phodong Forest Block",
+              "code": "260978",
+              "uniqueCode": "11-241-01548-260978"
+            },
+            {
+              "name": "Ramthamg",
+              "code": "260963",
+              "uniqueCode": "11-241-01548-260963"
+            },
+            {
+              "name": "Ringhim",
+              "code": "260955",
+              "uniqueCode": "11-241-01548-260955"
+            },
+            {
+              "name": "Rongong",
+              "code": "260964",
+              "uniqueCode": "11-241-01548-260964"
+            },
+            {
+              "name": "Sakyong-Pentong",
+              "code": "260945",
+              "uniqueCode": "11-241-01548-260945"
+            },
+            {
+              "name": "Salim Pakel",
+              "code": "260940",
+              "uniqueCode": "11-241-01548-260940"
+            },
+            {
+              "name": "Sangtok",
+              "code": "260947",
+              "uniqueCode": "11-241-01548-260947"
+            },
+            {
+              "name": "Sentam",
+              "code": "260939",
+              "uniqueCode": "11-241-01548-260939"
+            },
+            {
+              "name": "Sheyam",
+              "code": "260961",
+              "uniqueCode": "11-241-01548-260961"
+            },
+            {
+              "name": "Singchit",
+              "code": "260936",
+              "uniqueCode": "11-241-01548-260936"
+            },
+            {
+              "name": "Singhik",
+              "code": "260954",
+              "uniqueCode": "11-241-01548-260954"
+            },
+            {
+              "name": "Tangyek",
+              "code": "260962",
+              "uniqueCode": "11-241-01548-260962"
+            },
+            {
+              "name": "Tingbong",
+              "code": "260943",
+              "uniqueCode": "11-241-01548-260943"
+            },
+            {
+              "name": "Tingchim",
+              "code": "260957",
+              "uniqueCode": "11-241-01548-260957"
+            },
+            {
+              "name": "Tingda",
+              "code": "260973",
+              "uniqueCode": "11-241-01548-260973"
+            },
+            {
+              "name": "Tumlong",
+              "code": "260965",
+              "uniqueCode": "11-241-01548-260965"
+            },
+            {
+              "name": "U. Mangshila",
+              "code": "260958",
+              "uniqueCode": "11-241-01548-260958"
+            },
+            {
+              "name": "Upper Dzongu Forest Block",
+              "code": "260974",
+              "uniqueCode": "11-241-01548-260974"
+            },
+            {
+              "name": "Zimchung",
+              "code": "260953",
+              "uniqueCode": "11-241-01548-260953"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South District",
+      "code": "243",
+      "talukas": [
+        {
+          "name": "Namchi",
+          "code": "01551",
+          "villages": [
+            {
+              "name": "Aifaltar",
+              "code": "261181",
+              "uniqueCode": "11-243-01551-261181"
+            },
+            {
+              "name": "Assangthang",
+              "code": "261128",
+              "uniqueCode": "11-243-01551-261128"
+            },
+            {
+              "name": "Barnyak",
+              "code": "261176",
+              "uniqueCode": "11-243-01551-261176"
+            },
+            {
+              "name": "Bikmat",
+              "code": "261160",
+              "uniqueCode": "11-243-01551-261160"
+            },
+            {
+              "name": "Bomtar",
+              "code": "261140",
+              "uniqueCode": "11-243-01551-261140"
+            },
+            {
+              "name": "Bul",
+              "code": "261139",
+              "uniqueCode": "11-243-01551-261139"
+            },
+            {
+              "name": "Burul",
+              "code": "261175",
+              "uniqueCode": "11-243-01551-261175"
+            },
+            {
+              "name": "Chemchey",
+              "code": "261108",
+              "uniqueCode": "11-243-01551-261108"
+            },
+            {
+              "name": "Chisopani",
+              "code": "261120",
+              "uniqueCode": "11-243-01551-261120"
+            },
+            {
+              "name": "Chuba",
+              "code": "261171",
+              "uniqueCode": "11-243-01551-261171"
+            },
+            {
+              "name": "Chumlok",
+              "code": "261106",
+              "uniqueCode": "11-243-01551-261106"
+            },
+            {
+              "name": "Damthang",
+              "code": "261109",
+              "uniqueCode": "11-243-01551-261109"
+            },
+            {
+              "name": "Denchung",
+              "code": "261117",
+              "uniqueCode": "11-243-01551-261117"
+            },
+            {
+              "name": "Dhargaon",
+              "code": "261122",
+              "uniqueCode": "11-243-01551-261122"
+            },
+            {
+              "name": "Donok",
+              "code": "261194",
+              "uniqueCode": "11-243-01551-261194"
+            },
+            {
+              "name": "Doring",
+              "code": "261187",
+              "uniqueCode": "11-243-01551-261187"
+            },
+            {
+              "name": "Dorop",
+              "code": "261123",
+              "uniqueCode": "11-243-01551-261123"
+            },
+            {
+              "name": "Gangchung",
+              "code": "261180",
+              "uniqueCode": "11-243-01551-261180"
+            },
+            {
+              "name": "Gom",
+              "code": "261124",
+              "uniqueCode": "11-243-01551-261124"
+            },
+            {
+              "name": "Jaubari",
+              "code": "261110",
+              "uniqueCode": "11-243-01551-261110"
+            },
+            {
+              "name": "Jorethang Forest Block",
+              "code": "261199",
+              "uniqueCode": "11-243-01551-261199"
+            },
+            {
+              "name": "Kabrey",
+              "code": "261168",
+              "uniqueCode": "11-243-01551-261168"
+            },
+            {
+              "name": "Kamarey",
+              "code": "261146",
+              "uniqueCode": "11-243-01551-261146"
+            },
+            {
+              "name": "Kamrang",
+              "code": "261115",
+              "uniqueCode": "11-243-01551-261115"
+            },
+            {
+              "name": "Kanamtek",
+              "code": "261192",
+              "uniqueCode": "11-243-01551-261192"
+            },
+            {
+              "name": "Karek",
+              "code": "261169",
+              "uniqueCode": "11-243-01551-261169"
+            },
+            {
+              "name": "Kartickey",
+              "code": "261133",
+              "uniqueCode": "11-243-01551-261133"
+            },
+            {
+              "name": "Kateng-Bokrang",
+              "code": "261163",
+              "uniqueCode": "11-243-01551-261163"
+            },
+            {
+              "name": "Kerabari",
+              "code": "261150",
+              "uniqueCode": "11-243-01551-261150"
+            },
+            {
+              "name": "Kitam",
+              "code": "261132",
+              "uniqueCode": "11-243-01551-261132"
+            },
+            {
+              "name": "Kopchey",
+              "code": "261129",
+              "uniqueCode": "11-243-01551-261129"
+            },
+            {
+              "name": "Longchok",
+              "code": "261145",
+              "uniqueCode": "11-243-01551-261145"
+            },
+            {
+              "name": "Majhitar Forest Block",
+              "code": "261198",
+              "uniqueCode": "11-243-01551-261198"
+            },
+            {
+              "name": "Mamley",
+              "code": "261112",
+              "uniqueCode": "11-243-01551-261112"
+            },
+            {
+              "name": "Mamring",
+              "code": "261195",
+              "uniqueCode": "11-243-01551-261195"
+            },
+            {
+              "name": "Mamring Forest Block",
+              "code": "261202",
+              "uniqueCode": "11-243-01551-261202"
+            },
+            {
+              "name": "Maneydara",
+              "code": "261167",
+              "uniqueCode": "11-243-01551-261167"
+            },
+            {
+              "name": "Maniram",
+              "code": "261144",
+              "uniqueCode": "11-243-01551-261144"
+            },
+            {
+              "name": "Manpur",
+              "code": "261131",
+              "uniqueCode": "11-243-01551-261131"
+            },
+            {
+              "name": "Melli",
+              "code": "261151",
+              "uniqueCode": "11-243-01551-261151"
+            },
+            {
+              "name": "Melli Forest Block",
+              "code": "261200",
+              "uniqueCode": "11-243-01551-261200"
+            },
+            {
+              "name": "Mellidara",
+              "code": "261152",
+              "uniqueCode": "11-243-01551-261152"
+            },
+            {
+              "name": "Mikkhola",
+              "code": "261130",
+              "uniqueCode": "11-243-01551-261130"
+            },
+            {
+              "name": "Nagi",
+              "code": "261166",
+              "uniqueCode": "11-243-01551-261166"
+            },
+            {
+              "name": "Nalam-Kolbong",
+              "code": "261165",
+              "uniqueCode": "11-243-01551-261165"
+            },
+            {
+              "name": "Namchi Forest Block",
+              "code": "261197",
+              "uniqueCode": "11-243-01551-261197"
+            },
+            {
+              "name": "Namphing",
+              "code": "261189",
+              "uniqueCode": "11-243-01551-261189"
+            },
+            {
+              "name": "Namthang Forest Block",
+              "code": "261201",
+              "uniqueCode": "11-243-01551-261201"
+            },
+            {
+              "name": "Nijarmeng",
+              "code": "261174",
+              "uniqueCode": "11-243-01551-261174"
+            },
+            {
+              "name": "Omchu",
+              "code": "261105",
+              "uniqueCode": "11-243-01551-261105"
+            },
+            {
+              "name": "Pabong (Gangchung)",
+              "code": "261186",
+              "uniqueCode": "11-243-01551-261186"
+            },
+            {
+              "name": "Pabong(Mamley)",
+              "code": "261113",
+              "uniqueCode": "11-243-01551-261113"
+            },
+            {
+              "name": "Paiyong (Kerabari)",
+              "code": "261153",
+              "uniqueCode": "11-243-01551-261153"
+            },
+            {
+              "name": "Pajer",
+              "code": "261114",
+              "uniqueCode": "11-243-01551-261114"
+            },
+            {
+              "name": "Paleytam",
+              "code": "261164",
+              "uniqueCode": "11-243-01551-261164"
+            },
+            {
+              "name": "Palum",
+              "code": "261137",
+              "uniqueCode": "11-243-01551-261137"
+            },
+            {
+              "name": "Pamphok",
+              "code": "261193",
+              "uniqueCode": "11-243-01551-261193"
+            },
+            {
+              "name": "Panchgharey",
+              "code": "261147",
+              "uniqueCode": "11-243-01551-261147"
+            },
+            {
+              "name": "Parbing",
+              "code": "261172",
+              "uniqueCode": "11-243-01551-261172"
+            },
+            {
+              "name": "Passi",
+              "code": "261162",
+              "uniqueCode": "11-243-01551-261162"
+            },
+            {
+              "name": "Phalidara",
+              "code": "261143",
+              "uniqueCode": "11-243-01551-261143"
+            },
+            {
+              "name": "Phong",
+              "code": "261170",
+              "uniqueCode": "11-243-01551-261170"
+            },
+            {
+              "name": "Poklok (Polok)",
+              "code": "261118",
+              "uniqueCode": "11-243-01551-261118"
+            },
+            {
+              "name": "Rabikhola",
+              "code": "261158",
+              "uniqueCode": "11-243-01551-261158"
+            },
+            {
+              "name": "Rabitar",
+              "code": "261157",
+              "uniqueCode": "11-243-01551-261157"
+            },
+            {
+              "name": "Ramabong",
+              "code": "261149",
+              "uniqueCode": "11-243-01551-261149"
+            },
+            {
+              "name": "Rameng",
+              "code": "261173",
+              "uniqueCode": "11-243-01551-261173"
+            },
+            {
+              "name": "Rashyap",
+              "code": "261188",
+              "uniqueCode": "11-243-01551-261188"
+            },
+            {
+              "name": "Rateypani",
+              "code": "261161",
+              "uniqueCode": "11-243-01551-261161"
+            },
+            {
+              "name": "Rong",
+              "code": "261136",
+              "uniqueCode": "11-243-01551-261136"
+            },
+            {
+              "name": "Sadam",
+              "code": "261156",
+              "uniqueCode": "11-243-01551-261156"
+            },
+            {
+              "name": "Saleumbong",
+              "code": "261142",
+              "uniqueCode": "11-243-01551-261142"
+            },
+            {
+              "name": "Salghari",
+              "code": "261121",
+              "uniqueCode": "11-243-01551-261121"
+            },
+            {
+              "name": "Sangbung",
+              "code": "261127",
+              "uniqueCode": "11-243-01551-261127"
+            },
+            {
+              "name": "Shyampani",
+              "code": "261126",
+              "uniqueCode": "11-243-01551-261126"
+            },
+            {
+              "name": "Singhithang",
+              "code": "261141",
+              "uniqueCode": "11-243-01551-261141"
+            },
+            {
+              "name": "Singtam",
+              "code": "261138",
+              "uniqueCode": "11-243-01551-261138"
+            },
+            {
+              "name": "Sorok",
+              "code": "261125",
+              "uniqueCode": "11-243-01551-261125"
+            },
+            {
+              "name": "Sukrabarey",
+              "code": "261155",
+              "uniqueCode": "11-243-01551-261155"
+            },
+            {
+              "name": "Sumbuk",
+              "code": "261134",
+              "uniqueCode": "11-243-01551-261134"
+            },
+            {
+              "name": "Suntaley (Sadam)",
+              "code": "261154",
+              "uniqueCode": "11-243-01551-261154"
+            },
+            {
+              "name": "Suntaley (Sumbuk)",
+              "code": "261135",
+              "uniqueCode": "11-243-01551-261135"
+            },
+            {
+              "name": "Tanak",
+              "code": "261185",
+              "uniqueCode": "11-243-01551-261185"
+            },
+            {
+              "name": "Tangji",
+              "code": "261159",
+              "uniqueCode": "11-243-01551-261159"
+            },
+            {
+              "name": "Tarku",
+              "code": "261184",
+              "uniqueCode": "11-243-01551-261184"
+            },
+            {
+              "name": "Temi",
+              "code": "261183",
+              "uniqueCode": "11-243-01551-261183"
+            },
+            {
+              "name": "Temi Forest Block",
+              "code": "261196",
+              "uniqueCode": "11-243-01551-261196"
+            },
+            {
+              "name": "Temi Tea Estate",
+              "code": "261182",
+              "uniqueCode": "11-243-01551-261182"
+            },
+            {
+              "name": "Thangsing",
+              "code": "261177",
+              "uniqueCode": "11-243-01551-261177"
+            },
+            {
+              "name": "Tingrithang",
+              "code": "261111",
+              "uniqueCode": "11-243-01551-261111"
+            },
+            {
+              "name": "Tinik",
+              "code": "261119",
+              "uniqueCode": "11-243-01551-261119"
+            },
+            {
+              "name": "Tinzer",
+              "code": "261116",
+              "uniqueCode": "11-243-01551-261116"
+            },
+            {
+              "name": "Tokal",
+              "code": "261178",
+              "uniqueCode": "11-243-01551-261178"
+            },
+            {
+              "name": "Tokdey (Resep)",
+              "code": "261179",
+              "uniqueCode": "11-243-01551-261179"
+            },
+            {
+              "name": "Tsalumthang",
+              "code": "261190",
+              "uniqueCode": "11-243-01551-261190"
+            },
+            {
+              "name": "Turuk",
+              "code": "261148",
+              "uniqueCode": "11-243-01551-261148"
+            },
+            {
+              "name": "Turung",
+              "code": "261191",
+              "uniqueCode": "11-243-01551-261191"
+            },
+            {
+              "name": "Wak",
+              "code": "261107",
+              "uniqueCode": "11-243-01551-261107"
+            }
+          ]
+        },
+        {
+          "name": "Ravong",
+          "code": "01552",
+          "villages": [
+            {
+              "name": "Bakkhim",
+              "code": "261214",
+              "uniqueCode": "11-243-01552-261214"
+            },
+            {
+              "name": "Barfung",
+              "code": "261213",
+              "uniqueCode": "11-243-01552-261213"
+            },
+            {
+              "name": "Ben",
+              "code": "261246",
+              "uniqueCode": "11-243-01552-261246"
+            },
+            {
+              "name": "Brong",
+              "code": "261205",
+              "uniqueCode": "11-243-01552-261205"
+            },
+            {
+              "name": "Dalep",
+              "code": "261216",
+              "uniqueCode": "11-243-01552-261216"
+            },
+            {
+              "name": "Deu",
+              "code": "261247",
+              "uniqueCode": "11-243-01552-261247"
+            },
+            {
+              "name": "Deythang",
+              "code": "261211",
+              "uniqueCode": "11-243-01552-261211"
+            },
+            {
+              "name": "Gagyong",
+              "code": "261241",
+              "uniqueCode": "11-243-01552-261241"
+            },
+            {
+              "name": "Hingdam",
+              "code": "261219",
+              "uniqueCode": "11-243-01552-261219"
+            },
+            {
+              "name": "Kau",
+              "code": "261232",
+              "uniqueCode": "11-243-01552-261232"
+            },
+            {
+              "name": "Kewzing",
+              "code": "261215",
+              "uniqueCode": "11-243-01552-261215"
+            },
+            {
+              "name": "Kewzing Forest Block",
+              "code": "261252",
+              "uniqueCode": "11-243-01552-261252"
+            },
+            {
+              "name": "Kolthang",
+              "code": "261235",
+              "uniqueCode": "11-243-01552-261235"
+            },
+            {
+              "name": "Lamting",
+              "code": "261220",
+              "uniqueCode": "11-243-01552-261220"
+            },
+            {
+              "name": "Likship",
+              "code": "261218",
+              "uniqueCode": "11-243-01552-261218"
+            },
+            {
+              "name": "Lingdong",
+              "code": "261208",
+              "uniqueCode": "11-243-01552-261208"
+            },
+            {
+              "name": "Lingi",
+              "code": "261229",
+              "uniqueCode": "11-243-01552-261229"
+            },
+            {
+              "name": "Lingmo",
+              "code": "261233",
+              "uniqueCode": "11-243-01552-261233"
+            },
+            {
+              "name": "Lingmo Forest Block",
+              "code": "261248",
+              "uniqueCode": "11-243-01552-261248"
+            },
+            {
+              "name": "Lingzo",
+              "code": "261217",
+              "uniqueCode": "11-243-01552-261217"
+            },
+            {
+              "name": "Lower Paiyong",
+              "code": "261230",
+              "uniqueCode": "11-243-01552-261230"
+            },
+            {
+              "name": "Mangbrue",
+              "code": "261221",
+              "uniqueCode": "11-243-01552-261221"
+            },
+            {
+              "name": "Mangzing",
+              "code": "261237",
+              "uniqueCode": "11-243-01552-261237"
+            },
+            {
+              "name": "Namlung",
+              "code": "261207",
+              "uniqueCode": "11-243-01552-261207"
+            },
+            {
+              "name": "Namphok",
+              "code": "261240",
+              "uniqueCode": "11-243-01552-261240"
+            },
+            {
+              "name": "Namphrik",
+              "code": "261245",
+              "uniqueCode": "11-243-01552-261245"
+            },
+            {
+              "name": "Neh-Brum",
+              "code": "261238",
+              "uniqueCode": "11-243-01552-261238"
+            },
+            {
+              "name": "Pepthang",
+              "code": "261234",
+              "uniqueCode": "11-243-01552-261234"
+            },
+            {
+              "name": "Phamthang",
+              "code": "261204",
+              "uniqueCode": "11-243-01552-261204"
+            },
+            {
+              "name": "Poley",
+              "code": "261206",
+              "uniqueCode": "11-243-01552-261206"
+            },
+            {
+              "name": "Rabongla Forest Block",
+              "code": "261251",
+              "uniqueCode": "11-243-01552-261251"
+            },
+            {
+              "name": "Ralang Forest Block",
+              "code": "261250",
+              "uniqueCode": "11-243-01552-261250"
+            },
+            {
+              "name": "Ralong",
+              "code": "261209",
+              "uniqueCode": "11-243-01552-261209"
+            },
+            {
+              "name": "Ralong Monastery",
+              "code": "261210",
+              "uniqueCode": "11-243-01552-261210"
+            },
+            {
+              "name": "Rangang",
+              "code": "261242",
+              "uniqueCode": "11-243-01552-261242"
+            },
+            {
+              "name": "Ravong",
+              "code": "261227",
+              "uniqueCode": "11-243-01552-261227"
+            },
+            {
+              "name": "Rayong",
+              "code": "261225",
+              "uniqueCode": "11-243-01552-261225"
+            },
+            {
+              "name": "Sada",
+              "code": "261203",
+              "uniqueCode": "11-243-01552-261203"
+            },
+            {
+              "name": "Sanghanath",
+              "code": "261223",
+              "uniqueCode": "11-243-01552-261223"
+            },
+            {
+              "name": "Sangmo",
+              "code": "261226",
+              "uniqueCode": "11-243-01552-261226"
+            },
+            {
+              "name": "Satam",
+              "code": "261244",
+              "uniqueCode": "11-243-01552-261244"
+            },
+            {
+              "name": "Sokpay",
+              "code": "261228",
+              "uniqueCode": "11-243-01552-261228"
+            },
+            {
+              "name": "Sripatam",
+              "code": "261239",
+              "uniqueCode": "11-243-01552-261239"
+            },
+            {
+              "name": "Tingmo",
+              "code": "261222",
+              "uniqueCode": "11-243-01552-261222"
+            },
+            {
+              "name": "Tinkitam",
+              "code": "261224",
+              "uniqueCode": "11-243-01552-261224"
+            },
+            {
+              "name": "Tokday (Lingmo)",
+              "code": "261236",
+              "uniqueCode": "11-243-01552-261236"
+            },
+            {
+              "name": "Upper Paiyong",
+              "code": "261231",
+              "uniqueCode": "11-243-01552-261231"
+            },
+            {
+              "name": "Yangyang",
+              "code": "261243",
+              "uniqueCode": "11-243-01552-261243"
+            },
+            {
+              "name": "Yangyang Forest Block",
+              "code": "261249",
+              "uniqueCode": "11-243-01552-261249"
+            },
+            {
+              "name": "Zarung",
+              "code": "261212",
+              "uniqueCode": "11-243-01552-261212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West District",
+      "code": "242",
+      "talukas": [
+        {
+          "name": "Gyalshing",
+          "code": "01549",
+          "villages": [
+            {
+              "name": "Arithang",
+              "code": "261005",
+              "uniqueCode": "11-242-01549-261005"
+            },
+            {
+              "name": "Bangten",
+              "code": "261023",
+              "uniqueCode": "11-242-01549-261023"
+            },
+            {
+              "name": "Barnyak",
+              "code": "261039",
+              "uniqueCode": "11-242-01549-261039"
+            },
+            {
+              "name": "Barphok",
+              "code": "261041",
+              "uniqueCode": "11-242-01549-261041"
+            },
+            {
+              "name": "Barthang",
+              "code": "261040",
+              "uniqueCode": "11-242-01549-261040"
+            },
+            {
+              "name": "Begha",
+              "code": "261030",
+              "uniqueCode": "11-242-01549-261030"
+            },
+            {
+              "name": "Bernyak Forest Block",
+              "code": "261052",
+              "uniqueCode": "11-242-01549-261052"
+            },
+            {
+              "name": "Bhaluthang",
+              "code": "261003",
+              "uniqueCode": "11-242-01549-261003"
+            },
+            {
+              "name": "Chingthang",
+              "code": "261042",
+              "uniqueCode": "11-242-01549-261042"
+            },
+            {
+              "name": "Chongpung",
+              "code": "260999",
+              "uniqueCode": "11-242-01549-260999"
+            },
+            {
+              "name": "Chongrang",
+              "code": "261004",
+              "uniqueCode": "11-242-01549-261004"
+            },
+            {
+              "name": "Darap",
+              "code": "260995",
+              "uniqueCode": "11-242-01549-260995"
+            },
+            {
+              "name": "Dentam",
+              "code": "261032",
+              "uniqueCode": "11-242-01549-261032"
+            },
+            {
+              "name": "Dentam Forest Block",
+              "code": "261051",
+              "uniqueCode": "11-242-01549-261051"
+            },
+            {
+              "name": "Dhupidara",
+              "code": "261008",
+              "uniqueCode": "11-242-01549-261008"
+            },
+            {
+              "name": "Dubdi",
+              "code": "260980",
+              "uniqueCode": "11-242-01549-260980"
+            },
+            {
+              "name": "Gangyep",
+              "code": "261011",
+              "uniqueCode": "11-242-01549-261011"
+            },
+            {
+              "name": "Gerethang",
+              "code": "260982",
+              "uniqueCode": "11-242-01549-260982"
+            },
+            {
+              "name": "Gyalshing",
+              "code": "261015",
+              "uniqueCode": "11-242-01549-261015"
+            },
+            {
+              "name": "Gyalshing Forest Block",
+              "code": "261048",
+              "uniqueCode": "11-242-01549-261048"
+            },
+            {
+              "name": "Gyaten",
+              "code": "261026",
+              "uniqueCode": "11-242-01549-261026"
+            },
+            {
+              "name": "Hee",
+              "code": "261035",
+              "uniqueCode": "11-242-01549-261035"
+            },
+            {
+              "name": "Hee-Patal",
+              "code": "261036",
+              "uniqueCode": "11-242-01549-261036"
+            },
+            {
+              "name": "Karmatar",
+              "code": "261027",
+              "uniqueCode": "11-242-01549-261027"
+            },
+            {
+              "name": "Khachodpalri",
+              "code": "260985",
+              "uniqueCode": "11-242-01549-260985"
+            },
+            {
+              "name": "Khachodpalri Forest Block",
+              "code": "261046",
+              "uniqueCode": "11-242-01549-261046"
+            },
+            {
+              "name": "Kongri",
+              "code": "261006",
+              "uniqueCode": "11-242-01549-261006"
+            },
+            {
+              "name": "Kyonsda",
+              "code": "261016",
+              "uniqueCode": "11-242-01549-261016"
+            },
+            {
+              "name": "Labdang",
+              "code": "261007",
+              "uniqueCode": "11-242-01549-261007"
+            },
+            {
+              "name": "Labing",
+              "code": "260983",
+              "uniqueCode": "11-242-01549-260983"
+            },
+            {
+              "name": "Laso",
+              "code": "261012",
+              "uniqueCode": "11-242-01549-261012"
+            },
+            {
+              "name": "Legship Forest Block",
+              "code": "261050",
+              "uniqueCode": "11-242-01549-261050"
+            },
+            {
+              "name": "Liching",
+              "code": "261025",
+              "uniqueCode": "11-242-01549-261025"
+            },
+            {
+              "name": "Lingchom",
+              "code": "261019",
+              "uniqueCode": "11-242-01549-261019"
+            },
+            {
+              "name": "Lungzik",
+              "code": "261021",
+              "uniqueCode": "11-242-01549-261021"
+            },
+            {
+              "name": "Maneybung",
+              "code": "261029",
+              "uniqueCode": "11-242-01549-261029"
+            },
+            {
+              "name": "Mangmo",
+              "code": "261031",
+              "uniqueCode": "11-242-01549-261031"
+            },
+            {
+              "name": "Mangnam",
+              "code": "261010",
+              "uniqueCode": "11-242-01549-261010"
+            },
+            {
+              "name": "Martam",
+              "code": "261038",
+              "uniqueCode": "11-242-01549-261038"
+            },
+            {
+              "name": "Meli",
+              "code": "260988",
+              "uniqueCode": "11-242-01549-260988"
+            },
+            {
+              "name": "Meliaching",
+              "code": "260989",
+              "uniqueCode": "11-242-01549-260989"
+            },
+            {
+              "name": "Mengyong",
+              "code": "261043",
+              "uniqueCode": "11-242-01549-261043"
+            },
+            {
+              "name": "Miyong",
+              "code": "261044",
+              "uniqueCode": "11-242-01549-261044"
+            },
+            {
+              "name": "Naku",
+              "code": "260998",
+              "uniqueCode": "11-242-01549-260998"
+            },
+            {
+              "name": "Nambu",
+              "code": "260994",
+              "uniqueCode": "11-242-01549-260994"
+            },
+            {
+              "name": "Narkhola",
+              "code": "261009",
+              "uniqueCode": "11-242-01549-261009"
+            },
+            {
+              "name": "Pecherek",
+              "code": "261037",
+              "uniqueCode": "11-242-01549-261037"
+            },
+            {
+              "name": "Pelling Forest Blocks",
+              "code": "261049",
+              "uniqueCode": "11-242-01549-261049"
+            },
+            {
+              "name": "Pemayangtse Monastery",
+              "code": "261000",
+              "uniqueCode": "11-242-01549-261000"
+            },
+            {
+              "name": "Radukhandu",
+              "code": "261034",
+              "uniqueCode": "11-242-01549-261034"
+            },
+            {
+              "name": "Sangkhu",
+              "code": "261033",
+              "uniqueCode": "11-242-01549-261033"
+            },
+            {
+              "name": "Sapong",
+              "code": "261022",
+              "uniqueCode": "11-242-01549-261022"
+            },
+            {
+              "name": "Sardong",
+              "code": "261020",
+              "uniqueCode": "11-242-01549-261020"
+            },
+            {
+              "name": "Sindrang",
+              "code": "260996",
+              "uniqueCode": "11-242-01549-260996"
+            },
+            {
+              "name": "Singlitam",
+              "code": "260990",
+              "uniqueCode": "11-242-01549-260990"
+            },
+            {
+              "name": "Singrangpung",
+              "code": "260993",
+              "uniqueCode": "11-242-01549-260993"
+            },
+            {
+              "name": "Singyang",
+              "code": "260997",
+              "uniqueCode": "11-242-01549-260997"
+            },
+            {
+              "name": "Sopakha",
+              "code": "261028",
+              "uniqueCode": "11-242-01549-261028"
+            },
+            {
+              "name": "Srinagi",
+              "code": "261024",
+              "uniqueCode": "11-242-01549-261024"
+            },
+            {
+              "name": "Tashiding",
+              "code": "261013",
+              "uniqueCode": "11-242-01549-261013"
+            },
+            {
+              "name": "Tashiding Forest Block",
+              "code": "261047",
+              "uniqueCode": "11-242-01549-261047"
+            },
+            {
+              "name": "Tikjya",
+              "code": "261018",
+              "uniqueCode": "11-242-01549-261018"
+            },
+            {
+              "name": "Tingbrum",
+              "code": "260991",
+              "uniqueCode": "11-242-01549-260991"
+            },
+            {
+              "name": "Tingle I",
+              "code": "260986",
+              "uniqueCode": "11-242-01549-260986"
+            },
+            {
+              "name": "Tingle II",
+              "code": "260987",
+              "uniqueCode": "11-242-01549-260987"
+            },
+            {
+              "name": "Topung",
+              "code": "260992",
+              "uniqueCode": "11-242-01549-260992"
+            },
+            {
+              "name": "Tsozo",
+              "code": "260984",
+              "uniqueCode": "11-242-01549-260984"
+            },
+            {
+              "name": "Umchung",
+              "code": "261014",
+              "uniqueCode": "11-242-01549-261014"
+            },
+            {
+              "name": "Unglok",
+              "code": "261002",
+              "uniqueCode": "11-242-01549-261002"
+            },
+            {
+              "name": "Yangten",
+              "code": "261001",
+              "uniqueCode": "11-242-01549-261001"
+            },
+            {
+              "name": "Yangthang",
+              "code": "261017",
+              "uniqueCode": "11-242-01549-261017"
+            },
+            {
+              "name": "Yuksam",
+              "code": "260981",
+              "uniqueCode": "11-242-01549-260981"
+            },
+            {
+              "name": "Yuksam Forest Block",
+              "code": "261045",
+              "uniqueCode": "11-242-01549-261045"
+            }
+          ]
+        },
+        {
+          "name": "Soreng",
+          "code": "01550",
+          "villages": [
+            {
+              "name": "Aroobotey",
+              "code": "261075",
+              "uniqueCode": "11-242-01550-261075"
+            },
+            {
+              "name": "Bara-Samdong",
+              "code": "261060",
+              "uniqueCode": "11-242-01550-261060"
+            },
+            {
+              "name": "Bhareng",
+              "code": "261082",
+              "uniqueCode": "11-242-01550-261082"
+            },
+            {
+              "name": "Bum",
+              "code": "261058",
+              "uniqueCode": "11-242-01550-261058"
+            },
+            {
+              "name": "Burikhop(Dodok)",
+              "code": "261079",
+              "uniqueCode": "11-242-01550-261079"
+            },
+            {
+              "name": "Burikhop(Rumbuk)",
+              "code": "261080",
+              "uniqueCode": "11-242-01550-261080"
+            },
+            {
+              "name": "Chakung",
+              "code": "261097",
+              "uniqueCode": "11-242-01550-261097"
+            },
+            {
+              "name": "Chota-Samdong",
+              "code": "261076",
+              "uniqueCode": "11-242-01550-261076"
+            },
+            {
+              "name": "Chuchen",
+              "code": "261065",
+              "uniqueCode": "11-242-01550-261065"
+            },
+            {
+              "name": "Chumbong",
+              "code": "261098",
+              "uniqueCode": "11-242-01550-261098"
+            },
+            {
+              "name": "Deythang",
+              "code": "261062",
+              "uniqueCode": "11-242-01550-261062"
+            },
+            {
+              "name": "Dhalam(Daramden)",
+              "code": "261090",
+              "uniqueCode": "11-242-01550-261090"
+            },
+            {
+              "name": "Geling",
+              "code": "261072",
+              "uniqueCode": "11-242-01550-261072"
+            },
+            {
+              "name": "Hathidunga",
+              "code": "261057",
+              "uniqueCode": "11-242-01550-261057"
+            },
+            {
+              "name": "Hilley Forest Block",
+              "code": "261100",
+              "uniqueCode": "11-242-01550-261100"
+            },
+            {
+              "name": "Jeel",
+              "code": "261056",
+              "uniqueCode": "11-242-01550-261056"
+            },
+            {
+              "name": "Kamling",
+              "code": "261068",
+              "uniqueCode": "11-242-01550-261068"
+            },
+            {
+              "name": "Karthok",
+              "code": "261078",
+              "uniqueCode": "11-242-01550-261078"
+            },
+            {
+              "name": "Khanisherbung",
+              "code": "261074",
+              "uniqueCode": "11-242-01550-261074"
+            },
+            {
+              "name": "Longchok",
+              "code": "261088",
+              "uniqueCode": "11-242-01550-261088"
+            },
+            {
+              "name": "Lower Fambong",
+              "code": "261089",
+              "uniqueCode": "11-242-01550-261089"
+            },
+            {
+              "name": "Mabong",
+              "code": "261069",
+              "uniqueCode": "11-242-01550-261069"
+            },
+            {
+              "name": "Malbasey",
+              "code": "261095",
+              "uniqueCode": "11-242-01550-261095"
+            },
+            {
+              "name": "Mendo-Goan",
+              "code": "261096",
+              "uniqueCode": "11-242-01550-261096"
+            },
+            {
+              "name": "Nayabazar Forest Block",
+              "code": "261104",
+              "uniqueCode": "11-242-01550-261104"
+            },
+            {
+              "name": "Okhery",
+              "code": "261084",
+              "uniqueCode": "11-242-01550-261084"
+            },
+            {
+              "name": "Parrengaon",
+              "code": "261063",
+              "uniqueCode": "11-242-01550-261063"
+            },
+            {
+              "name": "Ribdi",
+              "code": "261083",
+              "uniqueCode": "11-242-01550-261083"
+            },
+            {
+              "name": "Rinchenpong",
+              "code": "261054",
+              "uniqueCode": "11-242-01550-261054"
+            },
+            {
+              "name": "Rishi",
+              "code": "261059",
+              "uniqueCode": "11-242-01550-261059"
+            },
+            {
+              "name": "Rumbuk",
+              "code": "261081",
+              "uniqueCode": "11-242-01550-261081"
+            },
+            {
+              "name": "Salyangdang",
+              "code": "261087",
+              "uniqueCode": "11-242-01550-261087"
+            },
+            {
+              "name": "Samsing",
+              "code": "261071",
+              "uniqueCode": "11-242-01550-261071"
+            },
+            {
+              "name": "Sangadorji",
+              "code": "261055",
+              "uniqueCode": "11-242-01550-261055"
+            },
+            {
+              "name": "Segeng",
+              "code": "261070",
+              "uniqueCode": "11-242-01550-261070"
+            },
+            {
+              "name": "Siktam",
+              "code": "261086",
+              "uniqueCode": "11-242-01550-261086"
+            },
+            {
+              "name": "Singling",
+              "code": "261077",
+              "uniqueCode": "11-242-01550-261077"
+            },
+            {
+              "name": "Sombaria Forest Block",
+              "code": "261101",
+              "uniqueCode": "11-242-01550-261101"
+            },
+            {
+              "name": "Soreng",
+              "code": "261094",
+              "uniqueCode": "11-242-01550-261094"
+            },
+            {
+              "name": "Soreng Forest Block",
+              "code": "261102",
+              "uniqueCode": "11-242-01550-261102"
+            },
+            {
+              "name": "Sribadam",
+              "code": "261061",
+              "uniqueCode": "11-242-01550-261061"
+            },
+            {
+              "name": "Sribadam Forest Block",
+              "code": "261103",
+              "uniqueCode": "11-242-01550-261103"
+            },
+            {
+              "name": "Suldung",
+              "code": "261067",
+              "uniqueCode": "11-242-01550-261067"
+            },
+            {
+              "name": "Suntaley",
+              "code": "261073",
+              "uniqueCode": "11-242-01550-261073"
+            },
+            {
+              "name": "Tadong}",
+              "code": "261053",
+              "uniqueCode": "11-242-01550-261053"
+            },
+            {
+              "name": "Takuthang",
+              "code": "261064",
+              "uniqueCode": "11-242-01550-261064"
+            },
+            {
+              "name": "Tharpu",
+              "code": "261093",
+              "uniqueCode": "11-242-01550-261093"
+            },
+            {
+              "name": "Tikpur",
+              "code": "261085",
+              "uniqueCode": "11-242-01550-261085"
+            },
+            {
+              "name": "Timberbong",
+              "code": "261092",
+              "uniqueCode": "11-242-01550-261092"
+            },
+            {
+              "name": "Tinzerbong",
+              "code": "261066",
+              "uniqueCode": "11-242-01550-261066"
+            },
+            {
+              "name": "Upper Fambong",
+              "code": "261091",
+              "uniqueCode": "11-242-01550-261091"
+            },
+            {
+              "name": "Zoom",
+              "code": "261099",
+              "uniqueCode": "11-242-01550-261099"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

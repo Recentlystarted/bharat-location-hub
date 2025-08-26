@@ -1,0 +1,13 @@
+{
+  "totalStates": 34,
+  "totalDistricts": 569,
+  "totalTalukas": 5679,
+  "totalVillages": 527467,
+  "lastUpdated": "2025-08-26T20:42:28.857Z",
+  "apiEndpoints": [
+    "GET /api/states.json",
+    "GET /api/states/{state-name}.json",
+    "GET /api/search/{letter}.json",
+    "GET /api/stats.json"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "letter": "Ü",
+  "locations": [
+    {
+      "stateName": "BIHAR",
+      "stateCode": "10",
+      "districtName": "Aurangabad",
+      "districtCode": "235",
+      "talukaName": "Nabinagar",
+      "talukaCode": "01483",
+      "villageName": "üAsni",
+      "villageCode": "253864",
+      "uniqueCode": "10-235-01483-253864",
+      "fullPath": "BIHAR > Aurangabad > Nabinagar > üAsni",
+      "searchText": "bihar aurangabad nabinagar üasni"
+    },
+    {
+      "stateName": "JHARKHAND",
+      "stateCode": "20",
+      "districtName": "Sahibganj",
+      "districtCode": "352",
+      "talukaName": "Mandro",
+      "talukaCode": "02565",
+      "villageName": "Üamdanr",
+      "villageCode": "358071",
+      "uniqueCode": "20-352-02565-358071",
+      "fullPath": "JHARKHAND > Sahibganj > Mandro > Üamdanr",
+      "searchText": "jharkhand sahibganj mandro üamdanr"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "state": "CHANDIGARH",
+  "code": "04",
+  "districts": [
+    {
+      "name": "Chandigarh",
+      "code": "055",
+      "talukas": [
+        {
+          "name": "Chandigarh",
+          "code": "00277",
+          "villages": [
+            {
+              "name": "Behlana (CT)",
+              "code": "040098",
+              "uniqueCode": "04-055-00277-040098"
+            },
+            {
+              "name": "Daria (CT)",
+              "code": "040096",
+              "uniqueCode": "04-055-00277-040096"
+            },
+            {
+              "name": "Dhanas",
+              "code": "040091",
+              "uniqueCode": "04-055-00277-040091"
+            },
+            {
+              "name": "Kaimbwala",
+              "code": "040089",
+              "uniqueCode": "04-055-00277-040089"
+            },
+            {
+              "name": "Khuda Alisher (CT)",
+              "code": "040094",
+              "uniqueCode": "04-055-00277-040094"
+            },
+            {
+              "name": "Khuda Jassu (OG)",
+              "code": "040100",
+              "uniqueCode": "04-055-00277-040100"
+            },
+            {
+              "name": "Lahora (OG)",
+              "code": "040099",
+              "uniqueCode": "04-055-00277-040099"
+            },
+            {
+              "name": "Mani Majra (R), Basti Kishangarh, Basti Bhagwanpura (CT)",
+              "code": "040095",
+              "uniqueCode": "04-055-00277-040095"
+            },
+            {
+              "name": "Mauli Jagran (CT)",
+              "code": "040097",
+              "uniqueCode": "04-055-00277-040097"
+            },
+            {
+              "name": "Raipur Kalan & Makhan Majra",
+              "code": "040093",
+              "uniqueCode": "04-055-00277-040093"
+            },
+            {
+              "name": "Raipur Khurd",
+              "code": "040092",
+              "uniqueCode": "04-055-00277-040092"
+            },
+            {
+              "name": "Sarangpur",
+              "code": "040090",
+              "uniqueCode": "04-055-00277-040090"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

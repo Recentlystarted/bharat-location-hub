@@ -1,0 +1,207 @@
+{
+  "state": "LAKSHADWEEP",
+  "code": "31",
+  "districts": [
+    {
+      "name": "Lakshadweep",
+      "code": "587",
+      "talukas": [
+        {
+          "name": "Agatti",
+          "code": "05626",
+          "villages": [
+            {
+              "name": "Agatti",
+              "code": "627044",
+              "uniqueCode": "31-587-05626-627044"
+            },
+            {
+              "name": "Bangaram",
+              "code": "627043",
+              "uniqueCode": "31-587-05626-627043"
+            },
+            {
+              "name": "Kalpitti",
+              "code": "627045",
+              "uniqueCode": "31-587-05626-627045"
+            },
+            {
+              "name": "Parali (I)",
+              "code": "627040",
+              "uniqueCode": "31-587-05626-627040"
+            },
+            {
+              "name": "Parali (II)",
+              "code": "627041",
+              "uniqueCode": "31-587-05626-627041"
+            },
+            {
+              "name": "Parali (III)",
+              "code": "627042",
+              "uniqueCode": "31-587-05626-627042"
+            },
+            {
+              "name": "Tinnakara",
+              "code": "627039",
+              "uniqueCode": "31-587-05626-627039"
+            }
+          ]
+        },
+        {
+          "name": "Amini",
+          "code": "05620",
+          "villages": [
+            {
+              "name": "Amini (CT)",
+              "code": "627030",
+              "uniqueCode": "31-587-05620-627030"
+            }
+          ]
+        },
+        {
+          "name": "Andrott",
+          "code": "05627",
+          "villages": [
+            {
+              "name": "Andrott (CT)",
+              "code": "627046",
+              "uniqueCode": "31-587-05627-627046"
+            }
+          ]
+        },
+        {
+          "name": "Bitra",
+          "code": "05621",
+          "villages": [
+            {
+              "name": "Bitra",
+              "code": "627031",
+              "uniqueCode": "31-587-05621-627031"
+            }
+          ]
+        },
+        {
+          "name": "Chetlat",
+          "code": "05622",
+          "villages": [
+            {
+              "name": "Chetlat",
+              "code": "627032",
+              "uniqueCode": "31-587-05622-627032"
+            }
+          ]
+        },
+        {
+          "name": "Kadmat",
+          "code": "05624",
+          "villages": [
+            {
+              "name": "Kadmat (CT)",
+              "code": "627034",
+              "uniqueCode": "31-587-05624-627034"
+            }
+          ]
+        },
+        {
+          "name": "Kalpeni",
+          "code": "05628",
+          "villages": [
+            {
+              "name": "Cheriyam",
+              "code": "627047",
+              "uniqueCode": "31-587-05628-627047"
+            },
+            {
+              "name": "Kalpeni (CT)",
+              "code": "627054",
+              "uniqueCode": "31-587-05628-627054"
+            },
+            {
+              "name": "Kodithala",
+              "code": "627048",
+              "uniqueCode": "31-587-05628-627048"
+            },
+            {
+              "name": "Pitti (I)",
+              "code": "627052",
+              "uniqueCode": "31-587-05628-627052"
+            },
+            {
+              "name": "Pitti (II)",
+              "code": "627053",
+              "uniqueCode": "31-587-05628-627053"
+            },
+            {
+              "name": "Tilakkam (I)",
+              "code": "627049",
+              "uniqueCode": "31-587-05628-627049"
+            },
+            {
+              "name": "Tilakkam (II)",
+              "code": "627050",
+              "uniqueCode": "31-587-05628-627050"
+            },
+            {
+              "name": "Tilakkam (III)",
+              "code": "627051",
+              "uniqueCode": "31-587-05628-627051"
+            }
+          ]
+        },
+        {
+          "name": "Kavaratti",
+          "code": "05625",
+          "villages": [
+            {
+              "name": "Kavaratti (CT)",
+              "code": "627038",
+              "uniqueCode": "31-587-05625-627038"
+            },
+            {
+              "name": "Pitti (Birds' Island)",
+              "code": "627035",
+              "uniqueCode": "31-587-05625-627035"
+            },
+            {
+              "name": "Suheli Cheriyakara",
+              "code": "627037",
+              "uniqueCode": "31-587-05625-627037"
+            },
+            {
+              "name": "Suheli Valiyakara",
+              "code": "627036",
+              "uniqueCode": "31-587-05625-627036"
+            }
+          ]
+        },
+        {
+          "name": "Kiltan",
+          "code": "05623",
+          "villages": [
+            {
+              "name": "Kiltan",
+              "code": "627033",
+              "uniqueCode": "31-587-05623-627033"
+            }
+          ]
+        },
+        {
+          "name": "Minicoy",
+          "code": "05629",
+          "villages": [
+            {
+              "name": "Minicoy (CT)",
+              "code": "627056",
+              "uniqueCode": "31-587-05629-627056"
+            },
+            {
+              "name": "Viringili",
+              "code": "627055",
+              "uniqueCode": "31-587-05629-627055"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
