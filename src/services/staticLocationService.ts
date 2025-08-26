@@ -321,47 +321,9 @@ export class LocationService {
   }
 
   private static async loadAllLocations(): Promise<void> {
-    // Load from localStorage first
-    const saved = localStorage.getItem('bharat-hub-locations');
-    if (saved) {
-      try {
-        this.localData = JSON.parse(saved);
-        return;
-      } catch (error) {
-        console.error('Failed to parse saved locations:', error);
-      }
-    }
-
-    // If no local data, load from API files
-    try {
-      const allLocations: Location[] = [];
-      
-      // Load search index files
-      const letters = 'abcdefghijklmnopqrstuvwxyz0123456789'.split('');
-      
-      for (const letter of letters) {
-        try {
-          const response = await fetch(`${this.baseUrl}/api/search/${letter}.json`);
-          if (response.ok) {
-            const data = await response.json();
-            if (data.locations) {
-              allLocations.push(...data.locations.map((loc: any, index: number) => ({
-                ...loc,
-                id: loc.id || `${letter}_${index}_${Date.now()}`
-              })));
-            }
-          }
-        } catch (error) {
-          // Skip if letter file doesn't exist
-          continue;
-        }
-      }
-
-      this.localData = allLocations;
-      await this.saveToLocalStorage();
-    } catch (error) {
-      console.error('Failed to load locations from API:', error);
-    }
+    // Don't load all data into localStorage due to quota limits
+    // Instead, we'll load data on-demand for searches
+    console.log('Location service initialized - data will be loaded on-demand');
   }
 
   private static async ensureDataLoaded(): Promise<void> {
@@ -371,11 +333,9 @@ export class LocationService {
   }
 
   private static async saveToLocalStorage(): Promise<void> {
-    try {
-      localStorage.setItem('bharat-hub-locations', JSON.stringify(this.localData));
-    } catch (error) {
-      console.error('Failed to save to localStorage:', error);
-    }
+    // Don't save to localStorage due to quota limits
+    // Only save small admin-specific data if needed
+    console.log('Skipping localStorage save due to quota limits');
   }
 
   private static generateUniqueCode(location: Location): string {
@@ -399,15 +359,29 @@ export class LocationService {
 
 // Simple Authentication Service
 export class AuthService {
-  private static readonly ADMIN_EMAIL = import.meta.env.VITE_ADMIN_EMAIL || 'support@office-toools.in';
+  private static readonly ADMIN_EMAIL = import.meta.env.VITE_ADMIN_EMAIL || 'support@office-tools.in';
   private static readonly ADMIN_PASSWORD = import.meta.env.VITE_ADMIN_PASSWORD || 'Ahmed@312024';
   private static readonly SESSION_KEY = 'bharat-hub-session';
+  private static readonly SESSION_DURATION = 24 * 60 * 60 * 1000; // 24 hours
+
+  static getDebugInfo() {
+    return {
+      envEmail: import.meta.env.VITE_ADMIN_EMAIL,
+      envPassword: import.meta.env.VITE_ADMIN_PASSWORD,
+      finalEmail: this.ADMIN_EMAIL,
+      finalPassword: this.ADMIN_PASSWORD
+    };
+  }
 
   static login(email: string, password: string): { success: boolean; error?: string } {
-    if (email === this.ADMIN_EMAIL && password === this.ADMIN_PASSWORD) {
+    // Debug environment variables
+    console.log('Auth Debug:', this.getDebugInfo());
+    
+    if (email.trim() === this.ADMIN_EMAIL && password === this.ADMIN_PASSWORD) {
       const session = {
-        email,
+        email: email.trim(),
         loginTime: new Date().toISOString(),
+        expiresAt: Date.now() + this.SESSION_DURATION,
         isAuthenticated: true
       };
       localStorage.setItem(this.SESSION_KEY, JSON.stringify(session));
@@ -416,7 +390,7 @@ export class AuthService {
     
     return { 
       success: false, 
-      error: 'Invalid email or password' 
+      error: 'Invalid credentials. Please check your email and password.' 
     };
   }
 
@@ -426,6 +400,13 @@ export class AuthService {
       if (!session) return false;
       
       const sessionData = JSON.parse(session);
+      
+      // Check if session expired
+      if (Date.now() > sessionData.expiresAt) {
+        this.logout();
+        return false;
+      }
+      
       return sessionData.isAuthenticated === true;
     } catch {
       return false;
@@ -434,6 +415,8 @@ export class AuthService {
 
   static getCurrentUser() {
     try {
+      if (!this.isAuthenticated()) return null;
+      
       const session = localStorage.getItem(this.SESSION_KEY);
       if (!session) return null;
       
@@ -445,6 +428,22 @@ export class AuthService {
 
   static logout() {
     localStorage.removeItem(this.SESSION_KEY);
+  }
+
+  // Extend session on activity
+  static extendSession(): void {
+    if (this.isAuthenticated()) {
+      const session = localStorage.getItem(this.SESSION_KEY);
+      if (session) {
+        try {
+          const sessionData = JSON.parse(session);
+          sessionData.expiresAt = Date.now() + this.SESSION_DURATION;
+          localStorage.setItem(this.SESSION_KEY, JSON.stringify(sessionData));
+        } catch {
+          this.logout();
+        }
+      }
+    }
   }
 }
 
