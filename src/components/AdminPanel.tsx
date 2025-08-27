@@ -74,7 +74,7 @@ export default function AdminPanel({ onLogout }: AdminPanelProps) {
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-8">
-          <div className="flex items-center justify-center">
+          <div className="flex items-center justify-between">
             <div>
               <h1 className="text-4xl font-bold text-foreground mb-2">
                 Admin Dashboard
@@ -83,6 +83,9 @@ export default function AdminPanel({ onLogout }: AdminPanelProps) {
                 Welcome to Bharat Location Hub administration panel
               </p>
             </div>
+            <Button variant="outline" onClick={onLogout}>
+              Logout
+            </Button>
           </div>
         </div>
 

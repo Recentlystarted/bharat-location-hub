@@ -321,11 +321,20 @@ export default function HomePage({ onNavigate }: HomePageProps) {
               Start integrating India's most comprehensive location API into your project today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="text-lg px-8 py-4">
+              <Button 
+                size="lg" 
+                className="text-lg px-8 py-4"
+                onClick={() => onNavigate?.('docs')}
+              >
                 <Code className="mr-2 h-5 w-5" />
                 View Documentation
               </Button>
-              <Button variant="outline" size="lg" className="text-lg px-8 py-4">
+              <Button 
+                variant="outline" 
+                size="lg" 
+                className="text-lg px-8 py-4"
+                onClick={() => onNavigate?.('search')}
+              >
                 <Zap className="mr-2 h-5 w-5" />
                 Try API Now
               </Button>
