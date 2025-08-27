@@ -396,6 +396,81 @@ export class LocationService {
     }
   }
 
+  // Get districts by state
+  static async getDistrictsByState(stateName: string): Promise<ApiResponse<string[]>> {
+    try {
+      await this.ensureDataLoaded();
+      
+      const districts = [...new Set(
+        this.localData
+          .filter(loc => loc.stateName.toLowerCase() === stateName.toLowerCase())
+          .map(loc => loc.districtName)
+      )].sort();
+
+      return {
+        success: true,
+        data: districts
+      };
+    } catch (error) {
+      return {
+        success: false,
+        error: 'Failed to fetch districts'
+      };
+    }
+  }
+
+  // Get talukas by district
+  static async getTalukasByDistrict(stateName: string, districtName: string): Promise<ApiResponse<string[]>> {
+    try {
+      await this.ensureDataLoaded();
+      
+      const talukas = [...new Set(
+        this.localData
+          .filter(loc => 
+            loc.stateName.toLowerCase() === stateName.toLowerCase() &&
+            loc.districtName.toLowerCase() === districtName.toLowerCase()
+          )
+          .map(loc => loc.talukaName)
+      )].sort();
+
+      return {
+        success: true,
+        data: talukas
+      };
+    } catch (error) {
+      return {
+        success: false,
+        error: 'Failed to fetch talukas'
+      };
+    }
+  }
+
+  // Get villages by taluka
+  static async getVillagesByTaluka(stateName: string, districtName: string, talukaName: string): Promise<ApiResponse<string[]>> {
+    try {
+      await this.ensureDataLoaded();
+      
+      const villages = this.localData
+        .filter(loc => 
+          loc.stateName.toLowerCase() === stateName.toLowerCase() &&
+          loc.districtName.toLowerCase() === districtName.toLowerCase() &&
+          loc.talukaName.toLowerCase() === talukaName.toLowerCase()
+        )
+        .map(loc => loc.villageName)
+        .sort();
+
+      return {
+        success: true,
+        data: villages
+      };
+    } catch (error) {
+      return {
+        success: false,
+        error: 'Failed to fetch villages'
+      };
+    }
+  }
+
   // ===== PRIVATE HELPER METHODS =====
 
   private static async loadStates(): Promise<void> {

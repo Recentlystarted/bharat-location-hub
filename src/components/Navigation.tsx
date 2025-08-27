@@ -4,7 +4,8 @@ import {
   BookOpen,
   LogIn,
   Settings,
-  Home
+  Home,
+  Search
 } from 'lucide-react';
 import { ThemeToggle } from '@/components/theme-toggle';
 import logoImage from '/logo.png';
@@ -49,6 +50,14 @@ export default function Navigation({ currentPage, user, onNavigate, onLogout }: 
               >
                 <BookOpen className="h-4 w-4" />
                 <span>API Docs</span>
+              </Button>
+              <Button 
+                variant={currentPage === 'search' ? 'default' : 'ghost'} 
+                onClick={() => onNavigate('search')}
+                className="flex items-center space-x-1"
+              >
+                <Search className="h-4 w-4" />
+                <span>Search</span>
               </Button>
               {user ? (
                 <Button 

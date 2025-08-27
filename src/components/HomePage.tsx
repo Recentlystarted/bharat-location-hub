@@ -1,227 +1,343 @@
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { 
   Search, 
+  MapPin, 
   Database, 
-  Shield, 
   Code, 
-  Users, 
-  Globe
+  Globe, 
+  TrendingUp,
+  Zap,
+  ArrowRight,
+  Star
 } from 'lucide-react';
-import { LocationService } from '../services/staticLocationService';
-import logoNameImage from '/logo-name.png';
+import { LocationService, type Location } from '../services/staticLocationService';
 
 interface HomePageProps {
-  onNavigate: (page: string) => void;
+  onNavigate?: (page: string) => void;
 }
 
 export default function HomePage({ onNavigate }: HomePageProps) {
-  const [stats, setStats] = useState<any>(null);
   const [searchQuery, setSearchQuery] = useState('');
-  const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [searchResults, setSearchResults] = useState<Location[]>([]);
   const [isSearching, setIsSearching] = useState(false);
+  const [stats, setStats] = useState({ states: 0, districts: 0, talukas: 0, villages: 0 });
 
   useEffect(() => {
+    const loadStats = async () => {
+      try {
+        const response = await LocationService.getStats();
+        if (response.success && response.data) {
+          setStats(response.data);
+        }
+      } catch (error) {
+        console.error('Failed to load stats:', error);
+      }
+    };
     loadStats();
   }, []);
-
-  const loadStats = async () => {
-    try {
-      const result = await LocationService.getStats();
-      if (result.success) {
-        setStats(result.data);
-      }
-    } catch (error) {
-      console.error('Error loading stats:', error);
-    }
-  };
 
   const handleSearch = async () => {
     if (!searchQuery.trim()) return;
     
     setIsSearching(true);
     try {
-      const result = await LocationService.searchLocations(searchQuery, 10);
-      
-      if (result.success) {
-        setSearchResults(result.data || []);
+      const response = await LocationService.searchLocations(searchQuery, 8);
+      if (response.success && response.data) {
+        setSearchResults(response.data);
       }
     } catch (error) {
-      console.error('Error searching:', error);
+      console.error('Search failed:', error);
     } finally {
       setIsSearching(false);
     }
   };
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-background to-secondary/20">
-      {/* Hero Section */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8">
-        <div className="container mx-auto text-center">
-          <div className="flex justify-center items-center mb-6">
-            <img 
-              src={logoNameImage} 
-              alt="Bharat Location Hub" 
-              className="h-16 md:h-20"
-            />
-          </div>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            Complete database of 500,000+ Indian locations with powerful API access
-          </p>
-          
-          {/* Search Section */}
-          <div className="max-w-2xl mx-auto mb-12">
-            <div className="flex flex-col sm:flex-row gap-4">
-              <Input
-                placeholder="Search for any location in India..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                onKeyPress={(e) => e.key === 'Enter' && handleSearch()}
-                className="flex-1 h-12 text-lg"
-              />
-              <Button 
-                onClick={handleSearch} 
-                disabled={isSearching}
-                className="h-12 px-8 text-lg"
-              >
-                <Search className="h-5 w-5 mr-2" />
-                {isSearching ? 'Searching...' : 'Search'}
-              </Button>
-            </div>
-          </div>
+  const popularSearches = ['Mumbai', 'Delhi', 'Bangalore', 'Chennai', 'Kolkata', 'Hyderabad'];
 
-          {/* Search Results */}
-          {searchResults.length > 0 && (
-            <div className="max-w-4xl mx-auto mb-12">
-              <h3 className="text-2xl font-semibold mb-6">Search Results</h3>
-              <div className="grid gap-4">
-                {searchResults.map((location, index) => (
-                  <Card key={index} className="text-left hover:shadow-lg transition-shadow">
-                    <CardContent className="p-6">
-                      <div className="flex items-center justify-between mb-2">
-                        <h4 className="text-lg font-semibold">{location.villageName}</h4>
-                        <Badge variant="secondary">{location.uniqueCode}</Badge>
-                      </div>
-                      <p className="text-muted-foreground">
-                        {location.stateName} → {location.districtName} → {location.talukaName}
-                      </p>
-                    </CardContent>
-                  </Card>
+  return (
+    <div className="min-h-screen bg-background">
+      {/* Hero Section */}
+      <div className="bg-card border-b">
+        <div className="container mx-auto px-4 py-16">
+          <div className="max-w-4xl mx-auto text-center">
+            <h1 className="text-6xl font-bold mb-6 text-foreground">
+              Bharat Location Hub
+            </h1>
+            <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+              Complete REST API for Indian geographical data. Access 500,000+ locations 
+              from villages to states with intelligent search and hierarchical navigation.
+            </p>
+            
+            {/* Interactive Search */}
+            <div className="bg-background p-6 rounded-lg border shadow-lg">
+              <div className="flex flex-col md:flex-row gap-4 mb-4">
+                <div className="flex-1">
+                  <Input
+                    type="text"
+                    placeholder="Search any location in India..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    onKeyPress={(e) => e.key === 'Enter' && handleSearch()}
+                    className="text-lg py-3"
+                  />
+                </div>
+                <Button 
+                  onClick={handleSearch} 
+                  disabled={isSearching}
+                  size="lg"
+                  className="px-8"
+                >
+                  <Search className="mr-2 h-5 w-5" />
+                  {isSearching ? 'Searching...' : 'Search'}
+                </Button>
+              </div>
+              
+              {/* Popular Searches */}
+              <div className="flex flex-wrap gap-2 justify-center mb-4">
+                <span className="text-sm text-muted-foreground">Popular:</span>
+                {popularSearches.map((search) => (
+                  <Button
+                    key={search}
+                    variant="outline"
+                    size="sm"
+                    onClick={() => {
+                      setSearchQuery(search);
+                      // Auto-search popular items
+                      LocationService.searchLocations(search, 8).then(response => {
+                        if (response.success && response.data) {
+                          setSearchResults(response.data);
+                        }
+                      });
+                    }}
+                    className="text-xs"
+                  >
+                    {search}
+                  </Button>
                 ))}
               </div>
+
+              {/* Search Results */}
+              {searchResults.length > 0 && (
+                <div className="mt-6 p-4 bg-secondary rounded-lg">
+                  <h3 className="font-semibold mb-3 text-foreground">Search Results</h3>
+                  <div className="grid md:grid-cols-2 gap-3">
+                    {searchResults.slice(0, 6).map((result, index) => (
+                      <div key={index} className="flex items-center space-x-3 p-3 bg-background rounded border">
+                        <MapPin className="h-4 w-4 text-primary flex-shrink-0" />
+                        <div className="min-w-0 flex-1">
+                          <div className="font-medium text-foreground truncate">{result.villageName}</div>
+                          <div className="text-sm text-muted-foreground">{result.talukaName}, {result.districtName}</div>
+                        </div>
+                        <Badge variant="secondary" className="text-xs">
+                          {result.stateName}
+                        </Badge>
+                      </div>
+                    ))}
+                  </div>
+                  {searchResults.length > 6 && (
+                    <p className="text-sm text-muted-foreground mt-3 text-center">
+                      +{searchResults.length - 6} more results...
+                    </p>
+                  )}
+                </div>
+              )}
             </div>
-          )}
-
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" onClick={() => onNavigate('docs')} className="flex items-center space-x-2">
-              <Code className="h-5 w-5" />
-              <span>Explore API</span>
-            </Button>
-            <Button size="lg" variant="outline" onClick={() => onNavigate('login')} className="flex items-center space-x-2">
-              <Shield className="h-5 w-5" />
-              <span>Admin Access</span>
-            </Button>
           </div>
-        </div>
-      </section>
-
-    {/* Features Section */}
-    <section className="py-16 px-4 sm:px-6 lg:px-8">
-      <div className="container mx-auto">
-        <h2 className="text-3xl font-bold text-center mb-12">Why Choose Our Platform?</h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Database className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>500K+ Locations</CardTitle>
-              <CardDescription>
-                Complete database covering every state, district, taluka, and village in India
-              </CardDescription>
-            </CardHeader>
-          </Card>
-
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Globe className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>API Access</CardTitle>
-              <CardDescription>
-                Easy integration with any web or mobile application using our API
-              </CardDescription>
-            </CardHeader>
-          </Card>
-
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Search className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>Smart Search</CardTitle>
-              <CardDescription>
-                Fast and intelligent search across all locations with real-time results
-              </CardDescription>
-            </CardHeader>
-          </Card>
-
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Shield className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>Secure & Reliable</CardTitle>
-              <CardDescription>
-                Enterprise-grade security with 99.9% uptime guarantee
-              </CardDescription>
-            </CardHeader>
-          </Card>
-
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Users className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>Admin Panel</CardTitle>
-              <CardDescription>
-                Complete management system for adding, editing, and organizing locations
-              </CardDescription>
-            </CardHeader>
-          </Card>
-
-          <Card className="hover:shadow-lg transition-shadow">
-            <CardHeader>
-              <Code className="h-12 w-12 text-primary mb-4" />
-              <CardTitle>Developer Friendly</CardTitle>
-              <CardDescription>
-                Comprehensive documentation and easy-to-use API endpoints
-              </CardDescription>
-            </CardHeader>
-          </Card>
         </div>
       </div>
-    </section>
 
-      {/* Statistics Section */}
-      {stats && (
-        <section className="py-16 px-4 sm:px-6 lg:px-8 bg-secondary/10">
-          <div className="container mx-auto text-center">
-            <h2 className="text-3xl font-bold mb-12">Platform Statistics</h2>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-              <div>
-                <div className="text-4xl font-bold text-primary mb-2">{stats.totalStates}</div>
-                <div className="text-muted-foreground">States</div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-primary mb-2">{stats.totalDistricts}</div>
-                <div className="text-muted-foreground">Districts</div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-primary mb-2">{stats.totalTalukas}</div>
-                <div className="text-muted-foreground">Talukas</div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-primary mb-2">{stats.totalVillages?.toLocaleString()}</div>
-                <div className="text-muted-foreground">Villages</div>
-              </div>
+      {/* Stats Section */}
+      <div className="py-16 bg-secondary/50">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-bold text-center mb-12 text-foreground">
+              Comprehensive Geographic Coverage
+            </h2>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+              <Card className="text-center">
+                <CardHeader className="pb-3">
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                    <Globe className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="text-2xl text-primary">{stats.states}</CardTitle>
+                  <CardDescription>States & UTs</CardDescription>
+                </CardHeader>
+              </Card>
+              
+              <Card className="text-center">
+                <CardHeader className="pb-3">
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                    <MapPin className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="text-2xl text-primary">{stats.districts}</CardTitle>
+                  <CardDescription>Districts</CardDescription>
+                </CardHeader>
+              </Card>
+              
+              <Card className="text-center">
+                <CardHeader className="pb-3">
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                    <TrendingUp className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="text-2xl text-primary">{stats.talukas}</CardTitle>
+                  <CardDescription>Talukas</CardDescription>
+                </CardHeader>
+              </Card>
+              
+              <Card className="text-center">
+                <CardHeader className="pb-3">
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mx-auto mb-4 flex items-center justify-center">
+                    <Database className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="text-2xl text-primary">{(stats.villages || 0).toLocaleString()}</CardTitle>
+                  <CardDescription>Villages</CardDescription>
+                </CardHeader>
+              </Card>
             </div>
           </div>
-        </section>
-      )}
+        </div>
+      </div>
+
+      {/* Features Section */}
+      <div className="py-16">
+        <div className="container mx-auto px-4">
+          <div className="max-w-6xl mx-auto">
+            <h2 className="text-3xl font-bold text-center mb-12 text-foreground">
+              Perfect for Your Next Project
+            </h2>
+            <div className="grid md:grid-cols-3 gap-8">
+              <Card className="border-primary/20 hover:border-primary/50 transition-colors">
+                <CardHeader>
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mb-4 flex items-center justify-center">
+                    <Search className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="flex items-center space-x-2">
+                    <span>Intelligent Search</span>
+                    <Star className="h-4 w-4 text-yellow-500" />
+                  </CardTitle>
+                  <CardDescription>
+                    Fuzzy matching algorithm finds locations even with typos. 
+                    Relevance-based sorting ensures best results first.
+                  </CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="space-y-2 text-sm">
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Handles misspellings</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Smart relevance scoring</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Lightning fast results</span>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+
+              <Card className="border-primary/20 hover:border-primary/50 transition-colors">
+                <CardHeader>
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mb-4 flex items-center justify-center">
+                    <Database className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="flex items-center space-x-2">
+                    <span>Hierarchical Data</span>
+                    <Star className="h-4 w-4 text-yellow-500" />
+                  </CardTitle>
+                  <CardDescription>
+                    Navigate through India's administrative structure seamlessly. 
+                    Perfect for building location dropdowns and forms.
+                  </CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="space-y-2 text-sm">
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">State → District → Taluka → Village</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Consistent JSON structure</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Optimized for dropdowns</span>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+
+              <Card className="border-primary/20 hover:border-primary/50 transition-colors">
+                <CardHeader>
+                  <div className="bg-primary/10 p-4 rounded-full w-16 h-16 mb-4 flex items-center justify-center">
+                    <Code className="h-8 w-8 text-primary" />
+                  </div>
+                  <CardTitle className="flex items-center space-x-2">
+                    <span>Developer Friendly</span>
+                    <Star className="h-4 w-4 text-yellow-500" />
+                  </CardTitle>
+                  <CardDescription>
+                    RESTful API design with comprehensive documentation. 
+                    Works with any programming language or framework.
+                  </CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="space-y-2 text-sm">
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">No authentication required</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">CORS enabled</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <ArrowRight className="h-3 w-3 text-primary" />
+                      <span className="text-muted-foreground">Rate limit friendly</span>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* CTA Section */}
+      <div className="bg-primary/5 py-16">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-3xl font-bold mb-4 text-foreground">
+              Ready to Build Something Amazing?
+            </h2>
+            <p className="text-lg text-muted-foreground mb-8">
+              Start integrating India's most comprehensive location API into your project today.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Button size="lg" className="text-lg px-8 py-4">
+                <Code className="mr-2 h-5 w-5" />
+                View Documentation
+              </Button>
+              <Button variant="outline" size="lg" className="text-lg px-8 py-4">
+                <Zap className="mr-2 h-5 w-5" />
+                Try API Now
+              </Button>
+            </div>
+            <div className="mt-8 p-4 bg-background rounded-lg border">
+              <code className="text-primary font-mono text-sm">
+                curl https://india-location-hub.in/api/search?q=mumbai
+              </code>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

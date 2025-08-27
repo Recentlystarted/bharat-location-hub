@@ -23,9 +23,19 @@ export class AuthService {
 
   // Get admin credentials from environment
   private static getAdminCredentials() {
+    // Use the GitHub secrets you already have
+    const envEmail = import.meta.env.VITE_ADMIN_EMAIL;
+    const envPassword = import.meta.env.VITE_ADMIN_PASSWORD;
+    
+    console.log('AuthService: Environment check:', { 
+      hasEmail: !!envEmail, 
+      hasPassword: !!envPassword 
+    });
+    
+    // Use your existing credentials as fallback
     return {
-      email: import.meta.env.VITE_ADMIN_EMAIL || 'support@office-toools.in',
-      password: import.meta.env.VITE_ADMIN_PASSWORD || 'Ahmed@312024'
+      email: envEmail || 'support@office-tools.in',
+      password: envPassword || 'Ahmed@312024'
     };
   }
 
@@ -34,7 +44,13 @@ export class AuthService {
    */
   static async signIn(email: string, password: string): Promise<AuthResponse> {
     try {
+      console.log('AuthService: Attempting login with:', { email, password: '***' });
       const credentials = this.getAdminCredentials();
+      console.log('AuthService: Using credentials:', { 
+        email: credentials.email, 
+        password: '***',
+        match: email === credentials.email && password === credentials.password 
+      });
       
       if (email === credentials.email && password === credentials.password) {
         const adminUser: AdminUser = {
@@ -54,18 +70,21 @@ export class AuthService {
         };
         
         localStorage.setItem(this.STORAGE_KEY, JSON.stringify(authData));
+        console.log('AuthService: Login successful, user stored:', adminUser);
 
         return {
           success: true,
           user: adminUser
         };
       } else {
+        console.log('AuthService: Login failed - invalid credentials');
         return {
           success: false,
           error: 'Invalid email or password'
         };
       }
     } catch (error) {
+      console.error('AuthService: Login error:', error);
       return {
         success: false,
         error: error instanceof Error ? error.message : 'Failed to sign in'
